@@ -1,0 +1,519 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "ISV2211"
+intitule_ue = "Introduction aux Sciences de la Vie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr FANTODJI Agathe"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ISV22111"
+  intitule_ecue = "Biologie Moléculaire et Cellulaire"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ISV22112"
+  intitule_ecue = "Physiologie Médicale"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BCM2211"
+intitule_ue = "Biochimie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KOUADIO Parfait, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BCM22111"
+  intitule_ecue = "Biochimie 1"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BCM22112"
+  intitule_ecue = "Biochimie 2"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "RHE2211"
+intitule_ue = "Rheologie"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE22111"
+  intitule_ecue = "Concepts de Base"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE22112"
+  intitule_ecue = "Applications"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "ELS2211"
+intitule_ue = "Elasticité"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr MemeLEDJE G. Jean"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELS2211"
+  intitule_ecue = "Elasticité"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "SPE2211"
+intitule_ue = "Spectroscopie"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr YAO Rita"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SPE2211"
+  intitule_ecue = "Spectroscopie"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "POO2211"
+intitule_ue = "Propagation des ondes dans les millieux biologiques"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr BIBILA Misseyou, MC / Pr ACHY Ossey Bertin"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "POO22111"
+  intitule_ecue = "Concepts généraux"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "POO22112"
+  intitule_ecue = "Applications (Imagerie, chirurgie micro invasive, écholocation, etc.)"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "TPI2211"
+intitule_ue = "Thermodynamique des Processus Irréversibles"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr MemeLEDJE G. Jean"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPI22111"
+  intitule_ecue = "Généralités"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPI22112"
+  intitule_ecue = "Concepts avancés"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 360
+td = 0
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "BIM2212"
+intitule_ue = "Biophysique Moléculaire"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIM22121"
+  intitule_ecue = "Macromolécules, Conformation et Dynamique"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIM22122"
+  intitule_ecue = "Structures Organisées"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "VIO2212"
+intitule_ue = "Vision par Ordinateur (Imagerie biologique, traitement d'image)"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KONE Tiemonan, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIO22121"
+  intitule_ecue = "Traitement d'Image"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIO22122"
+  intitule_ecue = "Imagerie Biologique"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MBI2212"
+intitule_ue = "Milieux Biologiques (MB)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MBI22121"
+  intitule_ecue = "Electricité des MB"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MBI22122"
+  intitule_ecue = "Magnétisme des MB"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MBI22123"
+  intitule_ecue = "Systèmes Biologiques"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "ELI2212"
+intitule_ue = "Electronique d'instruments-Capteur/ Instrumentation d'analyse Médicale"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KOUASSI Léonce, MC / Pr ACHY Ossey Bertin"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ELI22121"
+  intitule_ecue = "Electronique d'instruments-Capteur"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ELI22122"
+  intitule_ecue = "Instrumentation d'analyse Médicale"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "BIC2212"
+intitule_ue = "Biophysique cellulaire"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr MEGNASSAN Eugène"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BIC22121"
+  intitule_ecue = "La Cellule"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BIC22122"
+  intitule_ecue = "Biophysique de la cellule"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PRT2212"
+intitule_ue = "Projet tutoré"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr MEGNASSAN Eugène"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PRT2212"
+  intitule_ecue = "Projet tutoré"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 72
+  total_he = 72
+  tpe = 78
+  ctt = 150
+  credit_ecue = 6
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CRI2212"
+intitule_ue = "Cristallographie"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr BIBILA Misseyou, MC"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CRI2212"
+  intitule_ecue = "Cristallographie"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "MSC2211"
+intitule_ue = "Modélisation des Systèmes Complexes"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "MSC2211"
+  intitule_ecue = "Modélisation des Systèmes Complexes"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 264
+td = 0
+tp = 0
+projet = 72
+total_he = 336
+tpe = 364
+ctt = 700
+credit_total = 30

@@ -1,0 +1,221 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Spécialité: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+specialite = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BAF2311"
+intitule_ue = "Bases de l'Analyse Fonctionnelle et topologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BAF23111"
+  intitule_ecue = "Topologie avancée"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BAF23112"
+  intitule_ecue = "Espaces de Hilbert"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PRO2311"
+intitule_ue = "Probabilités"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRO23111"
+  intitule_ecue = "Compléments sur les lois de Probabilité"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRO23112"
+  intitule_ecue = "Chaîne de Markov"
+
+[[semestre_1.ue_specialite_statistique]]
+code_ue = "MST2311"
+intitule_ue = "Statistique (Choix 1)"
+
+  [[semestre_1.ue_specialite_statistique.ecue]]
+  code_ecue = "MST23111"
+  intitule_ecue = "Problèmes d'estimation et modèle exponentiel"
+
+  [[semestre_1.ue_specialite_statistique.ecue]]
+  code_ecue = "MST23112"
+  intitule_ecue = "Tests d'Hypothèses"
+
+[[semestre_1.ue_specialite_analyse_convexe]]
+code_ue = "ANC2311"
+intitule_ue = "Analyse convexe (Choix 2)"
+
+  [[semestre_1.ue_specialite_analyse_convexe.ecue]]
+  code_ecue = "ANC23111"
+  intitule_ecue = "Ensembles convexes et cônes"
+
+  [[semestre_1.ue_specialite_analyse_convexe.ecue]]
+  code_ecue = "ANC23112"
+  intitule_ecue = "Généralités sur les fonctions convexes et caractérisation"
+
+[[semestre_1.ue_specialite_theorie_modules]]
+code_ue = "TMO2311"
+intitule_ue = "Théorie des modules (Choix 3)"
+
+  [[semestre_1.ue_specialite_theorie_modules.ecue]]
+  code_ecue = "TMO23111"
+  intitule_ecue = "Théorie des Idéaux et modules"
+
+  [[semestre_1.ue_specialite_theorie_modules.ecue]]
+  code_ecue = "TMO23112"
+  intitule_ecue = "Anneaux de polynômes et de séries formelles"
+
+[[semestre_1.ue_specialite_edp]]
+code_ue = "EDP2311"
+intitule_ue = "EDP sémi linéaire ou non (Choix 4)"
+
+  [[semestre_1.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23111"
+  intitule_ecue = "EDP semi linéaire"
+
+  [[semestre_1.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23112"
+  intitule_ecue = "Equations de Schröinger"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "ALG2311"
+intitule_ue = "Alarithmès Avancés"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ALG2311"
+  intitule_ecue = "Alarithmès Avancés"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CRY2311"
+intitule_ue = "Cryptographie"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CRY2311"
+  intitule_ecue = "Cryptographie"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANS2311"
+intitule_ue = "Anglais"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANS2311"
+  intitule_ecue = "Anglais"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Spécialité: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+specialite = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "AFA2312"
+intitule_ue = "Analyse Fonctionnelle Approfondie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AFA23121"
+  intitule_ecue = "Théorèmes Fondamentaux de l'Analyse fonctionnelle"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AFA23122"
+  intitule_ecue = "Mesures Complexes et de Radon - Transformation de Fourier"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PRA2312"
+intitule_ue = "Probabilités Avancées"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRA23121"
+  intitule_ecue = "Eléments de théorie des Martingales"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRA23122"
+  intitule_ecue = "Algorithms stochastices de résolution de problèmes"
+
+[[semestre_2.ue_specialite_statistique]]
+code_ue = "STA2312"
+intitule_ue = "Statistique approfondie (Choix 1)"
+
+  [[semestre_2.ue_specialite_statistique.ecue]]
+  code_ecue = "STA23121"
+  intitule_ecue = "Procedures non paramétriques - Théorèmes fondamentaux"
+
+  [[semestre_2.ue_specialite_statistique.ecue]]
+  code_ecue = "STA23122"
+  intitule_ecue = "Statistique séquentiable"
+
+[[semestre_2.ue_specialite_optimisation]]
+code_ue = "OPT2312"
+intitule_ue = "Optimisation (Choix 2)"
+
+  [[semestre_2.ue_specialite_optimisation.ecue]]
+  code_ecue = "OPT23121"
+  intitule_ecue = "Conditions d'Optimalité sans Contraintes"
+
+  [[semestre_2.ue_specialite_optimisation.ecue]]
+  code_ecue = "OPT23122"
+  intitule_ecue = "Conditions d'Optimalité sous contraintes et Programmation linéaire"
+
+[[semestre_2.ue_specialite_localisation]]
+code_ue = "LOF2312"
+intitule_ue = "Localisation et conditions de chaînes (Choix 3)"
+
+  [[semestre_2.ue_specialite_localisation.ecue]]
+  code_ecue = "LOF23121"
+  intitule_ecue = "Anneaux et modules de fractions, localisation"
+
+  [[semestre_2.ue_specialite_localisation.ecue]]
+  code_ecue = "LOF23122"
+  intitule_ecue = "Anneaux et modules noethériens, artiniens"
+
+[[semestre_2.ue_specialite_edp]]
+code_ue = "EDS2312"
+intitule_ue = "Existence des solutions (Choix 4)"
+
+  [[semestre_2.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23121"
+  intitule_ecue = "Existence locale (resp globale) Explosion comportement asymptotique"
+
+  [[semestre_2.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23122"
+  intitule_ecue = "Méthodes des differences finies"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "INF2312"
+intitule_ue = "Informatique"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "INF2312"
+  intitule_ecue = "Informatique"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2312"
+intitule_ue = "Anglais"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2312"
+  intitule_ecue = "Anglais"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2312"
+intitule_ue = "Entrepreneuriat"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2312"
+  intitule_ecue = "Entrepreneuriat"

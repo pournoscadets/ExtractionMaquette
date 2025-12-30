@@ -1,0 +1,193 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: PHOTONIQUE
+# Spécialité: PHOTONIQUE
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "PHOTONIQUE"
+specialite = "PHOTONIQUE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PHS2221"
+intitule_ue = "Physique du Solide"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHS22211"
+  intitule_ecue = "Structures cristallines"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHS22212"
+  intitule_ecue = "Propriétés électroniques"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IRM2221"
+intitule_ue = "Interactions Rayonnements-Matière"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IRM22211"
+  intitule_ecue = "Rayonnements"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IRM22212"
+  intitule_ecue = "Interactions"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "SIG2221"
+intitule_ue = "Signaux"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SIG22211"
+  intitule_ecue = "Traitement de Signaux"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SIG22212"
+  intitule_ecue = "Analyse de Signaux"
+
+[[semestre_1.ue_specialite]]
+code_ue = "TMI2221"
+intitule_ue = "Technique en Microscopie"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "TMI22211"
+  intitule_ecue = "Microscopie de fluorescence"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "TMI22212"
+  intitule_ecue = "Microscopie à contraste de phase"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "ASM2221"
+intitule_ue = "Analyse Statistique Multivariée"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ASM22211"
+  intitule_ecue = "Planification expérimentale"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ASM22212"
+  intitule_ecue = "Analyse Multivariable de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "MNL2221"
+intitule_ue = "Méthode Numérique et Logiciels Scientifiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "MNL2221"
+  intitule_ecue = "Méthode Numérique et Logiciels Scientifiques"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "UEL2221"
+intitule_ue = "UE Libre"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "UEL2221"
+  intitule_ecue = "UE Libre"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: PHOTONIQUE
+# Spécialité: PHOTONIQUE
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "PHOTONIQUE"
+specialite = "PHOTONIQUE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "CRT2222"
+intitule_ue = "Cristallographie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CRT22221"
+  intitule_ecue = "Structures"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CRT22222"
+  intitule_ecue = "Applications"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "SPE2222"
+intitule_ue = "Spectroscopie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SPE22221"
+  intitule_ecue = "Spectroscopie d'absorption et d'émission atomique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SPE22222"
+  intitule_ecue = "Spectroscopie de fluorescence (UV). Spectrométrie de masse"
+
+[[semestre_2.ue_specialite]]
+code_ue = "NAN2222"
+intitule_ue = "Nanostructures et Nanophysique"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAN22221"
+  intitule_ecue = "Nanostructure"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAN22222"
+  intitule_ecue = "Nanophysique"
+
+[[semestre_2.ue_specialite]]
+code_ue = "OQO2222"
+intitule_ue = "Optique Quantique et Optoélectronique"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "OQO22221"
+  intitule_ecue = "Optique quantique"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "OQO22222"
+  intitule_ecue = "Optoélectronique"
+
+[[semestre_2.ue_specialite]]
+code_ue = "IMA2222"
+intitule_ue = "Imagerie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "IMA2222"
+  intitule_ecue = "Imagerie"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "IOF2222"
+intitule_ue = "Introduction à l'Optique de Fourier"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IOF2222"
+  intitule_ecue = "Introduction à l'Optique de Fourier"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "RDS2222"
+intitule_ue = "Réduction Scientifique"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "RDS2222"
+  intitule_ecue = "Réduction Scientifique"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2222"
+intitule_ue = "Entrepreneuriat"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2222"
+  intitule_ecue = "Entrepreneuriat"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANS2222"
+intitule_ue = "Anglais"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANS2222"
+  intitule_ecue = "Anglais"

@@ -1,0 +1,472 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MAN2103"
+intitule_ue = "Intégrations et Séries"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN21031"
+  intitule_ecue = "Intégrales généralisées et Séries de fonctions"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN21032"
+  intitule_ecue = "Séries entières-Séries de Fourier"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CHO2103"
+intitule_ue = "Chimie Organique 1"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr MAMYRBEKOVA Janat épse BEKRO"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO21031"
+  intitule_ecue = "Hydrocarbures"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO21032"
+  intitule_ecue = "Composés organiques fonctici"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CHM2103"
+intitule_ue = "Chimie Minérale"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr EKOU Tchrioua, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHM21031"
+  intitule_ecue = "Classification des éléments chimiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHM21032"
+  intitule_ecue = "Propriétés des éléments chimiques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PBS2103"
+intitule_ue = "Probabilité- Statistique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr OUATTARA Mory, MA"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PBS21031"
+  intitule_ecue = "Probabilités"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PBS21032"
+  intitule_ecue = "Statistique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "INP2103"
+intitule_ue = "Introduction à la programmation"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr OUATTARA Mory"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "INP2103"
+  intitule_ecue = "Introduction à la programmation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MSP2103"
+intitule_ue = "Mathématiques pour les Sciences-Physiques"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MSP2103"
+  intitule_ecue = "Mathématiques pour les Sciences-Physiques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2103"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2103"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 180
+td = 180
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 4
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MEM2104"
+intitule_ue = "Mécanique des Systèmes"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr BOUO Bella, MC"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEM21041"
+  intitule_ecue = "Eléments de base de la mécanique des systèmes"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEM21042"
+  intitule_ecue = "Applications aux systèmes matériels"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "ELE2104"
+intitule_ue = "Electromagnétisme"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KEITA Mélalie, MC"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELE2104"
+  intitule_ecue = "Electromagnétisme"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "OPO2104"
+intitule_ue = "Optique Ondulatoire"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr BOSSON Joceline, MC"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPO2104"
+  intitule_ecue = "Optique Ondulatoire"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "PMQ2104"
+intitule_ue = "Mécanique Quantique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr MOUSSE Logbo, MC"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PMQ21041"
+  intitule_ecue = "Notions de base"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PMQ21042"
+  intitule_ecue = "Applications"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "PTH2104"
+intitule_ue = "Thermodynamique Physique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr BOUO Bella, MC"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PTH21041"
+  intitule_ecue = "Principes de la thermodynamie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PTH21042"
+  intitule_ecue = "Applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "PHP2104"
+intitule_ue = "Physique Pratique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "PHP2104"
+  intitule_ecue = "Physique Pratique"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "CHP2104"
+intitule_ue = "Chimie Pratique"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr BOUA Boua Benson, MC"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "CHP21041"
+  intitule_ecue = "Chimie Générale"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "CHP21042"
+  intitule_ecue = "Chimie Organique"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_culture_generale]]
+code_ue = "UEL2104"
+intitule_ue = "UE Libre"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr BENIE Anoubile, MC"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "UEL2104"
+  intitule_ecue = "UE Libre"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_4.total]
+cm = 150
+td = 138
+tp = 72
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

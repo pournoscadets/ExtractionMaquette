@@ -1,0 +1,505 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "COA2121"
+intitule_ue = "Chimie organique avancée"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Pr MAMYRBEKOVA Janat épse BEKRO"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COA21211"
+  intitule_ecue = "Réactivités des systèmes conjugés"
+  cm = 12
+  td = 12
+  tp = 12
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COA21212"
+  intitule_ecue = "Chimie des énotates. Réamenagement"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "COP2121"
+intitule_ue = "Chimie Organique Physique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KODJO Charles, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COP2121"
+  intitule_ecue = "Chimie Organique Physique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "GFP2121"
+intitule_ue = "Grandes familles des plantes Médicinales"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr MALAN, MC / Pr NEUBA"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GFP2121"
+  intitule_ecue = "Grandes familles des plantes Médicinales"
+  cm = 24
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 48
+  tpe = 52
+  ctt = 100
+  credit_ecue = 4
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "RPE2121"
+intitule_ue = "Résonance Paramagnétique Electronique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KODJO Charles, MC"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RPE2121"
+  intitule_ecue = "Résonance Paramagnétique Electronique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "RMN2121"
+intitule_ue = "Techniques d'analyse RMN"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr BEKRO Yves-Alain"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RMN21211"
+  intitule_ecue = "Introduction à la RMN"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RMN21212"
+  intitule_ecue = "RMN Bidimensionnelle"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "SCH2121"
+intitule_ue = "Stéreochimie"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr BEKRO Yves-Alain"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "SCH2121"
+  intitule_ecue = "Stéreochimie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "MTA2121"
+intitule_ue = "Méthodes Thermiques d'Analyse"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr BOA David"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "MTA2121"
+  intitule_ecue = "Méthodes Thermiques d'Analyse"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "INF2121"
+intitule_ue = "Informatique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "INF2121"
+  intitule_ecue = "Informatique"
+  cm = 12
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "BMA2121"
+intitule_ue = "Biologie Moléculaire Appliquée"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KACOU Solange, CR"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "BMA2121"
+  intitule_ecue = "Biologie Moléculaire Appliquée"
+  cm = 12
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 150
+td = 90
+tp = 96
+projet = 0
+total_he = 336
+tpe = 364
+ctt = 700
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "HET2122"
+intitule_ue = "Hétérochimie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr BENIE Anouble, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HET21221"
+  intitule_ecue = "Hétérocycles à 3 et 4 chaînons"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HET21222"
+  intitule_ecue = "Hétérocycles à 5 et 6 chaînons et condensés"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PTC2122"
+intitule_ue = "Phytochimie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr BOUA Boua, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PTC 21221"
+  intitule_ecue = "Métabolites secondaires"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PTC 21222"
+  intitule_ecue = "Biosynthèse des métabolites secondaires"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ACO2122"
+intitule_ue = "Applications de la Chimie Organique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr BEKRO Yves-Alain"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ACO2122"
+  intitule_ecue = "Applications de la Chimie Organique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "POL2122"
+intitule_ue = "Polymères"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr OUATTARA Zana, MA / Dr N'GUESSAN A., MA"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POL2122"
+  intitule_ecue = "Polymères"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "AIN2122"
+intitule_ue = "Arômes dans l'Industrie"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr BOSSON Antoine, MC"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "AIN2122"
+  intitule_ecue = "Arômes dans l'Industrie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "TOX2122"
+intitule_ue = "Toxicologie"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KOUADIO James A, MC"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TOX2122"
+  intitule_ecue = "Toxicologie"
+  cm = 10
+  td = 10
+  tp = 16
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "IPM2122"
+intitule_ue = "Initiation à la pharmacologie"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KONAN K. Marcel, MA / Dr N'GAMAN Christelle epse KOUASSI, MA"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "IPM2122"
+  intitule_ecue = "Initiation à la pharmacologie"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2122"
+intitule_ue = "Entrepreneuriat"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "M. KOUASSI Ambroise"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2122"
+  intitule_ecue = "Entrepreneuriat"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "DVD2122"
+intitule_ue = "Developpement durable"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr OUATTARA, A / Resp Pr IBO Guei, DR"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "DVD2122"
+  intitule_ecue = "Developpement durable"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "STP2122"
+intitule_ue = "Stage pédagogique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KOUAME BOSSON A., MC"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "STP2122"
+  intitule_ecue = "Stage pédagogique"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 184
+td = 136
+tp = 40
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

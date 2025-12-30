@@ -1,0 +1,490 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "INA2411"
+intitule_ue = "Intelligence Artificielle"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "INE24111"
+  intitule_ecue = "Représentation de la connaissance"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "INE24112"
+  intitule_ecue = "Lois d'interprétation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "LFC2411"
+intitule_ue = "Langages formels et Compilation"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "LFC2411"
+  intitule_ecue = "Langages formels et Compilation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CPI2411"
+intitule_ue = "Conduite de Projets Informatiques"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CPI24111"
+  intitule_ecue = "Conduites de projets"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CPI24112"
+  intitule_ecue = "Applications"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ROO2411"
+intitule_ue = "Recherche Opérationnelle"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr KONE Oumar, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROO24111"
+  intitule_ecue = "Programmation en nombre entier"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROO24112"
+  intitule_ecue = "Programmation non linéaire"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GLA2411"
+intitule_ue = "Génie Logiciel Avancé"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr TCHIMOU Eulode, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24111"
+  intitule_ecue = "Méthodes de conception"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24112"
+  intitule_ecue = "Ateliers de Développement"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "RET2411"
+intitule_ue = "Réseaux et Transmission de Données"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RET24111"
+  intitule_ecue = "Conception de réseaux locaux"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RET24112"
+  intitule_ecue = "Transmission"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 180
+td = 180
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "APR2412"
+intitule_ue = "Applications Réparties"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KONE Oumar, MA"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "APR2412"
+  intitule_ecue = "Applications Réparties"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ANU2412"
+intitule_ue = "Analyse Numériques et Applications"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU24121"
+  intitule_ecue = "Analyses numériques"
+  cm = 20
+  td = 10
+  tp = 6
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU24122"
+  intitule_ecue = "Applications"
+  cm = 10
+  td = 0
+  tp = 26
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PWA2412"
+intitule_ue = "Programmation Web Avancée"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PWA24121"
+  intitule_ecue = "Bases"
+  cm = 18
+  td = 0
+  tp = 6
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PWA24122"
+  intitule_ecue = "Applications"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "RTE2412"
+intitule_ue = "Réseaux de Télécommunication"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RTE2412"
+  intitule_ecue = "Réseaux de Télécommunication"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "BDA2412"
+intitule_ue = "Bases de données avancées"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BDA24121"
+  intitule_ecue = "Administration et mise en œuvre des bases de données"
+  cm = 14
+  td = 0
+  tp = 10
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BDA24122"
+  intitule_ecue = "Bases de données déductives"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "SYE2412"
+intitule_ue = "Systèmes d'Exploitation"
+credit = 3
+cect_ue = 3
+enseignant_responsable = ""
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "SYE2412"
+  intitule_ecue = "Systèmes d'Exploitation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "SYI2412"
+intitule_ue = "Sécurité des Systèmes Informatiques"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr ASSIELOU N., MA"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "SYI24121"
+  intitule_ecue = "Notions de base"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "SYI24122"
+  intitule_ecue = "Applications"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2412"
+intitule_ue = "Entrepreneuriat"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2412"
+  intitule_ecue = "Entrepreneuriat"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2412"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2412"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 164
+td = 88
+tp = 108
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

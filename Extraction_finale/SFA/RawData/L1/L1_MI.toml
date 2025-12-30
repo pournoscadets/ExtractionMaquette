@@ -1,0 +1,455 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAN2201"
+intitule_ue = "Initiation à l'Analyse Mathématique et Bases"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22011"
+  intitule_ecue = "Initiation à l'Analyse Mathématique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22012"
+  intitule_ecue = "Analyse de base"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IAP2201"
+intitule_ue = "Initiation à l'Algorithmique et Programmation"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IAP22011"
+  intitule_ecue = "Algorithmique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IAP22012"
+  intitule_ecue = "Programmation"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAL2201"
+intitule_ue = "Groupes et Algèbre Linéaire"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ASSANE Abdoulaye, MA"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22011"
+  intitule_ecue = "Groupes"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22012"
+  intitule_ecue = "Algèbre Linéaire"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PME2201"
+intitule_ue = "Mécanique du Point Matériel"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr BOUO Bella, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME22011"
+  intitule_ecue = "Cinématique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME22012"
+  intitule_ecue = "Dynamique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "LMR2201"
+intitule_ue = "Logique et Méthode de Raisonnement en Mathématique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr DIAGANA Youssouf, MC"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "LMR2201"
+  intitule_ecue = "Logique et Méthode de Raisonnement en Mathématique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANG2201"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG2201"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "RED2201"
+intitule_ue = "Recherche Documentaire"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "RED2201"
+  intitule_ecue = "Recherche Documentaire"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 178
+td = 162
+tp = 20
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ALG2202"
+intitule_ue = "Algèbre 2"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ASSANE Abdoulaye, MA"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ALG22021"
+  intitule_ecue = "Espace vectorielle et calcul vectoriel"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ALG22022"
+  intitule_ecue = "Algèbre linéaire"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ANA2202"
+intitule_ue = "Analyse 2"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA22021"
+  intitule_ecue = "Intégration et équation différentielle"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA22022"
+  intitule_ecue = "Fonction vectorielle d'une variable réelle"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PEL2202"
+intitule_ue = "Electrostatique - Electricité"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr KEITA Mélalie, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL22021"
+  intitule_ecue = "Electrostatique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL22022"
+  intitule_ecue = "Electricité"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GEO2202"
+intitule_ue = "Géométrie 1"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr ESSOH Modeste, MA"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GEO22021"
+  intitule_ecue = "Éléments de base de la Géométrie"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GEO22022"
+  intitule_ecue = "Théories - Espaces affine et euclidien"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "STD2202"
+intitule_ue = "Statistiques descriptives"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KPATA Akon, MA"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "STD22021"
+  intitule_ecue = "Statistique descriptive univariée"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "STD22022"
+  intitule_ecue = "Statistique descriptive bivariée"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "ARO2202"
+intitule_ue = "Architecture des Ordinateurs"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "ARO2202"
+  intitule_ecue = "Architecture des Ordinateurs"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "MIC2202"
+intitule_ue = "Microeconomie"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr LAHOUANI Laisse Akéyémi, MA"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "MIC2202"
+  intitule_ecue = "Microeconomie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"

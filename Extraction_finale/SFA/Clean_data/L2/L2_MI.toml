@@ -1,0 +1,181 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANA2203"
+intitule_ue = "Analyse 3"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN22031"
+  intitule_ecue = "Intégrale généralisée et Série"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN22032"
+  intitule_ecue = "Développement en série"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MST2203"
+intitule_ue = "Probabilités - Statistiques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MST22031"
+  intitule_ecue = "Probabilité"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MST22032"
+  intitule_ecue = "Statistiques"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PGS2203"
+intitule_ue = "Programmation Structurée"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGS22031"
+  intitule_ecue = "Généralités"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGS22032"
+  intitule_ecue = "Applications"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ALG2203"
+intitule_ue = "Algèbre 3"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22031"
+  intitule_ecue = "Algèbre Générale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22032"
+  intitule_ecue = "Réduction des Matrices et Applications"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "ARI2203"
+intitule_ue = "Arithmetique"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "ARI2203"
+  intitule_ecue = "Arithmetique"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "GPR2203"
+intitule_ue = "Gestion des Projets"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "GPR2203"
+  intitule_ecue = "Gestion des Projets"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "MAC2203"
+intitule_ue = "Macroéconomie"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "MAC2203"
+  intitule_ecue = "Macroéconomie"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 4
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "APL2224"
+intitule_ue = "Applications Linéaires"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "APL22241"
+  intitule_ecue = "Recherche opérationnelle"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "APL22242"
+  intitule_ecue = "Applications"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MAD2224"
+intitule_ue = "Mathématiques discrètes"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAD2224"
+  intitule_ecue = "Mathématiques discrètes"
+
+[[semestre_4.ue_specialite]]
+code_ue = "BDO2224"
+intitule_ue = "Base de Données"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "BDO2241"
+  intitule_ecue = "Modélisation"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "BDO2242"
+  intitule_ecue = "Applications"
+
+[[semestre_4.ue_specialite]]
+code_ue = "ISE2224"
+intitule_ue = "Introduction aux Systèmes d'Exploitation"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "ISE22241"
+  intitule_ecue = "Notions de base"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "ISE22242"
+  intitule_ecue = "Notions avancées"
+
+[[semestre_4.ue_specialite]]
+code_ue = "CPG2224"
+intitule_ue = "Comptabilité Générale"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "CPG22241"
+  intitule_ecue = "Notions de bases"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "CPG22242"
+  intitule_ecue = "Applications"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "ELN2224"
+intitule_ue = "Electronique Numérique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "ELN2224"
+  intitule_ecue = "Electronique Numérique"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "GSA2224"
+intitule_ue = "Gestion des Stocks et de l'Approvisionnement"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "GSA22241"
+  intitule_ecue = "Gestion des stocks"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "GSA22242"
+  intitule_ecue = "Approvisionnement"
+
+[[semestre_4.ue_culture_generale]]
+code_ue = "ANG2224"
+intitule_ue = "Anglais"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "ANG2224"
+  intitule_ecue = "Anglais"

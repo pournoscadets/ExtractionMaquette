@@ -1,0 +1,173 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAN2101"
+intitule_ue = "Initiation à l'Analyse Mathématique et Bases"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN21011"
+  intitule_ecue = "Initiation à l'Analyse"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN21012"
+  intitule_ecue = "Analyse de base"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "GEE2101"
+intitule_ue = "Géométrie dans l'Espace"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEE2101"
+  intitule_ecue = "Géométrie dans l'Espace"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAL2101"
+intitule_ue = "Groupes et Algèbre Linéaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL21011"
+  intitule_ecue = "Groupes"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL21012"
+  intitule_ecue = "Algèbre Linéaire"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "CHA2101"
+intitule_ue = "Atomistique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHA21011"
+  intitule_ecue = "Structure de l'Atome"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHA21012"
+  intitule_ecue = "Liaisons Chimiques"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PME2101"
+intitule_ue = "Mécanique du Point Matériel"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME21011"
+  intitule_ecue = "Cinématique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME21012"
+  intitule_ecue = "Dynamique"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "IAL2101"
+intitule_ue = "Initiation à l'Algorithmique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "IAL2101"
+  intitule_ecue = "Initiation à l'Algorithmique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "RED2101"
+intitule_ue = "Recherche Documentaire"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "RED2101"
+  intitule_ecue = "Recherche Documentaire"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "CHT2102"
+intitule_ue = "Thermodynamique Chimique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHT21021"
+  intitule_ecue = "Grands principes de la Thermodynamique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHT21022"
+  intitule_ecue = "Thermochimie"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ANA2102"
+intitule_ue = "Analyse 2"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA21021"
+  intitule_ecue = "Intégration et équation différentielle"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA21022"
+  intitule_ecue = "Fonction vectorielle d'une variable réelle"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PEL2102"
+intitule_ue = "Electrostatique-Electricité"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL21021"
+  intitule_ecue = "Electrostatique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL21022"
+  intitule_ecue = "Electricité"
+
+[[semestre_2.ue_specialite]]
+code_ue = "POP2102"
+intitule_ue = "Optique"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POP21021"
+  intitule_ecue = "Optique géométrique"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POP21022"
+  intitule_ecue = "Instruments"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CHC2102"
+intitule_ue = "Cinétique Chimique et Réactions en Solutions"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CHC21021"
+  intitule_ecue = "Réactions en Solutions"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CHC21022"
+  intitule_ecue = "Cinétique Chimique"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "TPP2102"
+intitule_ue = "TP Physique"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "TPP2102"
+  intitule_ecue = "TP Physique"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2102"
+intitule_ue = "Anglais"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2102"
+  intitule_ecue = "Anglais"

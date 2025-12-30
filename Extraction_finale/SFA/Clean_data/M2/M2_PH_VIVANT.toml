@@ -1,0 +1,129 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE DU VIVANT (PV)
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE DU VIVANT (PV)"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PBM2213"
+intitule_ue = "Physique pour la Biologie Moléculaire"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PBM22131"
+  intitule_ecue = "Physique de l'ARN, ADN, Protéine"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PBM22132"
+  intitule_ecue = "Physique de la Régulation"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "BBT2213"
+intitule_ue = "Biophysique et Biochimie Théoriques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BBT22131"
+  intitule_ecue = "Méthodes théoriques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BBT22132"
+  intitule_ecue = "Analyse structurale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BBT22133"
+  intitule_ecue = "Modélisation & Conception"
+
+[[semestre_3.ue_specialite]]
+code_ue = "POH2213"
+intitule_ue = "Propriétés optiques et hydrodynamiques des macromolécules en solutions"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "POH22131"
+  intitule_ecue = "Structures Organisées"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "POH22132"
+  intitule_ecue = "Propriétés Optiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "DSI2213"
+intitule_ue = "Dynamique des Structures et Interactions des Macromolécules Biologiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "DSI22131"
+  intitule_ecue = "Structures, Relations Structure-Fonction"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "DSI22132"
+  intitule_ecue = "Interactions Macromoléculaires"
+
+[[semestre_3.ue_specialite]]
+code_ue = "CAO2213"
+intitule_ue = "Conception Assistée par ordinateur de (macro)Molécules sur mesure"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CAO22131"
+  intitule_ecue = "Molécules naturelles à activités biologique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CAO22132"
+  intitule_ecue = "Chimie Médicinale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CAO22133"
+  intitule_ecue = "Conception Assistée par Ordnateur de Molécules (CAOM)"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "OME2213"
+intitule_ue = "Outils et Méthodes"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "OME2213"
+  intitule_ecue = "Outils et Méthodes"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "RDS2213"
+intitule_ue = "Réduction Scientifique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "RDS2213"
+  intitule_ecue = "Réduction Scientifique"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE DU VIVANT (PV)
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE DU VIVANT (PV)"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "ENT2214"
+intitule_ue = "Entrepreneuriat"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "ENT2214"
+  intitule_ecue = "Entrepreneuriat"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2214"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2214"
+  intitule_ecue = "Stage et Mémoire"

@@ -1,0 +1,185 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: CHIMIE
+# Spécialité: CHIMIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "CHIMIE"
+specialite = "CHIMIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "THS2135"
+intitule_ue = "Thermodynamique Statistique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THS21351"
+  intitule_ecue = "Processus réversibles"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THS21352"
+  intitule_ecue = "Processus irréversibles"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "THG2135"
+intitule_ue = "Thermodynamique Générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG21351"
+  intitule_ecue = "Potentiels thermodynamiques"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG21352"
+  intitule_ecue = "Thermodynamique des solutions"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "CMA2135"
+intitule_ue = "Chimie Minérale Avancée"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CMA21351"
+  intitule_ecue = "Eléments de transition"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CMA21352"
+  intitule_ecue = "Chimie minérale industrielle"
+
+[[semestre_5.ue_specialite]]
+code_ue = "LCS2135"
+intitule_ue = "Liaisons Chimiques et Spectroscopie"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "LCS21351"
+  intitule_ecue = "Liaisons Chimiques"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "LCS21352"
+  intitule_ecue = "Spectroscopie"
+
+[[semestre_5.ue_specialite]]
+code_ue = "CRI2135"
+intitule_ue = "Cristallographie"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "CRI21351"
+  intitule_ecue = "Notions de base"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "CRI21352"
+  intitule_ecue = "Applications"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "ANU2135"
+intitule_ue = "Analyse Numérique"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "ANU2135"
+  intitule_ecue = "Analyse Numérique"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2135"
+intitule_ue = "UE Libre"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2135"
+  intitule_ecue = "UE Libre"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: CHIMIE
+# Spécialité: CHIMIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "CHIMIE"
+specialite = "CHIMIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "CHO2136"
+intitule_ue = "Chimie Organique"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO21361"
+  intitule_ecue = "Phénols-Ethers-Epoxydes-dérivés"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO21362"
+  intitule_ecue = "Amines-Acides carboxyliques et ses dérivés"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "ECC2136"
+intitule_ue = "Cinétique Chimique/ Electrochimie"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECC21361"
+  intitule_ecue = "Electrochimie"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECC21362"
+  intitule_ecue = "Cinétique chimique"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MEF2136"
+intitule_ue = "Mécanique des Fluides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEF2136"
+  intitule_ecue = "Mécanique des Fluides"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ASQ2136"
+intitule_ue = "Assurance Qualité"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ASQ21361"
+  intitule_ecue = "Assurance"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ASQ21362"
+  intitule_ecue = "Qualité"
+
+[[semestre_6.ue_specialite]]
+code_ue = "CHQ2136"
+intitule_ue = "Chimie Quantique"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "CHQ2136"
+  intitule_ecue = "Chimie Quantique"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "PRG2136"
+intitule_ue = "Programmation"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "PRG2136"
+  intitule_ecue = "Programmation"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "CHP2136"
+intitule_ue = "Chimie Pratique"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "CHP21361"
+  intitule_ecue = "Chimie Organique"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "CHP21362"
+  intitule_ecue = "Chimie Physique"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "PRJ2136"
+intitule_ue = "Projet"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "PRJ2136"
+  intitule_ecue = "Projet"

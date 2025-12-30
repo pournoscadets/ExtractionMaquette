@@ -1,0 +1,567 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Spécialité: PHYSIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+specialite = "PHYSIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "PAN2115"
+intitule_ue = "Physique Atomique et Nucléaire"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN21151"
+  intitule_ecue = "Physique Atomique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN21152"
+  intitule_ecue = "Physique Nucléaire"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ELM2115"
+intitule_ue = "Electromagnétisme des Milieux"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr AHOUASSA Paul, MA / Pr MEGNASSAN Edjem"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELM21151"
+  intitule_ecue = "Polarisation et aimantation des milieux"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELM21152"
+  intitule_ecue = "Ondes électromagnétiques dans les milieux"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MEF2115"
+intitule_ue = "Mécanique des Fluides"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEF2115"
+  intitule_ecue = "Mécanique des Fluides"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MEA2115"
+intitule_ue = "Mécanique Analytique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr MOUSSE Logbo, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEA2115"
+  intitule_ecue = "Mécanique Analytique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "TSI2115"
+intitule_ue = "Théorie du Signal"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TSI2115"
+  intitule_ecue = "Théorie du Signal"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "REL2115"
+intitule_ue = "Relativité"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr MOUSSE Logbo, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "REL2115"
+  intitule_ecue = "Relativité"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "PHS2115"
+intitule_ue = "Physique Statistique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr MOUSSE Logbo, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHS21151"
+  intitule_ecue = "Ensembles et Distributions Statistiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHS21152"
+  intitule_ecue = "Phénomène de transport"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MOP2115"
+intitule_ue = "Modélisation pour la Physique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MOP2115"
+  intitule_ecue = "Modélisation pour la Physique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "PRG2115"
+intitule_ue = "Programmation"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr COULIBALY Zana, MA"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "PRG2115"
+  intitule_ecue = "Programmation"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_5.total]
+cm = 180
+td = 180
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Spécialité: PHYSIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+specialite = "PHYSIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PPM2116"
+intitule_ue = "Propriété de la Matière"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PPM21161"
+  intitule_ecue = "Structure de la matière"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PPM21162"
+  intitule_ecue = "Les tenseurs"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "OPP2116"
+intitule_ue = "Optique Physique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr BOSSON Jocelyne, MC"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPP21161"
+  intitule_ecue = "Polarisation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPP21162"
+  intitule_ecue = "Interférence et Diffraction"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PVP2116"
+intitule_ue = "Phénomènes de Vibration et de Propagation"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVP21161"
+  intitule_ecue = "Phénomènes de vibration"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVP21162"
+  intitule_ecue = "Propagation"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ELE2116"
+intitule_ue = "Electronique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KOUADIO Léonce, MC"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ELE21161"
+  intitule_ecue = "Electronique Analogique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ELE21162"
+  intitule_ecue = "Electronique Numérique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "MEP2116"
+intitule_ue = "Mesures Physiques"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "MEP2116"
+  intitule_ecue = "Mesures Physiques"
+  cm = 0
+  td = 0
+  tp = 36
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "APP2116"
+intitule_ue = "Projet pratique de fin de Licence"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "APP2116"
+  intitule_ecue = "Projet pratique de fin de Licence"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 48
+  total_he = 48
+  tpe = 52
+  ctt = 100
+  credit_ecue = 4
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "ANG2116"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "ANG2116"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "GEN2116"
+intitule_ue = "Gestion de l'environnement"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr DALI Brice, MA"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "GEN2116"
+  intitule_ecue = "Gestion de l'environnement"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "NUT2116"
+intitule_ue = "Nutrition"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Pr BROU Kouakou"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "NUT2116"
+  intitule_ecue = "Nutrition"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "HIP2116"
+intitule_ue = "Histoire de la Physique"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "HIP2116"
+  intitule_ecue = "Histoire de la Physique"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "DED2116"
+intitule_ue = "Développement durable"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Pr IBO Guei"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "DED2116"
+  intitule_ecue = "Développement durable"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_6.total]
+cm = 144
+td = 132
+tp = 36
+projet = 48
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

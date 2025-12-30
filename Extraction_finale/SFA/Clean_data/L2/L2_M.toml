@@ -1,0 +1,177 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANA2203"
+intitule_ue = "Analyse 3"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN22031"
+  intitule_ecue = "Intégrale généralisée et Série"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN22032"
+  intitule_ecue = "Développement en série"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MST2203"
+intitule_ue = "Probabilités - Statistiques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MST22031"
+  intitule_ecue = "Probabilité"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MST22032"
+  intitule_ecue = "Statistiques"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PGS2203"
+intitule_ue = "Programmation Structurée"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGS22031"
+  intitule_ecue = "Généralités"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGS22032"
+  intitule_ecue = "Applications"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ALG2203"
+intitule_ue = "Algèbre 3"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22031"
+  intitule_ecue = "Algèbre Générale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22032"
+  intitule_ecue = "Réduction des Matrices et Applications"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "ARI2203"
+intitule_ue = "Arithmetique"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "ARI2203"
+  intitule_ecue = "Arithmetique"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "GPR2203"
+intitule_ue = "Gestion des Projets"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "GPR2203"
+  intitule_ecue = "Gestion des Projets"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "MAC2203"
+intitule_ue = "Macroéconomie"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "MAC2203"
+  intitule_ecue = "Macroéconomie"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 4
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "ANA2214"
+intitule_ue = "Analyse 4"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA22141"
+  intitule_ecue = "Initiation à la topologie de base"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA22142"
+  intitule_ecue = "Bases de la Physique Mathématique"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "ALG2214"
+intitule_ue = "Algèbre 4"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ALG22141"
+  intitule_ecue = "Dualité - Formes linéaires"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ALG22142"
+  intitule_ecue = "Formes bilinéaires, quadratiques, hermitiennes - Espaces métriques"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "GEO2214"
+intitule_ue = "Géométrie 2"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEO22141"
+  intitule_ecue = "Géométrie Plane"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEO22142"
+  intitule_ecue = "Géométrie Descriptive"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "ISE2214"
+intitule_ue = "Introduction aux Systèmes d'Exploitation"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ISE22141"
+  intitule_ecue = "Notions de base"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ISE22142"
+  intitule_ecue = "Notions avancées"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MES2214"
+intitule_ue = "Mécanique des Systèmes"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MES2214"
+  intitule_ecue = "Mécanique des Systèmes"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "MET2214"
+intitule_ue = "Méthodologie (Mathématiques)"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "MET2214"
+  intitule_ecue = "Méthodologie (Mathématiques)"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "GEE2214"
+intitule_ue = "Gestion des Entreprises"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "GEE2214"
+  intitule_ecue = "Gestion des Entreprises"
+
+[[semestre_4.ue_culture_generale]]
+code_ue = "ANG2214"
+intitule_ue = "Anglais"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "ANG2214"
+  intitule_ecue = "Anglais"

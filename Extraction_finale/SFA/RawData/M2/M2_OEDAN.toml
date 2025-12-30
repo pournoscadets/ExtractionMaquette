@@ -1,0 +1,293 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: MATHEMATIQUES
+# Spécialité: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "MATHEMATIQUES"
+specialite = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANS2313"
+intitule_ue = "Analyse Fonctionnelle Variationnelle"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANS23131"
+  intitule_ecue = "Espaces de Skobelev et Dérivées Généralisées"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANS23132"
+  intitule_ecue = "Introduction aux Problèmes aux limites"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANU2313"
+intitule_ue = "Analyse Numérique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr Touré Augustin, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU23131"
+  intitule_ecue = "Méthodes de volumes finis méthodes des éléments finis"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU23132"
+  intitule_ecue = "Méthodes spectrales"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MAC2313"
+intitule_ue = "Algèbre Commutative"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr DIAGANA Youssouf, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAC23131"
+  intitule_ecue = "Modules de longueur finie et dimension de Krull"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAC23132"
+  intitule_ecue = "Modules gradués Fonctions de Hilbert,"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "OPT2313"
+intitule_ue = "Optimisation et Equations Différentielles"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OPT23131"
+  intitule_ecue = "Conditions d'optimalité"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OPT23132"
+  intitule_ecue = "Notions de programmation"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "PRL2313"
+intitule_ue = "Programmation Linéaire"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "PRL2313"
+  intitule_ecue = "Programmation linéaire"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEX2313"
+intitule_ue = "Techniques d'expression française"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEX2313"
+  intitule_ecue = "Techniques d'expression française"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2313"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2313"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 336
+td = 24
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: MATHEMATIQUES
+# Spécialité: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "MATHEMATIQUES"
+specialite = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2314"
+intitule_ue = "Réduction Scientifique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr TANOH Hilaire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2314"
+  intitule_ecue = "Réduction Scientifique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2314"
+intitule_ue = "Stage et Mémoire"
+credit = 28
+cect_ue = 28
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2314"
+  intitule_ecue = "Stage et Mémoire"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 336
+  total_he = 336
+  tpe = 364
+  ctt = 700
+  credit_ecue = 28
+
+[semestre_4.total]
+cm = 12
+td = 12
+tp = 0
+projet = 336
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

@@ -1,0 +1,465 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAN2101"
+intitule_ue = "Initiation à l'Analyse Mathématique et Bases"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN21011"
+  intitule_ecue = "Initiation à l'Analyse"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN21012"
+  intitule_ecue = "Analyse de base"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "GEE2101"
+intitule_ue = "Géométrie dans l'Espace"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr ESSOH Modeste, MA"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEE2101"
+  intitule_ecue = "Géométrie dans l'Espace"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAL2101"
+intitule_ue = "Groupes et Algèbre Linéaire"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr ASSANE Abdoulaye, MA"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL21011"
+  intitule_ecue = "Groupes"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL21012"
+  intitule_ecue = "Algèbre Linéaire"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "CHA2101"
+intitule_ue = "Atomistique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Pr ZIAO Nahosse"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHA21011"
+  intitule_ecue = "Structure de l'Atome"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHA21012"
+  intitule_ecue = "Liaisons Chimiques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PME2101"
+intitule_ue = "Mécanique du Point Matériel"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr BOUO Bella, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME21011"
+  intitule_ecue = "Cinématique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME21012"
+  intitule_ecue = "Dynamique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "IAL2101"
+intitule_ue = "Initiation à l'Algorithmique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "IAL2101"
+  intitule_ecue = "Initiation à l'Algorithmique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "RED2101"
+intitule_ue = "Recherche Documentaire"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr BENIE Anoubile, MC"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "RED2101"
+  intitule_ecue = "Recherche Documentaire"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 180
+td = 180
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "CHT2102"
+intitule_ue = "Thermodynamique Chimique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Pr BOA David"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHT21021"
+  intitule_ecue = "Grands principes de la Thermodynamique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHT21022"
+  intitule_ecue = "Thermochimie"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ANA2102"
+intitule_ue = "Analyse 2"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA21021"
+  intitule_ecue = "Intégration et équation différentielle"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA21022"
+  intitule_ecue = "Fonction vectorielle d'une variable réelle"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PEL2102"
+intitule_ue = "Electrostatique-Electricité"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr KEITA Mélalie, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL21021"
+  intitule_ecue = "Electrostatique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL21022"
+  intitule_ecue = "Electricité"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "POP2102"
+intitule_ue = "Optique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr MOUSSE Logbo, MC"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POP21021"
+  intitule_ecue = "Optique géométrique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POP21022"
+  intitule_ecue = "Instruments"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CHC2102"
+intitule_ue = "Cinétique Chimique et Réactions en Solutions"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr EKOU Lynda, MC"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CHC21021"
+  intitule_ecue = "Réactions en Solutions"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CHC21022"
+  intitule_ecue = "Cinétique Chimique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "TPP2102"
+intitule_ue = "TP Physique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "TPP2102"
+  intitule_ecue = "TP Physique"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2102"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2102"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 168
+td = 168
+tp = 24
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

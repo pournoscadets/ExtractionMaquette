@@ -1,0 +1,321 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CTE2113"
+intitule_ue = "Catalyse et Chimie de l'environnement"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr EKOU Tchroua, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CTE21131"
+  intitule_ecue = "Catalyse sur métaux"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CTE21132"
+  intitule_ecue = "Chimie de l'environnement"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "TSP2113"
+intitule_ue = "Thermodynamique des systèmes poly constitués"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr BOA David"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPS21131"
+  intitule_ecue = "Thermodynamique des solutions"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPS21132"
+  intitule_ecue = "Méthodologie Calphad"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MAP2113"
+intitule_ue = "Matériaux et Procedés d'élaboration"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr KONAN Léon"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAP21131"
+  intitule_ecue = "Matériaux et utilisé"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAP21132"
+  intitule_ecue = "Matériaux et Conceptions"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TAC2113"
+intitule_ue = "Techniques d'analyse et de caractérisation"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr YAO Rita / Pr SEI Joseph"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TAC21131"
+  intitule_ecue = "Techniques d'analyse spectroscopique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TAC21132"
+  intitule_ecue = "Méthodes de caractérisation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GPR2113"
+intitule_ue = "Génie des Procedés"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ABOLLE Abolle, MA"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPR21131"
+  intitule_ecue = "Génie chimique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPR21132"
+  intitule_ecue = "Procedés chimiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MSC2113"
+intitule_ue = "Modélisation des Systèmes Chimiques"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr ZIAO Nahosse"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MSC21131"
+  intitule_ecue = "Techniques de modélisation moleculaire"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MSC21132"
+  intitule_ecue = "Calcul de propriétés moleculaires"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2113"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2113"
+  intitule_ecue = "Anglais"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 288
+td = 72
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: PHYSICO-CHIMIE DES MATERIALAUX ET PROCEEDS (PCMP)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "PHYSICO-CHIMIE DES MATERIALAUX ET PROCEEDS (PCMP)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "INF2114"
+intitule_ue = "Informatique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Mr BOLI Kuyo"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "INF 2114"
+  intitule_ecue = "Informatique"
+  cm = 12
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM 2114"
+intitule_ue = "Stage et Mémoire"
+credit = 27
+cect_ue = 27
+enseignant_responsable = "Prof ZIAO Nahosse"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2114"
+  intitule_ecue = "Stage et Mémoire"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 324
+  total_he = 324
+  tpe = 351
+  ctt = 675
+  credit_ecue = 27
+
+[semestre_4.total]
+cm = 12
+td = 0
+tp = 24
+projet = 324
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

@@ -1,0 +1,486 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANA2203"
+intitule_ue = "Analyse 3"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ESSOH Modeste, MA"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN22031"
+  intitule_ecue = "Intégrale généralisée et Série"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAN22032"
+  intitule_ecue = "Développement en série"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MST2203"
+intitule_ue = "Probabilités - Statistiques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr DIALLO Aboubacar, MA"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MST22031"
+  intitule_ecue = "Probabilité"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MST22032"
+  intitule_ecue = "Statistiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PGS2203"
+intitule_ue = "Programmation Structurée"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr OUATTARA Mory, A"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGS22031"
+  intitule_ecue = "Généralités"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGS22032"
+  intitule_ecue = "Applications"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ALG2203"
+intitule_ue = "Algèbre 3"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr DIAGANA Youssouf, MC"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22031"
+  intitule_ecue = "Algèbre Générale"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22032"
+  intitule_ecue = "Réduction des Matrices et Applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "ARI2203"
+intitule_ue = "Arithmetique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr ASSANE Abdoulaye, MA"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "ARI2203"
+  intitule_ecue = "Arithmetique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "GPR2203"
+intitule_ue = "Gestion des Projets"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "GPR2203"
+  intitule_ecue = "Gestion des Projets"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "MAC2203"
+intitule_ue = "Macroéconomie"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr LAHOUANI Laisse Akéyémi, MA"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "MAC2203"
+  intitule_ecue = "Macroéconomie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 180
+td = 180
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 4
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "APL2224"
+intitule_ue = "Applications Linéaires"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KONE Oumar, MA"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "APL22241"
+  intitule_ecue = "Recherche opérationnelle"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "APL22242"
+  intitule_ecue = "Applications"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MAD2224"
+intitule_ue = "Mathématiques discrètes"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAD2224"
+  intitule_ecue = "Mathématiques discrètes"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_specialite]]
+code_ue = "BDO2224"
+intitule_ue = "Base de Données"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "BDO2241"
+  intitule_ecue = "Modélisation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "BDO2242"
+  intitule_ecue = "Applications"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_specialite]]
+code_ue = "ISE2224"
+intitule_ue = "Introduction aux Systèmes d'Exploitation"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "ISE22241"
+  intitule_ecue = "Notions de base"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "ISE22242"
+  intitule_ecue = "Notions avancées"
+  cm = 18
+  td = 0
+  tp = 18
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_specialite]]
+code_ue = "CPG2224"
+intitule_ue = "Comptabilité Générale"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr LAHOUANI Laisse Akéyémi, MA"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "CPG22241"
+  intitule_ecue = "Notions de bases"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "CPG22242"
+  intitule_ecue = "Applications"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "ELN2224"
+intitule_ue = "Electronique Numérique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KOUADIO Léonce, MC"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "ELN2224"
+  intitule_ecue = "Electronique Numérique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "GSA2224"
+intitule_ue = "Gestion des Stocks et de l'Approvisionnement"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr Assiélou Ndoli, MA"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "GSA22241"
+  intitule_ecue = "Gestion des stocks"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "GSA22242"
+  intitule_ecue = "Approvisionnement"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_culture_generale]]
+code_ue = "ANG2224"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "ANG2224"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_4.total]
+cm = 180
+td = 138
+tp = 42
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

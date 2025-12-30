@@ -1,0 +1,205 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: INFORMATIQUE
+# Spécialité: INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "INFORMATIQUE"
+specialite = "INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MER2225"
+intitule_ue = "MERISE"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MER22251"
+  intitule_ecue = "Modélisation des données"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MER22252"
+  intitule_ecue = "Traitement des données"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "THG2225"
+intitule_ue = "Théorie des Graphes"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG22251"
+  intitule_ecue = "Notions de base"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG22252"
+  intitule_ecue = "Algorithms"
+
+[[semestre_5.ue_specialite]]
+code_ue = "TRS2225"
+intitule_ue = "Traitement du Signal"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "TRS2225"
+  intitule_ecue = "Traitement du Signal"
+
+[[semestre_5.ue_specialite]]
+code_ue = "MMC2225"
+intitule_ue = "Microprocesseurs - Microcontrôleurs"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "IMC22251"
+  intitule_ecue = "Microprocesseurs"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "IMC22252"
+  intitule_ecue = "Microcontrôleurs"
+
+[[semestre_5.ue_specialite]]
+code_ue = "GBD2225"
+intitule_ue = "Système de Gestion des Bases de Données"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "GBD2225"
+  intitule_ecue = "Système de Gestion des Bases de Données"
+
+[[semestre_5.ue_specialite]]
+code_ue = "POO2225"
+intitule_ue = "Programmation Orientée Objet"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "POO2225"
+  intitule_ecue = "Programmation Orientée Objet"
+
+[[semestre_5.ue_specialite]]
+code_ue = "REI2225"
+intitule_ue = "Réseaux Informatiques"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "REI22251"
+  intitule_ecue = "Notions de base"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "REI22252"
+  intitule_ecue = "Notions avancées"
+
+[[semestre_5.ue_specialite]]
+code_ue = "WEB2225"
+intitule_ue = "Programmation WEB"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "WEB22251"
+  intitule_ecue = "Généralités"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "WEB22252"
+  intitule_ecue = "Applications"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2225"
+intitule_ue = "UE Libre"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2225"
+  intitule_ecue = "UE Libre"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: INFORMATIQUE
+# Spécialité: INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "INFORMATIQUE"
+specialite = "INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "IGL2226"
+intitule_ue = "Introduction au Génie Logiciel et UML"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IGL2261"
+  intitule_ecue = "Introduction au Génie Logiciel"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IGL2262"
+  intitule_ecue = "UML"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "AGL2226"
+intitule_ue = "Atelier Génie Logiciel"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGL22261"
+  intitule_ecue = "Généralités"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGL22262"
+  intitule_ecue = "Applications"
+
+[[semestre_6.ue_specialite]]
+code_ue = "CAC2226"
+intitule_ue = "Comptabilité Analytique et Comptabilité des Sociétés"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "CAC22261"
+  intitule_ecue = "Comptabilité analytique"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "CAC22262"
+  intitule_ecue = "Comptabilité des sociétés"
+
+[[semestre_6.ue_specialite]]
+code_ue = "LIN2226"
+intitule_ue = "Administration Linux"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "LIN22261"
+  intitule_ecue = "Généralités"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "LIN22262"
+  intitule_ecue = "Administration"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "OGE2226"
+intitule_ue = "Organisation et Gestion des Entreprises"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGE2226"
+  intitule_ecue = "Organisation et Gestion des Entreprises"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "TDO2226"
+intitule_ue = "Technologie des Ordinateurs"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "TDO2226"
+  intitule_ecue = "Technologie des Ordinateurs"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "SEP2226"
+intitule_ue = "Suivi et Evaluation de Projet Informatique"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "SEP22261"
+  intitule_ecue = "Suivi de projet"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "SEP22262"
+  intitule_ecue = "Evaluation de projet"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "ANG2226"
+intitule_ue = "Anglais"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "ANG2226"
+  intitule_ecue = "Anglais"

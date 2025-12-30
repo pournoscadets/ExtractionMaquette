@@ -1,0 +1,596 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: MATHEMATIQUES
+# Spécialité: PROBABILITES-STATISTIQUES (PS)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "MATHEMATIQUES"
+specialite = "PROBABILITES-STATISTIQUES (PS)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BAF2311"
+intitule_ue = "Bases de l'Analyse Fonctionnelle et topologie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr FEUTO, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BAF23111"
+  intitule_ecue = "Topologie avancée"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BAF23112"
+  intitule_ecue = "Espaces de Hilbert"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PRO2311"
+intitule_ue = "Probabilités"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr N'ZI Modeste"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRO23111"
+  intitule_ecue = "Compléments sur les lois de probabilité"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRO23112"
+  intitule_ecue = "Chaîne de Markov"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite_statistique]]
+code_ue = "MST2311"
+intitule_ue = "Statistique (Choix 1)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr MORY Ouattara"
+
+  [[semestre_1.ue_specialite_statistique.ecue]]
+  code_ecue = "MST23111"
+  intitule_ecue = "Problèmes d'estimation et modèle exponentiel"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite_statistique.ecue]]
+  code_ecue = "MST23112"
+  intitule_ecue = "Tests d'Hypothèses"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite_analyse_convexe]]
+code_ue = "ANC2311"
+intitule_ue = "Analyse convexe (Choix 2)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_1.ue_specialite_analyse_convexe.ecue]]
+  code_ecue = "ANC23111"
+  intitule_ecue = "Ensembles convexes et cônes"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite_analyse_convexe.ecue]]
+  code_ecue = "ANC23112"
+  intitule_ecue = "Généralités sur les fonctions convexes et caractérisation"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite_theorie_modules]]
+code_ue = "TMO2311"
+intitule_ue = "Théorie des modules (Choix 3)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr SANGARE Daouda"
+
+  [[semestre_1.ue_specialite_theorie_modules.ecue]]
+  code_ecue = "TMO23111"
+  intitule_ecue = "Théorie des Idéaux et modules"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite_theorie_modules.ecue]]
+  code_ecue = "TMO23112"
+  intitule_ecue = "Anneaux de polynômes et de séries formelles"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite_edp]]
+code_ue = "EDP2311"
+intitule_ue = "EDP sémi linéaire ou non (Choix 4)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr Touré Augustin, MC"
+
+  [[semestre_1.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23111"
+  intitule_ecue = "EDP semi linéaire"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23112"
+  intitule_ecue = "Equations de Schröinger"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "ALG2311"
+intitule_ue = "Alarithmès Avancés"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. BOLI Kuyo"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ALG2311"
+  intitule_ecue = "Alarithmès Avancés"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CRY2311"
+intitule_ue = "Cryptographie"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr DIAGANA Youssouf, MC"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CRY2311"
+  intitule_ecue = "Cryptographie"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANS2311"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANS2311"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 336
+td = 24
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: MATHEMATIQUES
+# Spécialité: PROBABILITES-STATISTIQUES (PS)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "MATHEMATIQUES"
+specialite = "PROBABILITES-STATISTIQUES (PS)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "AFA2312"
+intitule_ue = "Analyse Fonctionnelle Approfondie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr FEUTO, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AFA23121"
+  intitule_ecue = "Théorèmes Fondamentaux de l'Analyse Fonctionnelle"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AFA23122"
+  intitule_ecue = "Mesures Complexes et de Radon - Transformation de Fourier"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PRA2312"
+intitule_ue = "Probabilités Avancées"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr N'ZI Modeste"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRA23121"
+  intitule_ecue = "Eléments de théorie des Martingales"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRA23122"
+  intitule_ecue = "Algorithms stochastiques de résolution de problèmes"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite_statistique]]
+code_ue = "STA2312"
+intitule_ue = "Statistique approfondie (Choix 1)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr MORY Ouattara, MA"
+
+  [[semestre_2.ue_specialite_statistique.ecue]]
+  code_ecue = "STA23121"
+  intitule_ecue = "Procedures non paramétriques - Théorèmes fondamentaux"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite_statistique.ecue]]
+  code_ecue = "STA23122"
+  intitule_ecue = "Statistique séquentielle"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite_optimisation]]
+code_ue = "OPT2312"
+intitule_ue = "Optimisation (Choix 2)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_2.ue_specialite_optimisation.ecue]]
+  code_ecue = "OPT23121"
+  intitule_ecue = "Conditions d'Optimalité sans Contraintes"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite_optimisation.ecue]]
+  code_ecue = "OPT23122"
+  intitule_ecue = "Conditions d'Optimalité sous contraintes et Programmation linéaire"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite_localisation]]
+code_ue = "LOF2312"
+intitule_ue = "Localisation et conditions de chaînes (Choix 3)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr SANGARE Daouda"
+
+  [[semestre_2.ue_specialite_localisation.ecue]]
+  code_ecue = "LOF23121"
+  intitule_ecue = "Anneaux et modules de fractions, localisation"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite_localisation.ecue]]
+  code_ecue = "LOF23122"
+  intitule_ecue = "Anneaux et modules noethériens, artiniens"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite_edp]]
+code_ue = "EDS2312"
+intitule_ue = "Existence des solutions (Choix 4)"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr TOURE Augustin, MC"
+
+  [[semestre_2.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23121"
+  intitule_ecue = "Existence locale (resp globale) Explosion comportement asymptotique"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite_edp.ecue]]
+  code_ecue = "EDP23122"
+  intitule_ecue = "Méthodes des différences finies"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "INF2312"
+intitule_ue = "Informatique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr EDI Kouassi, Mc"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "INF2312"
+  intitule_ecue = "Informatique"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2312"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2312"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2312"
+intitule_ue = "Entrepreneuriat"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "M. KABA Mohamed"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2312"
+  intitule_ecue = "Entrepreneuriat"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 348
+td = 12
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

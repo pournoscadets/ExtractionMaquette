@@ -1,0 +1,512 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Spécialité: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+specialite = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MEF2125"
+intitule_ue = "Mécanique des fluides"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEF2125"
+  intitule_ecue = "Mécanique des fluides"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ELM2125"
+intitule_ue = "Electromagnétisme des Milieux"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr AHOUASSA Paul, MA / Pr MEGNASSAN Edjem"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELM21251"
+  intitule_ecue = "Polarisation et Aimantation des milieux"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELM21252"
+  intitule_ecue = "Ondes électromagnétiques dans les milieux"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "COI2125"
+intitule_ue = "Chimie Organique et Inorganique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr BEKRO Yves-Alain / Dr EKOU Tchrioua, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COI21251"
+  intitule_ecue = "Chimie Organique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COI21252"
+  intitule_ecue = "Chimie Minérale"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "LCS2125"
+intitule_ue = "Liaisons Chimiques et Spectroscopie"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr ZIAO Nahosse / Dr BENIE Anoubile, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "LCS21251"
+  intitule_ecue = "Liaisons Chimiques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "LCS21252"
+  intitule_ecue = "Spectroscopie"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MOP2125"
+intitule_ue = "Modélisation pour la Physique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MOP2125"
+  intitule_ecue = "Modélisation pour la Physique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MAS2125"
+intitule_ue = "Mathématiques pour Sciences Physiques"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MAS2125"
+  intitule_ecue = "Mathématiques pour Sciences Physiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "DIS2125"
+intitule_ue = "Didactique et Informatique pour les Sciences Physiques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr N'GUESSAN Kouamé, A / Dr ZEZE Sylvain, MA"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "DIS21251"
+  intitule_ecue = "Didactique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "DIS21252"
+  intitule_ecue = "Informatique pour Sciences Physiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2125"
+intitule_ue = "UE Libre"
+credit = 1
+cect_ue = 1
+enseignant_responsable = ""
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2125"
+  intitule_ecue = "UE Libre"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_5.total]
+cm = 186
+td = 174
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Spécialité: PHYSIQUE-CHIMIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+specialite = "PHYSIQUE-CHIMIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PPM2116"
+intitule_ue = "Propriété de la Matière"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PPM21161"
+  intitule_ecue = "Structure de la matière"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PPM21162"
+  intitule_ecue = "Les tenseurs"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "THG2126"
+intitule_ue = "Thermodynamique Générale"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr BOA David"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG21261"
+  intitule_ecue = "Potentiels thermodynamiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG21262"
+  intitule_ecue = "Thermodynamique des Solutions"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "OPP2126"
+intitule_ue = "Optique Physique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr BOSSON Jocelyne, MC"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPP21261"
+  intitule_ecue = "Polarisation"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPP21262"
+  intitule_ecue = "Interférence et Diffraction"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PVP2126"
+intitule_ue = "Phénomènes de Vibration et de Propagation"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVP21261"
+  intitule_ecue = "Phénomènes de vibration"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVP21262"
+  intitule_ecue = "Propagation"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ELE2126"
+intitule_ue = "Electronique"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KOUADIO Léonce, MC"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ELE21261"
+  intitule_ecue = "Electronique Analogique"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ELE21262"
+  intitule_ecue = "Electronique Numérique"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "MEP2126"
+intitule_ue = "Mesures Physiques"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KRE N'guessan, MC"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "MEP2126"
+  intitule_ecue = "Mesures Physiques"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "MEC2126"
+intitule_ue = "Mesures Chimiques"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr BOUA Boua Benson, MC"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "MEC2126"
+  intitule_ecue = "Mesures Chimiques"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "FRA2126"
+intitule_ue = "Français"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr BENIE Anoubilé, MC"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "FRA2126"
+  intitule_ecue = "Français"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_6.total]
+cm = 156
+td = 132
+tp = 72
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

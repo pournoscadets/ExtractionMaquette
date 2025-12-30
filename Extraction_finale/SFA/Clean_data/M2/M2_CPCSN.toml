@@ -1,0 +1,117 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CBO2123"
+intitule_ue = "Chimie Bio organique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CBO21231"
+  intitule_ecue = "Mécanisme réactionnel, biomolécules et métabolisme"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CBO21232"
+  intitule_ecue = "Transformation biochimique, famille de composés bioimportants"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "SCB2123"
+intitule_ue = "Synthèse des composés bioactifs"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SCB21231"
+  intitule_ecue = "Lipides, vitamines"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SCB21232"
+  intitule_ecue = "Moyens chimiques de défense des végétaux"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MGM2123"
+intitule_ue = "Modélisation et graphisme moléculaire"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MGM21231"
+  intitule_ecue = "Modélisation moléculaire"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MGM21232"
+  intitule_ecue = "Graphisme moléculaire"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MAN2123"
+intitule_ue = "Méthodes Analytiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAN21231"
+  intitule_ecue = "Processus d'extraction , isolement et purification"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAN21232"
+  intitule_ecue = "Techniques séparatives et spectrométrie de masse"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SSY2123"
+intitule_ue = "Stratégie de synthèses"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SSY2123"
+  intitule_ecue = "Stratégie de synthèses"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "COP2123"
+intitule_ue = "Conception de projets"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "COP2123"
+  intitule_ecue = "Conception de projets"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2123"
+intitule_ue = "Anglais"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2123"
+  intitule_ecue = "Anglais"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RBR2124"
+intitule_ue = "Recherche bibliographique et réduction scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RBR2124"
+  intitule_ecue = "Recherche bibliographique et réduction scientifique"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2124"
+intitule_ue = "Stage et Memoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2124"
+  intitule_ecue = "Stage et Memoire"

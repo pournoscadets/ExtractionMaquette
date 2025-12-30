@@ -1,0 +1,456 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAT2111"
+intitule_ue = "Mathématiques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT21111"
+  intitule_ecue = "Tenseurs"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT21112"
+  intitule_ecue = "Equations differentielles et intégrales"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "RHE2111"
+intitule_ue = "Rheologie-Elasticité"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE21111"
+  intitule_ecue = "Rheologie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE21112"
+  intitule_ecue = "Elasticité"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "THM2111"
+intitule_ue = "Thermodynamique des Equilibrés de Phases"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Pr BOA David"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "THM21111"
+  intitule_ecue = "Diagramme d'équilibre"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "THM21112"
+  intitule_ecue = "Calcul des lignes d'équilibre"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ETC2111"
+intitule_ue = "Energétique et Transfert de chaleur"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ABOLE Abolle, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ETC21111"
+  intitule_ecue = "Energétique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ETC21112"
+  intitule_ecue = "Transfert de chaleur"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CHS2111"
+intitule_ue = "Chimie du Solide"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr EKOU Lynda, MC"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CHS21111"
+  intitule_ecue = "Défauts ponctuels"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CHS21112"
+  intitule_ecue = "Elaboration des céramiques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANG2111"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG2111"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 180
+td = 180
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PGP2112"
+intitule_ue = "Principes fondamentaux de Génie des Procedés"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ABOLLE Abollé, MA"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGP21121"
+  intitule_ecue = "Principes généraux"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGP21122"
+  intitule_ecue = "Applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "VIB2112"
+intitule_ue = "Physique des vibrations"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIB21121"
+  intitule_ecue = "Systèmes linéaires"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIB21122"
+  intitule_ecue = "Systèmes non linéaires"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "POL2112"
+intitule_ue = "Polymères"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr BENIE Anoubilé, MC"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POL21121"
+  intitule_ecue = "Polymères organiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POL21122"
+  intitule_ecue = "Application des polymères"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "INR2112"
+intitule_ue = "Initiation à la Recherche"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr ZIAO Nahosse"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "INR2112"
+  intitule_ecue = "Initiation à la Recherche"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "COP2112"
+intitule_ue = "Conception de Projet"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "COP2112"
+  intitule_ecue = "Conception de Projet"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "MEL2112"
+intitule_ue = "Méthodes Electrochimiques"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr BAMBA Kafoumba, MC"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "MEL2112"
+  intitule_ecue = "Méthodes Electrochimiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "SPA2112"
+intitule_ue = "Spectroscopie d'Analyse"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr BENIE Anoubile, MC"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "SPA2112"
+  intitule_ecue = "Spectroscopie d'Analyse"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2112"
+intitule_ue = "Entrepreneuriat"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "M. KOUASSI Ambroise"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2112"
+  intitule_ecue = "Entrepreneuriat"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 186
+td = 174
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

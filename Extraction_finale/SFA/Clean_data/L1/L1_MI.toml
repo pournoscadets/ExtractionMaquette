@@ -1,0 +1,173 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAN2201"
+intitule_ue = "Initiation à l'Analyse Mathématique et Bases"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22011"
+  intitule_ecue = "Initiation à l'Analyse Mathématique"  
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22012"
+  intitule_ecue = "Analyse de base"  
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IAP2201"
+intitule_ue = "Initiation à l'Algorithmique et Programmation"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IAP22011"
+  intitule_ecue = "Algorithmique"  
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IAP22012"
+  intitule_ecue = "Programmation"  
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAL2201"
+intitule_ue = "Groupes et Algèbre Linéaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22011"
+  intitule_ecue = "Groupes"  
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAL22012"
+  intitule_ecue = "Algèbre Linéaire"  
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PME2201"
+intitule_ue = "Mécanique du Point Matériel"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME22011"
+  intitule_ecue = "Cinématique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PME22012"
+  intitule_ecue = "Dynamique"  
+
+[[semestre_1.ue_methodologie]]
+code_ue = "LMR2201"
+intitule_ue = "Logique et Méthode de Raisonnement en Mathématique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "LMR2201"
+  intitule_ecue = "Logique et Méthode de Raisonnement en Mathématique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANG2201"
+intitule_ue = "Anglais"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG2201"
+  intitule_ecue = "Anglais"  
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "RED2201"
+intitule_ue = "Recherche Documentaire"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "RED2201"
+  intitule_ecue = "Recherche Documentaire"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ALG2202"
+intitule_ue = "Algèbre 2"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ALG22021"
+  intitule_ecue = "Espace vectorielle et calcul vectoriel"  
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ALG22022"
+  intitule_ecue = "Algèbre linéaire"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ANA2202"
+intitule_ue = "Analyse 2"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA22021"
+  intitule_ecue = "Intégration et équation différentielle"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANA22022"
+  intitule_ecue = "Fonction vectorielle d'une variable réelle"  
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PEL2202"
+intitule_ue = "Electrostatique - Electricité"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL22021"
+  intitule_ecue = "Electrostatique"  
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PEL22022"
+  intitule_ecue = "Electricité"  
+
+[[semestre_2.ue_specialite]]
+code_ue = "GEO2202"
+intitule_ue = "Géométrie 1"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GEO22021"
+  intitule_ecue = "Éléments de base de la Géométrie"  
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GEO22022"
+  intitule_ecue = "Théories - Espaces affine et euclidien"  
+
+[[semestre_2.ue_specialite]]
+code_ue = "STD2202"
+intitule_ue = "Statistiques descriptives"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "STD22021"
+  intitule_ecue = "Statistique descriptive univariée"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "STD22022"
+  intitule_ecue = "Statistique descriptive bivariée"  
+
+[[semestre_2.ue_methodologie]]
+code_ue = "ARO2202"
+intitule_ue = "Architecture des Ordinateurs"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "ARO2202"
+  intitule_ecue = "Architecture des Ordinateurs"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "MIC2202"
+intitule_ue = "Microeconomie"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "MIC2202"
+  intitule_ecue = "Microeconomie"  

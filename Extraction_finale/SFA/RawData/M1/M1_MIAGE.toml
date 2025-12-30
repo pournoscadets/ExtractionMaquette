@@ -1,0 +1,420 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "FSE2421"
+intitule_ue = "Fiscalité"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "M. BROU Touré"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FSE24211"
+  intitule_ecue = "Aspects fiscaux des opérations commerciales"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FSE24212"
+  intitule_ecue = "Fiscalité des personnes"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GPJ2421"
+intitule_ue = "Gestion de Projet"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GPJ24211"
+  intitule_ecue = "Planification et conduite"
+  cm = 20
+  td = 0
+  tp = 16
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GPJ24212"
+  intitule_ecue = "Atelier"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GEP2421"
+intitule_ue = "Gestion de la Production Avancée"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ASSIELOU Guillaume, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GEP24211"
+  intitule_ecue = "Logistique avancée"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GEP24212"
+  intitule_ecue = "Gestion des stocks avancée"
+  cm = 18
+  td = 0
+  tp = 18
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GLA2421"
+intitule_ue = "Génie Logiciel Avancé"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr TCHIMOU Euloge, MA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24211"
+  intitule_ecue = "Méthodes et outils"
+  cm = 20
+  td = 0
+  tp = 16
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24212"
+  intitule_ecue = "Atelier"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ACG2421"
+intitule_ue = "Audit et Contrôle de Gestion"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "M. GBENOU Gbehode V."
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ACG24211"
+  intitule_ecue = "Audit financier"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ACG24212"
+  intitule_ecue = "Contrôle de gestion"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_1.total]
+cm = 180
+td = 90
+tp = 90
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MAS2422"
+intitule_ue = "Management Stratégique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "M. KOUASSI Ambroise"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAS24221"
+  intitule_ecue = "Diagnostique et besoin stratégique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAS24222"
+  intitule_ecue = "Déploiement stratégique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "AWE2422"
+intitule_ue = "Applications Web"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AWE24221"
+  intitule_ecue = "Architecture"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AWE24222"
+  intitule_ecue = "Déploiement"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "EBD2422"
+intitule_ue = "Exploitation de Bases de Données"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr TCHIMOU Euloge, MA"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "EDO24221"
+  intitule_ecue = "Administration et MEO"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "EDO24222"
+  intitule_ecue = "Sécurisation"
+  cm = 20
+  td = 0
+  tp = 16
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "REN2422"
+intitule_ue = "Réseaux d'Entreprise"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REN24221"
+  intitule_ecue = "Conception de réseaux d'entreprise"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REN24222"
+  intitule_ecue = "Déploiement des réseaux d'entreprise"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GFI2422"
+intitule_ue = "Gestion Financière"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "M. TRAORE Bemma"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFI24221"
+  intitule_ecue = "Financement et politique de dividende"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFI24222"
+  intitule_ecue = "Choix des investissements"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2422"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2422"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_2.total]
+cm = 178
+td = 102
+tp = 80
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

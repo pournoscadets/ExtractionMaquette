@@ -1,0 +1,217 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE
+# Spécialité: PHYSIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE"
+specialite = "PHYSIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "PAN2115"
+intitule_ue = "Physique Atomique et Nucléaire"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN21151"
+  intitule_ecue = "Physique Atomique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN21152"
+  intitule_ecue = "Physique Nucléaire"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ELM2115"
+intitule_ue = "Electromagnétisme des Milieux"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELM21151"
+  intitule_ecue = "Polarisation et aimantation des milieux"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELM21152"
+  intitule_ecue = "Ondes électromagnétiques dans les milieux"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MEF2115"
+intitule_ue = "Mécanique des Fluides"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEF2115"
+  intitule_ecue = "Mécanique des Fluides"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MEA2115"
+intitule_ue = "Mécanique Analytique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEA2115"
+  intitule_ecue = "Mécanique Analytique"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "TSI2115"
+intitule_ue = "Théorie du Signal"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TSI2115"
+  intitule_ecue = "Théorie du Signal"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "REL2115"
+intitule_ue = "Relativité"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "REL2115"
+  intitule_ecue = "Relativité"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "PHS2115"
+intitule_ue = "Physique Statistique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHS21151"
+  intitule_ecue = "Ensembles et Distributions Statistiques"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHS21152"
+  intitule_ecue = "Phénomène de transport"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MOP2115"
+intitule_ue = "Modélisation pour la Physique"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MOP2115"
+  intitule_ecue = "Modélisation pour la Physique"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "PRG2115"
+intitule_ue = "Programmation"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "PRG2115"
+  intitule_ecue = "Programmation"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE
+# Spécialité: PHYSIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE"
+specialite = "PHYSIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PPM2116"
+intitule_ue = "Propriété de la Matière"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PPM21161"
+  intitule_ecue = "Structure de la matière"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PPM21162"
+  intitule_ecue = "Les tenseurs"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "OPP2116"
+intitule_ue = "Optique Physique"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPP21161"
+  intitule_ecue = "Polarisation"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "OPP21162"
+  intitule_ecue = "Interférence et Diffraction"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PVP2116"
+intitule_ue = "Phénomènes de Vibration et de Propagation"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVP21161"
+  intitule_ecue = "Phénomènes de vibration"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVP21162"
+  intitule_ecue = "Propagation"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ELE2116"
+intitule_ue = "Electronique"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ELE21161"
+  intitule_ecue = "Electronique Analogique"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ELE21162"
+  intitule_ecue = "Electronique Numérique"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "MEP2116"
+intitule_ue = "Mesures Physiques"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "MEP2116"
+  intitule_ecue = "Mesures Physiques"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "APP2116"
+intitule_ue = "Projet pratique de fin de Licence"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "APP2116"
+  intitule_ecue = "Projet pratique de fin de Licence"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "ANG2116"
+intitule_ue = "Anglais"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "ANG2116"
+  intitule_ecue = "Anglais"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "GEN2116"
+intitule_ue = "Gestion de l'environnement"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "GEN2116"
+  intitule_ecue = "Gestion de l'environnement"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "NUT2116"
+intitule_ue = "Nutrition"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "NUT2116"
+  intitule_ecue = "Nutrition"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "HIP2116"
+intitule_ue = "Histoire de la Physique"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "HIP2116"
+  intitule_ecue = "Histoire de la Physique"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "DED2116"
+intitule_ue = "Développement durable"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "DED2116"
+  intitule_ecue = "Développement durable"

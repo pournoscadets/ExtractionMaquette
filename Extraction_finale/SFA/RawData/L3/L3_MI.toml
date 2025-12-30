@@ -1,0 +1,546 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Spécialité: INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+specialite = "INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MER2225"
+intitule_ue = "MERISE"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TCHIMOU Eloge, MA"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MER22251"
+  intitule_ecue = "Modélisation des données"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MER22252"
+  intitule_ecue = "Traitement des données"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "THG2225"
+intitule_ue = "Théorie des Graphes"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KONE Oumar, MA"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG22251"
+  intitule_ecue = "Notions de base"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG22252"
+  intitule_ecue = "Algorithms"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "TRS2225"
+intitule_ue = "Traitement du Signal"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "TRS2225"
+  intitule_ecue = "Traitement du Signal"
+  cm = 16
+  td = 10
+  tp = 10
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "MMC2225"
+intitule_ue = "Microprocesseurs - Microcontrôleurs"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TCHIMOU Eloge, MA"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "IMC22251"
+  intitule_ecue = "Microprocesseurs"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "IMC22252"
+  intitule_ecue = "Microcontrôleurs"
+  cm = 0
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "GBD2225"
+intitule_ue = "Système de Gestion des Bases de Données"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Mr BOLI Kuyo"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "GBD2225"
+  intitule_ecue = "Système de Gestion des Bases de Données"
+  cm = 12
+  td = 12
+  tp = 12
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "POO2225"
+intitule_ue = "Programmation Orientée Objet"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr KONE Oumar, MA"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "POO2225"
+  intitule_ecue = "Programmation Orientée Objet"
+  cm = 10
+  td = 0
+  tp = 26
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "REI2225"
+intitule_ue = "Réseaux Informatiques"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "REI22251"
+  intitule_ecue = "Notions de base"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "REI22252"
+  intitule_ecue = "Notions avancées"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "WEB2225"
+intitule_ue = "Programmation WEB"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "WEB22251"
+  intitule_ecue = "Généralités"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "WEB22252"
+  intitule_ecue = "Applications"
+  cm = 6
+  td = 0
+  tp = 30
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2225"
+intitule_ue = "UE Libre"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2225"
+  intitule_ecue = "UE Libre"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_5.total]
+cm = 156
+td = 94
+tp = 110
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Spécialité: INFORMATIQUE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+specialite = "INFORMATIQUE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "IGL2226"
+intitule_ue = "Introduction au Génie Logiciel et UML"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TCHIMOU Euloge, MA"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IGL2261"
+  intitule_ecue = "Introduction au Génie Logiciel"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IGL2262"
+  intitule_ecue = "UML"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "AGL2226"
+intitule_ue = "Atelier Génie Logiciel"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGL22261"
+  intitule_ecue = "Généralités"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGL22262"
+  intitule_ecue = "Applications"
+  cm = 0
+  td = 0
+  tp = 36
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "CAC2226"
+intitule_ue = "Comptabilité Analytique et Comptabilité des Sociétés"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KOUAKOU Enok, MC"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "CAC22261"
+  intitule_ecue = "Comptabilité analytique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "CAC22262"
+  intitule_ecue = "Comptabilité des sociétés"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "LIN2226"
+intitule_ue = "Administration Linux"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TCHIMOU Euloge, MA"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "LIN22261"
+  intitule_ecue = "Généralités"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "LIN22262"
+  intitule_ecue = "Administration"
+  cm = 0
+  td = 0
+  tp = 36
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "OGE2226"
+intitule_ue = "Organisation et Gestion des Entreprises"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "M. KOUASSI Ambroise"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGE2226"
+  intitule_ecue = "Organisation et Gestion des Entreprises"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "TDO2226"
+intitule_ue = "Technologie des Ordinateurs"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KONE Oumar, MA"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "TDO2226"
+  intitule_ecue = "Technologie des Ordinateurs"
+  cm = 12
+  td = 0
+  tp = 12
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "SEP2226"
+intitule_ue = "Suivi et Evaluation de Projet Informatique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr EDI Kouassi, MA / D'LRP ROASSI, MIA"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "SEP22261"
+  intitule_ecue = "Suivi de projet"
+  cm = 24
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "SEP22262"
+  intitule_ecue = "Evaluation de projet"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "ANG2226"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "ANG2226"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_6.total]
+cm = 162
+td = 114
+tp = 84
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

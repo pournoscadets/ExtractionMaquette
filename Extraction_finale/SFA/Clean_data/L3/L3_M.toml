@@ -1,0 +1,161 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES
+# Spécialité: MATHEMATIQUES
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES"
+specialite = "MATHEMATIQUES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MAT2215"
+intitule_ue = "Topologie"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT22151"
+  intitule_ecue = "Espace topologique et homéomorphisme"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT22152"
+  intitule_ecue = "Espaces de Banach"
+
+[[semestre_5.ue_specialite]]
+code_ue = "MAL2215"
+intitule_ue = "Algèbre de Groupes"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MAL22151"
+  intitule_ecue = "Groupes"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MAL22152"
+  intitule_ecue = "Application des groupes en Géométrie"
+
+[[semestre_5.ue_specialite]]
+code_ue = "MCD2215"
+intitule_ue = "Calcul Différentiel"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MCD22151"
+  intitule_ecue = "Théorèmes fondamentaux du calcul différentiel et applications"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MCD22152"
+  intitule_ecue = "Applications à la Géométrie"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MEN2215"
+intitule_ue = "Méthodes Numériques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MEN22151"
+  intitule_ecue = "Résolution numérique des équations"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MEN22152"
+  intitule_ecue = "Résolution des systèmes numériques"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "LOG2215"
+intitule_ue = "Logiciels Scientifiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "LOG22151"
+  intitule_ecue = "Matlab"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "LOG22152"
+  intitule_ecue = "Maple"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2215"
+intitule_ue = "UE Libre"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2215"
+  intitule_ecue = "UE Libre"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES
+# Spécialité: MATHEMATIQUES
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES"
+specialite = "MATHEMATIQUES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MIN2216"
+intitule_ue = "Mesure et Intégration"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIN22161"
+  intitule_ecue = "Fonctions mesurables et Intégration"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIN22162"
+  intitule_ecue = "Espaces L1 et L2"
+
+[[semestre_6.ue_specialite]]
+code_ue = "GED2216"
+intitule_ue = "Géométrie Différentielle"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "GED22161"
+  intitule_ecue = "Espaces Euclidiens et Applications Affines"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "GED22162"
+  intitule_ecue = "Homographie du plan réel et de la droite complexe"
+
+[[semestre_6.ue_specialite]]
+code_ue = "MAL2216"
+intitule_ue = "Algèbre 5"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "MAL22161"
+  intitule_ecue = "Arithmétique dans les anneaux commutatifs"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "MAL22162"
+  intitule_ecue = "Extensions algébriques"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ANC2216"
+intitule_ue = "Analyse Complexe"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ANC22161"
+  intitule_ecue = "Analyticité, Principe du maximum et Applications"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ANC22162"
+  intitule_ecue = "Formules des résidus et Applications"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "PRJ2216"
+intitule_ue = "Projet"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "PRJ2216"
+  intitule_ecue = "Projet"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "ANG2216"
+intitule_ue = "Anglais"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "ANG2216"
+  intitule_ecue = "Anglais"

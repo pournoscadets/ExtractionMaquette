@@ -1,0 +1,335 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PBM2213"
+intitule_ue = "Physique pour la Biologie Moléculaire"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PBM22131"
+  intitule_ecue = "Physique de l'ARN, ADN, Protéine"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PBM22132"
+  intitule_ecue = "Physique de la Régulation"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "BBT2213"
+intitule_ue = "Biophysique et Biochimie Théoriques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr ZIAO Nahossé / Pr YAO Rita / Pr MEGNASSAN Edjem"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BBT22131"
+  intitule_ecue = "Méthodes théoriques"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BBT22132"
+  intitule_ecue = "Analyse structurale"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BBT22133"
+  intitule_ecue = "Modélisation & Conception"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "POH2213"
+intitule_ue = "Propriétés optiques et hydrodynamiques des macromolécules en solutions"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr ACHY Ossey Bertin / Pr ZOUEU Jérémie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "POH22131"
+  intitule_ecue = "Structures Organisées"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "POH22132"
+  intitule_ecue = "Propriétés Optiques"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "DSI2213"
+intitule_ue = "Dynamique des Structures et Interactions des Macromolécules Biologiques"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "DSI22131"
+  intitule_ecue = "Structures, Relations Structure-Fonction"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "DSI22132"
+  intitule_ecue = "Interactions Macromoléculaires"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "CAO2213"
+intitule_ue = "Conception Assistée par ordinateur de (macro)Molécules sur mesure"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr BOUA Boua Benson, MC / Pr NELLIN Gnopo, CNRA / Pr MEGNASSAN Edjem"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CAO22131"
+  intitule_ecue = "Molécules naturelles à activités biologique"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CAO22132"
+  intitule_ecue = "Chimie Médicinale"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CAO22133"
+  intitule_ecue = "Conception Assistée par Ordnateur de Molécules (CAOM)"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "OME2213"
+intitule_ue = "Outils et Méthodes"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr ZIAO Nahossé"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "OME2213"
+  intitule_ecue = "Outils et Méthodes"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "RDS2213"
+intitule_ue = "Réduction Scientifique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr TANOH Hilaire"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "RDS2213"
+  intitule_ecue = "Réduction Scientifique"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 360
+td = 0
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "ENT2214"
+intitule_ue = "Entrepreneuriat"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "M. KABA Mohamed Lamine"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "ENT2214"
+  intitule_ecue = "Entrepreneuriat"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2214"
+intitule_ue = "Stage et Mémoire"
+credit = 29
+cect_ue = 29
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2214"
+  intitule_ecue = "Stage et Mémoire"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 348
+  total_he = 348
+  tpe = 377
+  ctt = 725
+  credit_ecue = 29
+
+[semestre_4.total]
+cm = 12
+td = 0
+tp = 0
+projet = 348
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

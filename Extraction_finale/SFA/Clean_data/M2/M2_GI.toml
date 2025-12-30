@@ -1,0 +1,129 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: GENIE INFORMATIQUE (GI)
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "GENIE INFORMATIQUE (GI)"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MCC2413"
+intitule_ue = "Modèles de Calculus Numériques et Cryptographiques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MCC24131"
+  intitule_ecue = "Cryptographie"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MCC24132"
+  intitule_ecue = "Modèles de calculs numériques"  
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "SDC2413"
+intitule_ue = "Structures de Données Complexes et Optimisation"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC24131"
+  intitule_ecue = "Structures de données complexes"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC24132"
+  intitule_ecue = "Optimisation combinatoire"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "TMU2413"
+intitule_ue = "Technique Multimédia"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TMU24131"
+  intitule_ecue = "Acquisition d'images"  
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TMU24132"
+  intitule_ecue = "Traitement d'images"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "PIN2413"
+intitule_ue = "Protocoles de l'Internet"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PIN2413"
+  intitule_ecue = "Protocoles de l'Internet"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "PRP2413"
+intitule_ue = "Programmation parallèle"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PRP2413"
+  intitule_ecue = "Programmation parallèle"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "RMQ2413"
+intitule_ue = "Réseaux Mobiles avancés et Qualité de Service"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "RMQ24131"
+  intitule_ecue = "Réseaux Mobiles avancés"  
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "RMQ24132"
+  intitule_ecue = "Qualité de service"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "EPD2413"
+intitule_ue = "Evaluations des performances et Sureté"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EPS24131"
+  intitule_ecue = "Evaluations des performances"  
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EPS24132"
+  intitule_ecue = "Sureté"  
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "DRT2413"
+intitule_ue = "Droit des TIC"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "DRT2413"
+  intitule_ecue = "Droit des TIC"  
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: GENIE INFORMATIQUE (GI)
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "GENIE INFORMATIQUE (GI)"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2414"
+intitule_ue = "Rédaction Scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2414"
+  intitule_ecue = "Rédaction Scientifique"  
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2414"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2414"
+  intitule_ecue = "Stage et Mémoire"

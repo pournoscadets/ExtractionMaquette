@@ -1,0 +1,336 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MCC2413"
+intitule_ue = "Modèles de Calculus Numériques et Cryptographiques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr DIAGANA Youssouf, MC / Pr AKA Boko"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MCC24131"
+  intitule_ecue = "Cryptographie"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MCC24132"
+  intitule_ecue = "Modèles de calculs numériques"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "SDC2413"
+intitule_ue = "Structures de Données Complexes et Optimisation"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr EDI Kouassi, MA / Dr ZANA Coulibaly, MA"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC24131"
+  intitule_ecue = "Structures de données complexes"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC24132"
+  intitule_ecue = "Optimisation combinatoire"
+  cm = 36
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TMU2413"
+intitule_ue = "Technique Multimédia"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr LOUME Georges, MC"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TMU24131"
+  intitule_ecue = "Acquisition d'images"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TMU24132"
+  intitule_ecue = "Traitement d'images"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PIN2413"
+intitule_ue = "Protocoles de l'Internet"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr TCHIMOU Eulode, MA"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PIN2413"
+  intitule_ecue = "Protocoles de l'Internet"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PRP2413"
+intitule_ue = "Programmation parallèle"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PRP2413"
+  intitule_ecue = "Programmation parallèle"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "RMQ2413"
+intitule_ue = "Réseaux Mobiles avancés et Qualité de Service"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr TRAORE Soungalo, A"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "RMQ24131"
+  intitule_ecue = "Réseaux Mobiles avancés"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "RMQ24132"
+  intitule_ecue = "Qualité de service"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "EPD2413"
+intitule_ue = "Evaluations des performances"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EPS24131"
+  intitule_ecue = "Evaluations des performances"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "EPS2413"
+intitule_ue = "et Sureté"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDU KOUASSI, M/A"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EPS24132"
+  intitule_ecue = "Sureté"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "DRT2413"
+intitule_ue = "Droit des TIC"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "DRT2413"
+  intitule_ecue = "Droit des TIC"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 348
+td = 12
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2414"
+intitule_ue = "Réduction Scientifique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr TANOH Hilaire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2414"
+  intitule_ecue = "Réduction Scientifique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2414"
+intitule_ue = "Stage et Mémoire"
+credit = 28
+cect_ue = 28
+enseignant_responsable = "Pr AKA Boko"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2414"
+  intitule_ecue = "Stage et Mémoire"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 336
+  total_he = 336
+  tpe = 364
+  ctt = 700
+  credit_ecue = 28
+  evaluation_cc = ""
+  evaluation_et = ""
+
+[semestre_4.total]
+cm = 12
+td = 12
+tp = 0
+projet = 336
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

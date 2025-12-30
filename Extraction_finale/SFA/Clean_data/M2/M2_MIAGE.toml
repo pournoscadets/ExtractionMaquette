@@ -1,0 +1,141 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AIN2423"
+intitule_ue = "Audit Informatique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AIN24231"
+  intitule_ecue = "Audit d'exploitation (COBIT ITIL)"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AIN24232"
+  intitule_ecue = "Audit de sécurité (ISACA)"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AEA2423"
+intitule_ue = "Analyse Economique Approfondie"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AEA24231"
+  intitule_ecue = "Microéconomie approfondie"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AEA24232"
+  intitule_ecue = "Macroéconomie approfondie"
+
+[[semestre_3.ue_specialite]]
+code_ue = "VEV2423"
+intitule_ue = "Vérification Validation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "VEV24231"
+  intitule_ecue = "Principe méthodes et techniques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "VEV24232"
+  intitule_ecue = "Essais et tests"
+
+[[semestre_3.ue_specialite]]
+code_ue = "EDO2423"
+intitule_ue = "Entrepôt de Données"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EDO24231"
+  intitule_ecue = "Forage de données"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EDO24232"
+  intitule_ecue = "Analyse de données"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ECA2423"
+intitule_ue = "Economie Appliquée"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ECA24231"
+  intitule_ecue = "Economie Numérique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ECA24232"
+  intitule_ecue = "Economie de l'environnement"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GPP2423"
+intitule_ue = "Gestion de Portefeuille de Projets"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPP24231"
+  intitule_ecue = "Sélection de projets"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPP24232"
+  intitule_ecue = "Optimisation de portefeuille"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "DTE2423"
+intitule_ue = "Droit du Travail et des Entreprises"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "DTE24231"
+  intitule_ecue = "Droit du Travail"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "DTE24232"
+  intitule_ecue = "Droit des entreprises"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "CAE2424"
+intitule_ue = "Comptabilité Approfondie- Entrepreneuriat"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "CAE24241"
+  intitule_ecue = "Comptabilité approfondie"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "CAE24242"
+  intitule_ecue = "Entrepreneuriat"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2424"
+intitule_ue = "Réduction Scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2424"
+  intitule_ecue = "Réduction Scientifique"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2424"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2424"
+  intitule_ecue = "Stage et Mémoire"

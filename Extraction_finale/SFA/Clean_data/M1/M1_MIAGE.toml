@@ -1,0 +1,157 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "FSE2421"
+intitule_ue = "Fiscalité"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FSE24211"
+  intitule_ecue = "Aspects fiscaux des opérations commerciales"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FSE24212"
+  intitule_ecue = "Fiscalité des personnes"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GPJ2421"
+intitule_ue = "Gestion de Projet"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GPJ24211"
+  intitule_ecue = "Planification et conduite"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GPJ24212"
+  intitule_ecue = "Atelier"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GEP2421"
+intitule_ue = "Gestion de la Production Avancée"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GEP24211"
+  intitule_ecue = "Logistique avancée"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GEP24212"
+  intitule_ecue = "Gestion des stocks avancée"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GLA2421"
+intitule_ue = "Génie Logiciel Avancé"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24211"
+  intitule_ecue = "Méthodes et outils"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24212"
+  intitule_ecue = "Atelier"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ACG2421"
+intitule_ue = "Audit et Contrôle de Gestion"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ACG24211"
+  intitule_ecue = "Audit financier"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ACG24212"
+  intitule_ecue = "Contrôle de gestion"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MAS2422"
+intitule_ue = "Management Stratégique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAS24221"
+  intitule_ecue = "Diagnostique et besoin stratégique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAS24222"
+  intitule_ecue = "Déploiement stratégique"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "AWE2422"
+intitule_ue = "Applications Web"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AWE24221"
+  intitule_ecue = "Architecture"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AWE24222"
+  intitule_ecue = "Déploiement"
+
+[[semestre_2.ue_specialite]]
+code_ue = "EBD2422"
+intitule_ue = "Exploitation de Bases de Données"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "EDO24221"
+  intitule_ecue = "Administration et MEO"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "EDO24222"
+  intitule_ecue = "Sécurisation"
+
+[[semestre_2.ue_specialite]]
+code_ue = "REN2422"
+intitule_ue = "Réseaux d'Entreprise"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REN24221"
+  intitule_ecue = "Conception de réseaux d'entreprise"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REN24222"
+  intitule_ecue = "Déploiement des réseaux d'entreprise"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GFI2422"
+intitule_ue = "Gestion Financière"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFI24221"
+  intitule_ecue = "Financement et politique de dividende"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFI24222"
+  intitule_ecue = "Choix des investissements"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2422"
+intitule_ue = "Anglais"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2422"
+  intitule_ecue = "Anglais"

@@ -1,0 +1,137 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: PHOTONIQUE
+# Spécialité: PHOTONIQUE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "PHOTONIQUE"
+specialite = "PHOTONIQUE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CIE2223"
+intitule_ue = "Circuits et Instrumentations Electroniques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CIE22231"
+  intitule_ecue = "Circuits Electroniques"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CIE22232"
+  intitule_ecue = "Instrumentations Electronique"
+
+[[semestre_3.ue_specialite]]
+code_ue = "OPA2223"
+intitule_ue = "Optique Avancée"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OPA22231"
+  intitule_ecue = "Optique Nonlinéaire"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OPA22232"
+  intitule_ecue = "Optique Guidée"
+
+[[semestre_3.ue_specialite]]
+code_ue = "LAS2223"
+intitule_ue = "Lasers"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "LAS22231"
+  intitule_ecue = "Description des Laser"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "LAS22232"
+  intitule_ecue = "Principaux Lasers : technologie et applications"
+
+[[semestre_3.ue_specialite]]
+code_ue = "OMO2223"
+intitule_ue = "Outils de Modélisation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OMO2223"
+  intitule_ecue = "Outils de Modélisation"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SPE2223"
+intitule_ue = "Spectroscopie Avancée"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SPE2223"
+  intitule_ecue = "Spectroscopie Avancée"
+
+[[semestre_3.ue_optionnelles]]
+code_ue = "IPP2223"
+intitule_ue = "Initiation à la Physique du Plasma"
+
+  [[semestre_3.ue_optionnelles.ecue]]
+  code_ecue = "IPP2223"
+  intitule_ecue = "Initiation à la Physique du Plasma"
+
+[[semestre_3.ue_optionnelles]]
+code_ue = "IPF2223"
+intitule_ue = "Initiation à la physique de couches minces"
+
+  [[semestre_3.ue_optionnelles.ecue]]
+  code_ecue = "IPF2223"
+  intitule_ecue = "Initiation à la physique de couches minces"
+
+[[semestre_3.ue_optionnelles]]
+code_ue = "ITR2223"
+intitule_ue = "Initiation à la Théorie de la Relativité"
+
+  [[semestre_3.ue_optionnelles.ecue]]
+  code_ecue = "ITR2223"
+  intitule_ecue = "Initiation à la Théorie de la Relativité"
+
+[[semestre_3.ue_optionnelles]]
+code_ue = "TCA2223"
+intitule_ue = "Techniques de caractérisation de matériaux"
+
+  [[semestre_3.ue_optionnelles.ecue]]
+  code_ecue = "TCA2223"
+  intitule_ecue = "Techniques de caractérisation de matériaux"
+
+[[semestre_3.ue_optionnelles]]
+code_ue = "EEO2223"
+intitule_ue = "Effets Electro-optiques"
+
+  [[semestre_3.ue_optionnelles.ecue]]
+  code_ecue = "EEO2223"
+  intitule_ecue = "Effets Electro-optiques"
+
+[[semestre_3.ue_optionnelles]]
+code_ue = "MMM2223"
+intitule_ue = "Modélisation Moléculaire : Matière molle"
+
+  [[semestre_3.ue_optionnelles.ecue]]
+  code_ecue = "MMM2223"
+  intitule_ecue = "Modélisation Moléculaire : Matière molle"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: PHOTONIQUE
+# Spécialité: PHOTONIQUE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "PHOTONIQUE"
+specialite = "PHOTONIQUE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2224"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2224"
+  intitule_ecue = "Stage et Mémoire"

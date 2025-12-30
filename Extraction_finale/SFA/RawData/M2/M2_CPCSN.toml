@@ -1,0 +1,293 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CBO2123"
+intitule_ue = "Chimie Bio organique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr BEKRO Yves-Alain"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CBO21231"
+  intitule_ecue = "Mécanisme réactionnel, biomolécules et métabolisme"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CBO21232"
+  intitule_ecue = "Transformation biochimique, famille de composés bioimportants"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "SCB2123"
+intitule_ue = "Synthèse des composés bioactifs"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr MAMYRBEKOVA Janat épse BEKRO"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SCB21231"
+  intitule_ecue = "Lipides, vitamines"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SCB21232"
+  intitule_ecue = "Moyens chimiques de défense des végétaux"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MGM2123"
+intitule_ue = "Modélisation et graphisme moléculaire"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr MEGNASSAN Edjem"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MGM21231"
+  intitule_ecue = "Modélisation moléculaire"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MGM21232"
+  intitule_ecue = "Graphisme moléculaire"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MAN2123"
+intitule_ue = "Méthodes Analytiques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KOUAME BOSSON Antoine, MC"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAN21231"
+  intitule_ecue = "Processus d'extraction , isolement et purification"
+  cm = 18
+  td = 0
+  tp = 18
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAN21232"
+  intitule_ecue = "Techniques séparatives et spectrométrie de masse"
+  cm = 18
+  td = 0
+  tp = 18
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SSY2123"
+intitule_ue = "Stratégie de synthèses"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr BENIE Anoubile, MC"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SSY2123"
+  intitule_ecue = "Stratégie de synthèses"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "COP2123"
+intitule_ue = "Conception de projets"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KOUASSI Adon Mathieu, MA"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "COP2123"
+  intitule_ecue = "Conception de projets"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2123"
+intitule_ue = "Anglais"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Mme ATOKPA"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2123"
+  intitule_ecue = "Anglais"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 192
+td = 132
+tp = 36
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RBR2124"
+intitule_ue = "Recherche bibliographique et réduction scientifique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr KONAN Marcel, MA / Dr OUATTARA Zana, MA"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RBR2124"
+  intitule_ecue = "Recherche bibliographique et réduction scientifique"
+  cm = 24
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2124"
+intitule_ue = "Stage et Memoire"
+credit = 28
+cect_ue = 28
+enseignant_responsable = "Pr MAMYRBEKOVA Janat épse BEKRO"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2124"
+  intitule_ecue = "Stage et Memoire"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 336
+  total_he = 336
+  tpe = 364
+  ctt = 700
+  credit_ecue = 28
+
+[semestre_4.total]
+cm = 24
+td = 0
+tp = 0
+projet = 336
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

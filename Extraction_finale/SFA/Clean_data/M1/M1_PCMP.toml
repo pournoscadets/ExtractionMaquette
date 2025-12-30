@@ -1,0 +1,173 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)
+# Spécialité: PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)"
+specialite = "PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MAT2111"
+intitule_ue = "Mathématiques"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT21111"
+  intitule_ecue = "Tenseurs"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT21112"
+  intitule_ecue = "Equations differentielles et intégrales"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "RHE2111"
+intitule_ue = "Rheologie-Elasticité"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE21111"
+  intitule_ecue = "Rheologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE21112"
+  intitule_ecue = "Elasticité"
+
+[[semestre_1.ue_specialite]]
+code_ue = "THM2111"
+intitule_ue = "Thermodynamique des Equilibrés de Phases"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "THM21111"
+  intitule_ecue = "Diagramme d'équilibre"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "THM21112"
+  intitule_ecue = "Calcul des lignes d'équilibre"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ETC2111"
+intitule_ue = "Energétique et Transfert de chaleur"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ETC21111"
+  intitule_ecue = "Energétique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ETC21112"
+  intitule_ecue = "Transfert de chaleur"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CHS2111"
+intitule_ue = "Chimie du Solide"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CHS21111"
+  intitule_ecue = "Défauts ponctuels"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CHS21112"
+  intitule_ecue = "Elaboration des céramiques"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANG2111"
+intitule_ue = "Anglais"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG2111"
+  intitule_ecue = "Anglais"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)
+# Spécialité: PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSICO-CHIMIE DES MATERIALAUX ET PROCEDES (PCMP)"
+specialite = "PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PGP2112"
+intitule_ue = "Principes fondamentaux de Génie des Procedés"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGP21121"
+  intitule_ecue = "Principes généraux"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGP21122"
+  intitule_ecue = "Applications"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "VIB2112"
+intitule_ue = "Physique des vibrations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIB21121"
+  intitule_ecue = "Systèmes linéaires"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIB21122"
+  intitule_ecue = "Systèmes non linéaires"
+
+[[semestre_2.ue_specialite]]
+code_ue = "POL2112"
+intitule_ue = "Polymères"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POL21121"
+  intitule_ecue = "Polymères organiques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POL21122"
+  intitule_ecue = "Application des polymères"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "INR2112"
+intitule_ue = "Initiation à la Recherche"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "INR2112"
+  intitule_ecue = "Initiation à la Recherche"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "COP2112"
+intitule_ue = "Conception de Projet"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "COP2112"
+  intitule_ecue = "Conception de Projet"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "MEL2112"
+intitule_ue = "Méthodes Electrochimiques"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "MEL2112"
+  intitule_ecue = "Méthodes Electrochimiques"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "SPA2112"
+intitule_ue = "Spectroscopie d'Analyse"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "SPA2112"
+  intitule_ecue = "Spectroscopie d'Analyse"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2112"
+intitule_ue = "Entrepreneuriat"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2112"
+  intitule_ecue = "Entrepreneuriat"

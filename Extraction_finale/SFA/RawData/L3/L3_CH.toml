@@ -1,0 +1,490 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Spécialité: CHIMIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+specialite = "CHIMIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "THS2135"
+intitule_ue = "Thermodynamique Statistique"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr MOUSSE Logbo, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THS21351"
+  intitule_ecue = "Processus réversibles"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THS21352"
+  intitule_ecue = "Processus irréversibles"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "THG2135"
+intitule_ue = "Thermodynamique Générale"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr BOA David"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG21351"
+  intitule_ecue = "Potentiels thermodynamiques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "THG21352"
+  intitule_ecue = "Thermodynamique des solutions"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "CMA2135"
+intitule_ue = "Chimie Minérale Avancée"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr EKOU Tchrioua, MC"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CMA21351"
+  intitule_ecue = "Eléments de transition"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CMA21352"
+  intitule_ecue = "Chimie minérale industrielle"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "LCS2135"
+intitule_ue = "Liaisons Chimiques et Spectroscopie"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Pr ZIAO Nahosse / Dr BENIE Anoubile, MC"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "LCS21351"
+  intitule_ecue = "Liaisons Chimiques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "LCS21352"
+  intitule_ecue = "Spectroscopie"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "CRI2135"
+intitule_ue = "Cristallographie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KODJO Charles, MC"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "CRI21351"
+  intitule_ecue = "Notions de base"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "CRI21352"
+  intitule_ecue = "Applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "ANU2135"
+intitule_ue = "Analyse Numérique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr ZEZE Sylvain, MA"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "ANU2135"
+  intitule_ecue = "Analyse Numérique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2135"
+intitule_ue = "UE Libre"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr BENIE Anoubile, MC"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2135"
+  intitule_ecue = "UE Libre"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_5.total]
+cm = 186
+td = 174
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: PHYSIQUE-CHIMIE
+# Spécialité: CHIMIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "PHYSIQUE-CHIMIE"
+specialite = "CHIMIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "CHO2136"
+intitule_ue = "Chimie Organique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr BEKRO Yves-Alain"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO21361"
+  intitule_ecue = "Phénols-Ethers-Epoxydes-dérivés"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO21362"
+  intitule_ecue = "Amines-Acides carboxyliques et ses dérivés"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "ECC2136"
+intitule_ue = "Cinétique Chimique/ Electrochimie"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr BAMBA Kafoumba, MC / Dr EKOU Lynda, MC"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECC21361"
+  intitule_ecue = "Electrochimie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECC21362"
+  intitule_ecue = "Cinétique chimique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MEF2136"
+intitule_ue = "Mécanique des Fluides"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr TCHETCHE Yao, MC"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEF2136"
+  intitule_ecue = "Mécanique des Fluides"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ASQ2136"
+intitule_ue = "Assurance Qualité"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Pr TRAORE Karim"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ASQ21361"
+  intitule_ecue = "Assurance"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ASQ21362"
+  intitule_ecue = "Qualité"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "CHQ2136"
+intitule_ue = "Chimie Quantique"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Pr ZIAO Nahosse"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "CHQ2136"
+  intitule_ecue = "Chimie Quantique"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "PRG2136"
+intitule_ue = "Programmation"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr COULIBALY Zana, MA"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "PRG2136"
+  intitule_ecue = "Programmation"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "CHP2136"
+intitule_ue = "Chimie Pratique"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr BOUA B. Benson, MC"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "CHP21361"
+  intitule_ecue = "Chimie Organique"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "CHP21362"
+  intitule_ecue = "Chimie Physique"
+  cm = 0
+  td = 0
+  tp = 24
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "PRJ2136"
+intitule_ue = "Projet"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "M. KOUASSI Ambroise"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "PRJ2136"
+  intitule_ecue = "Projet"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_6.total]
+cm = 156
+td = 156
+tp = 48
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

@@ -1,0 +1,2893 @@
+{
+  "label": "Université Nangui Abrogoua",
+  "abbreviation": "UNA",
+  "ufrs": [
+    {
+      "label": "Sciences Fondamentales et Appliquées",
+      "abbreviation": "SFA",
+      "parcours": [
+        {
+          "label": "MATHEMATIQUES-INFORMATIQUE",
+          "abbreviation": "MI",
+          "levels": [
+            {
+              "label": "L1",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Initiation à l'Analyse Mathématique et Bases",
+                      "abbreviation": "MAN2201",
+                      "ecues": [
+                        {
+                          "label": "Initiation à l'Analyse Mathématique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse de base",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Groupes et Algèbre Linéaire",
+                      "abbreviation": "MAL2201",
+                      "ecues": [
+                        {
+                          "label": "Groupes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algèbre Linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre 2",
+                      "abbreviation": "ALG2202",
+                      "ecues": [
+                        {
+                          "label": "Espace vectorielle et calcul vectoriel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algèbre linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse 2",
+                      "abbreviation": "ANA2202",
+                      "ecues": [
+                        {
+                          "label": "Intégration et équation différentielle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Fonction vectorielle d'une variable réelle",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Géométrie 1",
+                      "abbreviation": "GEO2202",
+                      "ecues": [
+                        {
+                          "label": "Éléments de base de la Géométrie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Théories - Espaces affine et euclidien",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistiques descriptives",
+                      "abbreviation": "STD2202",
+                      "ecues": [
+                        {
+                          "label": "Statistique descriptive univariée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistique descriptive bivariée",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Logique et Méthode de Raisonnement en Mathématique",
+                      "abbreviation": "LMR2201",
+                      "ecues": [
+                        {
+                          "label": "Logique et Méthode de Raisonnement en Mathématique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Initiation à l'Algorithmique et Programmation",
+                      "abbreviation": "IAP2201",
+                      "ecues": [
+                        {
+                          "label": "Algorithmique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Programmation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Architecture des Ordinateurs",
+                      "abbreviation": "ARO2202",
+                      "ecues": [
+                        {
+                          "label": "Architecture des Ordinateurs",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Mécanique du Point Matériel",
+                      "abbreviation": "PME2201",
+                      "ecues": [
+                        {
+                          "label": "Cinématique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Dynamique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electrostatique - Electricité",
+                      "abbreviation": "PEL2202",
+                      "ecues": [
+                        {
+                          "label": "Electrostatique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Electricité",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2201",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Recherche Documentaire",
+                      "abbreviation": "RED2201",
+                      "ecues": [
+                        {
+                          "label": "Recherche Documentaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Economie",
+                  "abbreviation": "ECO",
+                  "ues": [
+                    {
+                      "label": "Microeconomie",
+                      "abbreviation": "MIC2202",
+                      "ecues": [
+                        {
+                          "label": "Microeconomie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "L2",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse 3",
+                      "abbreviation": "ANA2203",
+                      "ecues": [
+                        {
+                          "label": "Intégrale généralisée et Série",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Développement en série",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités - Statistiques",
+                      "abbreviation": "MST2203",
+                      "ecues": [
+                        {
+                          "label": "Probabilité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre 3",
+                      "abbreviation": "ALG2203",
+                      "ecues": [
+                        {
+                          "label": "Algèbre Générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Réduction des Matrices et Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Arithmetique",
+                      "abbreviation": "ARI2203",
+                      "ecues": [
+                        {
+                          "label": "Arithmetique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Applications Linéaires",
+                      "abbreviation": "APL2224",
+                      "ecues": [
+                        {
+                          "label": "Recherche opérationnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mathématiques discrètes",
+                      "abbreviation": "MAD2224",
+                      "ecues": [
+                        {
+                          "label": "Mathématiques discrètes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse 4",
+                      "abbreviation": "ANA2214",
+                      "ecues": [
+                        {
+                          "label": "Initiation à la topologie de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bases de la Physique Mathématique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre 4",
+                      "abbreviation": "ALG2214",
+                      "ecues": [
+                        {
+                          "label": "Dualité - Formes linéaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Formes bilinéaires, quadratiques, hermitiennes - Espaces métriques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Géométrie 2",
+                      "abbreviation": "GEO2214",
+                      "ecues": [
+                        {
+                          "label": "Géométrie Plane",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Géométrie Descriptive",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthodologie (Mathématiques)",
+                      "abbreviation": "MET2214",
+                      "ecues": [
+                        {
+                          "label": "Méthodologie (Mathématiques)",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Programmation Structurée",
+                      "abbreviation": "PGS2203",
+                      "ecues": [
+                        {
+                          "label": "Généralités",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Base de Données",
+                      "abbreviation": "BDO2224",
+                      "ecues": [
+                        {
+                          "label": "Modélisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Introduction aux Systèmes d'Exploitation",
+                      "abbreviation": "ISE2224",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Notions avancées",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Economie",
+                  "abbreviation": "ECO",
+                  "ues": [
+                    {
+                      "label": "Gestion des Projets",
+                      "abbreviation": "GPR2203",
+                      "ecues": [
+                        {
+                          "label": "Gestion des Projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Macroéconomie",
+                      "abbreviation": "MAC2203",
+                      "ecues": [
+                        {
+                          "label": "Macroéconomie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Comptabilité Générale",
+                      "abbreviation": "CPG2224",
+                      "ecues": [
+                        {
+                          "label": "Notions de bases",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion des Stocks et de l'Approvisionnement",
+                      "abbreviation": "GSA2224",
+                      "ecues": [
+                        {
+                          "label": "Gestion des stocks",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Approvisionnement",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion des Entreprises",
+                      "abbreviation": "GEE2214",
+                      "ecues": [
+                        {
+                          "label": "Gestion des Entreprises",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Ingénieur",
+                  "abbreviation": "ING",
+                  "ues": [
+                    {
+                      "label": "Electronique Numérique",
+                      "abbreviation": "ELN2224",
+                      "ecues": [
+                        {
+                          "label": "Electronique Numérique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2224",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "INFORMATIQUE",
+          "abbreviation": "INFO",
+          "levels": [
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "MERISE",
+                      "abbreviation": "MER2225",
+                      "ecues": [
+                        {
+                          "label": "Modélisation des données",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Traitement des données",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Théorie des Graphes",
+                      "abbreviation": "THG2225",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algorithms",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Traitement du Signal",
+                      "abbreviation": "TRS2225",
+                      "ecues": [
+                        {
+                          "label": "Traitement du Signal",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Microprocesseurs - Microcontrôleurs",
+                      "abbreviation": "MMC2225",
+                      "ecues": [
+                        {
+                          "label": "Microprocesseurs",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Microcontrôleurs",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Système de Gestion des Bases de Données",
+                      "abbreviation": "GBD2225",
+                      "ecues": [
+                        {
+                          "label": "Système de Gestion des Bases de Données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation Orientée Objet",
+                      "abbreviation": "POO2225",
+                      "ecues": [
+                        {
+                          "label": "Programmation Orientée Objet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Réseaux Informatiques",
+                      "abbreviation": "REI2225",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Notions avancées",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation WEB",
+                      "abbreviation": "WEB2225",
+                      "ecues": [
+                        {
+                          "label": "Généralités",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "UE Libre",
+                      "abbreviation": "UEL2225",
+                      "ecues": [
+                        {
+                          "label": "UE Libre",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Introduction au Génie Logiciel et UML",
+                      "abbreviation": "IGL2226",
+                      "ecues": [
+                        {
+                          "label": "Introduction au Génie Logiciel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "UML",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Atelier Génie Logiciel",
+                      "abbreviation": "AGL2226",
+                      "ecues": [
+                        {
+                          "label": "Généralités",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Comptabilité Analytique et Comptabilité des Sociétés",
+                      "abbreviation": "CAC2226",
+                      "ecues": [
+                        {
+                          "label": "Comptabilité analytique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Comptabilité des sociétés",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Administration Linux",
+                      "abbreviation": "LIN2226",
+                      "ecues": [
+                        {
+                          "label": "Généralités",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Administration",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Organisation et Gestion des Entreprises",
+                      "abbreviation": "OGE2226",
+                      "ecues": [
+                        {
+                          "label": "Organisation et Gestion des Entreprises",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technologie des Ordinateurs",
+                      "abbreviation": "TDO2226",
+                      "ecues": [
+                        {
+                          "label": "Technologie des Ordinateurs",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Suivi et Evaluation de Projet Informatique",
+                      "abbreviation": "SEP2226",
+                      "ecues": [
+                        {
+                          "label": "Suivi de projet",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Evaluation de projet",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2226",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "GENIE INFORMATIQUE (GI)",
+          "abbreviation": "GI",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Intelligence Artificielle",
+                      "abbreviation": "INA2411",
+                      "ecues": [
+                        {
+                          "label": "Représentation de la connaissance",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Lois d'interprétation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Langages formels et Compilation",
+                      "abbreviation": "LFC2411",
+                      "ecues": [
+                        {
+                          "label": "Langages formels et Compilation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Conduite de Projets Informatiques",
+                      "abbreviation": "CPI2411",
+                      "ecues": [
+                        {
+                          "label": "Conduites de projets",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Recherche Opérationnelle",
+                      "abbreviation": "ROO2411",
+                      "ecues": [
+                        {
+                          "label": "Programmation en nombre entier",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Programmation non linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génie Logiciel Avancé",
+                      "abbreviation": "GLA2411",
+                      "ecues": [
+                        {
+                          "label": "Méthodes de conception",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ateliers de Développement",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Réseaux et Transmission de Données",
+                      "abbreviation": "RET2411",
+                      "ecues": [
+                        {
+                          "label": "Conception de réseaux locaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Transmission",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Applications Réparties",
+                      "abbreviation": "APR2412",
+                      "ecues": [
+                        {
+                          "label": "Applications Réparties",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse Numériques et Applications",
+                      "abbreviation": "ANU2412",
+                      "ecues": [
+                        {
+                          "label": "Analyses numériques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation Web Avancée",
+                      "abbreviation": "PWA2412",
+                      "ecues": [
+                        {
+                          "label": "Bases",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Réseaux de Télécommunication",
+                      "abbreviation": "RTE2412",
+                      "ecues": [
+                        {
+                          "label": "Réseaux de Télécommunication",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Bases de données avancées",
+                      "abbreviation": "BDA2412",
+                      "ecues": [
+                        {
+                          "label": "Administration et mise en œuvre des bases de données",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bases de données déductives",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Systèmes d'Exploitation",
+                      "abbreviation": "SYE2412",
+                      "ecues": [
+                        {
+                          "label": "Systèmes d'Exploitation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Sécurité des Systèmes Informatiques",
+                      "abbreviation": "SYI2412",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2412",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2412",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Modèles de Calculus Numériques et Cryptographiques",
+                      "abbreviation": "MCC2413",
+                      "ecues": [
+                        {
+                          "label": "Cryptographie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Modèles de calculs numériques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Structures de Données Complexes et Optimisation",
+                      "abbreviation": "SDC2413",
+                      "ecues": [
+                        {
+                          "label": "Structures de données complexes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Optimisation combinatoire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technique Multimédia",
+                      "abbreviation": "TMU2413",
+                      "ecues": [
+                        {
+                          "label": "Acquisition d'images",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Traitement d'images",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Protocoles de l'Internet",
+                      "abbreviation": "PIN2413",
+                      "ecues": [
+                        {
+                          "label": "Protocoles de l'Internet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation parallèle",
+                      "abbreviation": "PRP2413",
+                      "ecues": [
+                        {
+                          "label": "Programmation parallèle",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Réseaux Mobiles avancés et Qualité de Service",
+                      "abbreviation": "RMQ2413",
+                      "ecues": [
+                        {
+                          "label": "Réseaux Mobiles avancés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Qualité de service",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Evaluations des performances et Sureté",
+                      "abbreviation": "EPD2413",
+                      "ecues": [
+                        {
+                          "label": "Evaluations des performances",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Sureté",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Rédaction Scientifique",
+                      "abbreviation": "RDS2414",
+                      "ecues": [
+                        {
+                          "label": "Rédaction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Mémoire",
+                      "abbreviation": "STM2414",
+                      "ecues": [
+                        {
+                          "label": "Stage et Mémoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Droit",
+                  "abbreviation": "DRT",
+                  "ues": [
+                    {
+                      "label": "Droit des TIC",
+                      "abbreviation": "DRT2413",
+                      "ecues": [
+                        {
+                          "label": "Droit des TIC",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)",
+          "abbreviation": "MIAGE",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Fiscalité",
+                      "abbreviation": "FSE2421",
+                      "ecues": [
+                        {
+                          "label": "Aspects fiscaux des opérations commerciales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Fiscalité des personnes",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion de Projet",
+                      "abbreviation": "GPJ2421",
+                      "ecues": [
+                        {
+                          "label": "Planification et conduite",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Atelier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion de la Production Avancée",
+                      "abbreviation": "GEP2421",
+                      "ecues": [
+                        {
+                          "label": "Logistique avancée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion des stocks avancée",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génie Logiciel Avancé",
+                      "abbreviation": "GLA2421",
+                      "ecues": [
+                        {
+                          "label": "Méthodes et outils",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Atelier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Audit et Contrôle de Gestion",
+                      "abbreviation": "ACG2421",
+                      "ecues": [
+                        {
+                          "label": "Audit financier",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Contrôle de gestion",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Management Stratégique",
+                      "abbreviation": "MAS2422",
+                      "ecues": [
+                        {
+                          "label": "Diagnostique et besoin stratégique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Déploiement stratégique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion Financière",
+                      "abbreviation": "GFI2422",
+                      "ecues": [
+                        {
+                          "label": "Financement et politique de dividende",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Choix des investissements",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Applications Web",
+                      "abbreviation": "AWE2422",
+                      "ecues": [
+                        {
+                          "label": "Architecture",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Déploiement",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Exploitation de Bases de Données",
+                      "abbreviation": "EBD2422",
+                      "ecues": [
+                        {
+                          "label": "Administration et MEO",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Sécurisation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Réseaux d'Entreprise",
+                      "abbreviation": "REN2422",
+                      "ecues": [
+                        {
+                          "label": "Conception de réseaux d'entreprise",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Déploiement des réseaux d'entreprise",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2422",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Audit Informatique",
+                      "abbreviation": "AIN2423",
+                      "ecues": [
+                        {
+                          "label": "Audit d'exploitation (COBIT ITIL)",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Audit de sécurité (ISACA)",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion de Portefeuille de Projets",
+                      "abbreviation": "GPP2423",
+                      "ecues": [
+                        {
+                          "label": "Sélection de projets",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Optimisation de portefeuille",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Comptabilité Approfondie- Entrepreneuriat",
+                      "abbreviation": "CAE2424",
+                      "ecues": [
+                        {
+                          "label": "Comptabilité approfondie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Economie",
+                  "abbreviation": "ECO",
+                  "ues": [
+                    {
+                      "label": "Analyse Economique Approfondie",
+                      "abbreviation": "AEA2423",
+                      "ecues": [
+                        {
+                          "label": "Microéconomie approfondie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Macroéconomie approfondie",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Economie Appliquée",
+                      "abbreviation": "ECA2423",
+                      "ecues": [
+                        {
+                          "label": "Economie Numérique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Economie de l'environnement",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Vérification Validation",
+                      "abbreviation": "VEV2423",
+                      "ecues": [
+                        {
+                          "label": "Principe méthodes et techniques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Essais et tests",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Entrepôt de Données",
+                      "abbreviation": "EDO2423",
+                      "ecues": [
+                        {
+                          "label": "Forage de données",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse de données",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Droit",
+                  "abbreviation": "DRT",
+                  "ues": [
+                    {
+                      "label": "Droit du Travail et des Entreprises",
+                      "abbreviation": "DTE2423",
+                      "ecues": [
+                        {
+                          "label": "Droit du Travail",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Droit des entreprises",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Réduction Scientifique",
+                      "abbreviation": "RDS2424",
+                      "ecues": [
+                        {
+                          "label": "Réduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Mémoire",
+                      "abbreviation": "STM2424",
+                      "ecues": [
+                        {
+                          "label": "Stage et Mémoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PHYSIQUE-CHIMIE",
+          "abbreviation": "PC",
+          "levels": [
+            {
+              "label": "L1",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Initiation à l'Analyse Mathématique et Bases",
+                      "abbreviation": "MAN2101",
+                      "ecues": [
+                        {
+                          "label": "Initiation à l'Analyse",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse de base",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Géométrie dans l'Espace",
+                      "abbreviation": "GEE2101",
+                      "ecues": [
+                        {
+                          "label": "Géométrie dans l'Espace",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Groupes et Algèbre Linéaire",
+                      "abbreviation": "MAL2101",
+                      "ecues": [
+                        {
+                          "label": "Groupes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algèbre Linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse 2",
+                      "abbreviation": "ANA2102",
+                      "ecues": [
+                        {
+                          "label": "Intégration et équation différentielle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Fonction vectorielle d'une variable réelle",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Mécanique du Point Matériel",
+                      "abbreviation": "PME2101",
+                      "ecues": [
+                        {
+                          "label": "Cinématique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Dynamique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electrostatique-Electricité",
+                      "abbreviation": "PEL2102",
+                      "ecues": [
+                        {
+                          "label": "Electrostatique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Electricité",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optique",
+                      "abbreviation": "POP2102",
+                      "ecues": [
+                        {
+                          "label": "Optique géométrique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Instruments",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "TP Physique",
+                      "abbreviation": "TPP2102",
+                      "ecues": [
+                        {
+                          "label": "TP Physique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Atomistique",
+                      "abbreviation": "CHA2101",
+                      "ecues": [
+                        {
+                          "label": "Structure de l'Atome",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Liaisons Chimiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique Chimique",
+                      "abbreviation": "CHT2102",
+                      "ecues": [
+                        {
+                          "label": "Grands principes de la Thermodynamique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Thermochimie",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cinétique Chimique et Réactions en Solutions",
+                      "abbreviation": "CHC2102",
+                      "ecues": [
+                        {
+                          "label": "Réactions en Solutions",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Cinétique Chimique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Initiation à l'Algorithmique",
+                      "abbreviation": "IAL2101",
+                      "ecues": [
+                        {
+                          "label": "Initiation à l'Algorithmique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Recherche Documentaire",
+                      "abbreviation": "RED2101",
+                      "ecues": [
+                        {
+                          "label": "Recherche Documentaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2102",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "MATHEMATIQUES",
+          "abbreviation": "M",
+          "levels": [
+            {
+              "label": "L2",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse 3",
+                      "abbreviation": "ANA2203",
+                      "ecues": [
+                        {
+                          "label": "Intégrale généralisée et Série",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Développement en série",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités - Statistiques",
+                      "abbreviation": "MST2203",
+                      "ecues": [
+                        {
+                          "label": "Probabilité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre 3",
+                      "abbreviation": "ALG2203",
+                      "ecues": [
+                        {
+                          "label": "Algèbre Générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Réduction des Matrices et Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Arithmetique",
+                      "abbreviation": "ARI2203",
+                      "ecues": [
+                        {
+                          "label": "Arithmetique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse 4",
+                      "abbreviation": "ANA2214",
+                      "ecues": [
+                        {
+                          "label": "Initiation à la topologie de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bases de la Physique Mathématique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre 4",
+                      "abbreviation": "ALG2214",
+                      "ecues": [
+                        {
+                          "label": "Dualité - Formes linéaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Formes bilinéaires, quadratiques, hermitiennes - Espaces métriques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Géométrie 2",
+                      "abbreviation": "GEO2214",
+                      "ecues": [
+                        {
+                          "label": "Géométrie Plane",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Géométrie Descriptive",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mécanique des Systèmes",
+                      "abbreviation": "MES2214",
+                      "ecues": [
+                        {
+                          "label": "Mécanique des Systèmes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthodologie (Mathématiques)",
+                      "abbreviation": "MET2214",
+                      "ecues": [
+                        {
+                          "label": "Méthodologie (Mathématiques)",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Programmation Structurée",
+                      "abbreviation": "PGS2203",
+                      "ecues": [
+                        {
+                          "label": "Généralités",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Introduction aux Systèmes d'Exploitation",
+                      "abbreviation": "ISE2214",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Notions avancées",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Gestion des Projets",
+                      "abbreviation": "GPR2203",
+                      "ecues": [
+                        {
+                          "label": "Gestion des Projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion des Entreprises",
+                      "abbreviation": "GEE2214",
+                      "ecues": [
+                        {
+                          "label": "Gestion des Entreprises",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Economie",
+                  "abbreviation": "ECO",
+                  "ues": [
+                    {
+                      "label": "Macroéconomie",
+                      "abbreviation": "MAC2203",
+                      "ecues": [
+                        {
+                          "label": "Macroéconomie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2214",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Topologie",
+                      "abbreviation": "MAT2215",
+                      "ecues": [
+                        {
+                          "label": "Espace topologique et homéomorphisme",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Espaces de Banach",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre de Groupes",
+                      "abbreviation": "MAL2215",
+                      "ecues": [
+                        {
+                          "label": "Groupes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Application des groupes en Géométrie",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Calcul Différentiel",
+                      "abbreviation": "MCD2215",
+                      "ecues": [
+                        {
+                          "label": "Théorèmes fondamentaux du calcul différentiel et applications",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications à la Géométrie",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthodes Numériques",
+                      "abbreviation": "MEN2215",
+                      "ecues": [
+                        {
+                          "label": "Résolution numérique des équations",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Résolution des systèmes numériques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Logiciels Scientifiques",
+                      "abbreviation": "LOG2215",
+                      "ecues": [
+                        {
+                          "label": "Matlab",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Maple",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mesure et Intégration",
+                      "abbreviation": "MIN2216",
+                      "ecues": [
+                        {
+                          "label": "Fonctions mesurables et Intégration",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Espaces L1 et L2",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Géométrie Différentielle",
+                      "abbreviation": "GED2216",
+                      "ecues": [
+                        {
+                          "label": "Espaces Euclidiens et Applications Affines",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Homographie du plan réel et de la droite complexe",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algèbre 5",
+                      "abbreviation": "MAL2216",
+                      "ecues": [
+                        {
+                          "label": "Arithmétique dans les anneaux commutatifs",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Extensions algébriques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse Complexe",
+                      "abbreviation": "ANC2216",
+                      "ecues": [
+                        {
+                          "label": "Analyticité, Principe du maximum et Applications",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Formules des résidus et Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Projet",
+                      "abbreviation": "PRJ2216",
+                      "ecues": [
+                        {
+                          "label": "Projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Logiciels Scientifiques",
+                      "abbreviation": "LOG2215",
+                      "ecues": [
+                        {
+                          "label": "Matlab",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Maple",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Projet",
+                      "abbreviation": "PRJ2216",
+                      "ecues": [
+                        {
+                          "label": "Projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2216",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "UE Libre",
+                      "abbreviation": "UEL2215",
+                      "ecues": [
+                        {
+                          "label": "UE Libre",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)",
+          "abbreviation": "ACC",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Bases de l'Analyse Fonctionnelle et topologie",
+                      "abbreviation": "BAF2311",
+                      "ecues": [
+                        {
+                          "label": "Topologie avancée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Espaces de Hilbert",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités",
+                      "abbreviation": "PRO2311",
+                      "ecues": [
+                        {
+                          "label": "Compléments sur les lois de probabilité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chaîne de Markov",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistique (Choix 1)",
+                      "abbreviation": "MST2311",
+                      "ecues": [
+                        {
+                          "label": "Problèmes d'estimation et modèle exponentiel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Tests d'Hypothèses",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse convexe (Choix 2)",
+                      "abbreviation": "ANC2311",
+                      "ecues": [
+                        {
+                          "label": "Ensembles convexes et cônes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Généralités sur les fonctions convexes et caractérisation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Théorie des modules (Choix 3)",
+                      "abbreviation": "TMO2311",
+                      "ecues": [
+                        {
+                          "label": "Théorie des Idéaux et modules",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Annaux de polynômes et de séries formelles",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "EDP sémi linéaire ou non (Choix 4)",
+                      "abbreviation": "EDP2311",
+                      "ecues": [
+                        {
+                          "label": "EDP semi linéaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equations de Schröinger",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Alarithmès Avancés",
+                      "abbreviation": "ALG2311",
+                      "ecues": [
+                        {
+                          "label": "Alarithmès Avancés",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse Fonctionnelle Approfondie",
+                      "abbreviation": "AFA2312",
+                      "ecues": [
+                        {
+                          "label": "Théorèmes Fondamentaux de l'Analyse fonctionnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mesures Complexes et de Radon - Transformation de Fourier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités Avancées",
+                      "abbreviation": "PRA2312",
+                      "ecues": [
+                        {
+                          "label": "Eléments de théorie des Martingales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algorithms stochastices de résolution de problèmes",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistique approffondie (Choix 1)",
+                      "abbreviation": "STA2312",
+                      "ecues": [
+                        {
+                          "label": "Procedures non paramétriques - Théorèmes fondamentaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistique séquentiable",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optimisation (Choix 2)",
+                      "abbreviation": "OPT2312",
+                      "ecues": [
+                        {
+                          "label": "Conditions d'Optimalité sans Contraintes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Conditions d'Optimalité sous contraintes et Programmation linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Localisation et conditions de chaines (Choix 3)",
+                      "abbreviation": "LOF2312",
+                      "ecues": [
+                        {
+                          "label": "Anneaux et modules de fractions, localisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anneaux et modules noethériens, artiniens",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Existence des solutions (Choix 4)",
+                      "abbreviation": "EDS2312",
+                      "ecues": [
+                        {
+                          "label": "Existence locale (resp globale) Explosion comportement asymptomatique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes des différences finies",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Cryptographie",
+                      "abbreviation": "CRY2311",
+                      "ecues": [
+                        {
+                          "label": "Cryptographie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Informatique",
+                      "abbreviation": "INF2312",
+                      "ecues": [
+                        {
+                          "label": "Informatique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANS2311",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2312",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2312",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)",
+          "abbreviation": "OEDAN",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Bases de l'Analyse Fonctionnelle et topologie",
+                      "abbreviation": "BAF2311",
+                      "ecues": [
+                        {
+                          "label": "Topologie avancée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Espaces de Hilbert",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités",
+                      "abbreviation": "PRO2311",
+                      "ecues": [
+                        {
+                          "label": "Compléments sur les lois de Probabilité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chaîne de Markov",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistique (Choix 1)",
+                      "abbreviation": "MST2311",
+                      "ecues": [
+                        {
+                          "label": "Problèmes d'estimation et modèle exponentiel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Tests d'Hypothèses",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse convexe (Choix 2)",
+                      "abbreviation": "ANC2311",
+                      "ecues": [
+                        {
+                          "label": "Ensembles convexes et cônes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Généralités sur les fonctions convexes et caractérisation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Théorie des modules (Choix 3)",
+                      "abbreviation": "TMO2311",
+                      "ecues": [
+                        {
+                          "label": "Théorie des Idéaux et modules",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anneaux de polynômes et de séries formelles",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "EDP sémi linéaire ou non (Choix 4)",
+                      "abbreviation": "EDP2311",
+                      "ecues": [
+                        {
+                          "label": "EDP semi linéaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equations de Schröinger",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Alarithmès Avancés",
+                      "abbreviation": "ALG2311",
+                      "ecues": [
+                        {
+                          "label": "Alarithmès Avancés",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse Fonctionnelle Approfondie",
+                      "abbreviation": "AFA2312",
+                      "ecues": [
+                        {
+                          "label": "Théorèmes Fondamentaux de l'Analyse fonctionnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mesures Complexes et de Radon - Transformation de Fourier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités Avancées",
+                      "abbreviation": "PRA2312",
+                      "ecues": [
+                        {
+                          "label": "Eléments de théorie des Martingales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algorithms stochastices de résolution de problèmes",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistique approfondie (Choix 1)",
+                      "abbreviation": "STA2312",
+                      "ecues": [
+                        {
+                          "label": "Procedures non paramétriques - Théorèmes fondamentaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistique séquentiable",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optimisation (Choix 2)",
+                      "abbreviation": "OPT2312",
+                      "ecues": [
+                        {
+                          "label": "Conditions d'Optimalité sans Contraintes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Conditions d'Optimalité sous contraintes et Programmation linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Localisation et conditions de chaînes (Choix 3)",
+                      "abbreviation": "LOF2312",
+                      "ecues": [
+                        {
+                          "label": "Anneaux et modules de fractions, localisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anneaux et modules noethériens, artiniens",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Existence des solutions (Choix 4)",
+                      "abbreviation": "EDS2312",
+                      "ecues": [
+                        {
+                          "label": "Existence locale (resp globale) Explosion comportement asymptotique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes des differences finies",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Cryptographie",
+                      "abbreviation": "CRY2311",
+                      "ecues": [
+                        {
+                          "label": "Cryptographie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Informatique",
+                      "abbreviation": "INF2312",
+                      "ecues": [
+                        {
+                          "label": "Informatique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANS2311",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2312",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2312",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PROBABILITES-STATISTIQUES (PS)",
+          "abbreviation": "PS",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Bases de l'Analyse Fonctionnelle et topologie",
+                      "abbreviation": "BAF2311",
+                      "ecues": [
+                        {
+                          "label": "Topologie avancée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Espaces de Hilbert",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités",
+                      "abbreviation": "PRO2311",
+                      "ecues": [
+                        {
+                          "label": "Compléments sur les lois de probabilité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chaîne de Markov",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistique (Choix 1)",
+                      "abbreviation": "MST2311",
+                      "ecues": [
+                        {
+                          "label": "Problèmes d'estimation et modèle exponentiel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Tests d'Hypothèses",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse convexe (Choix 2)",
+                      "abbreviation": "ANC2311",
+                      "ecues": [
+                        {
+                          "label": "Ensembles convexes et cônes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Généralités sur les fonctions convexes et caractérisation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Théorie des modules (Choix 3)",
+                      "abbreviation": "TMO2311",
+                      "ecues": [
+                        {
+                          "label": "Théorie des Idéaux et modules",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anneaux de polynômes et de séries formelles",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "EDP sémi linéaire ou non (Choix 4)",
+                      "abbreviation": "EDP2311",
+                      "ecues": [
+                        {
+                          "label": "EDP semi linéaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equations de Schröinger",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Alarithmès Avancés",
+                      "abbreviation": "ALG2311",
+                      "ecues": [
+                        {
+                          "label": "Alarithmès Avancés",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse Fonctionnelle Approfondie",
+                      "abbreviation": "AFA2312",
+                      "ecues": [
+                        {
+                          "label": "Théorèmes Fondamentaux de l'Analyse Fonctionnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mesures Complexes et de Radon - Transformation de Fourier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilités Avancées",
+                      "abbreviation": "PRA2312",
+                      "ecues": [
+                        {
+                          "label": "Eléments de théorie des Martingales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algorithms stochastiques de résolution de problèmes",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistique approfondie (Choix 1)",
+                      "abbreviation": "STA2312",
+                      "ecues": [
+                        {
+                          "label": "Procedures non paramétriques - Théorèmes fondamentaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistique séquentielle",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optimisation (Choix 2)",
+                      "abbreviation": "OPT2312",
+                      "ecues": [
+                        {
+                          "label": "Conditions d'Optimalité sans Contraintes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Conditions d'Optimalité sous contraintes et Programmation linéaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Localisation et conditions de chaînes (Choix 3)",
+                      "abbreviation": "LOF2312",
+                      "ecues": [
+                        {
+                          "label": "Anneaux et modules de fractions, localisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anneaux et modules noethériens, artiniens",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Existence des solutions (Choix 4)",
+                      "abbreviation": "EDS2312",
+                      "ecues": [
+                        {
+                          "label": "Existence locale (resp globale) Explosion comportement asymptotique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes des différences finies",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Cryptographie",
+                      "abbreviation": "CRY2311",
+                      "ecues": [
+                        {
+                          "label": "Cryptographie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Informatique",
+                      "abbreviation": "INF2312",
+                      "ecues": [
+                        {
+                          "label": "Informatique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANS2311",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2312",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2312",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

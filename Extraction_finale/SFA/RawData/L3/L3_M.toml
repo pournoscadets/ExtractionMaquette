@@ -1,0 +1,427 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Spécialité: MATHEMATIQUES
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+specialite = "MATHEMATIQUES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "MAT2215"
+intitule_ue = "Topologie"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KPATA Akon, MA"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT22151"
+  intitule_ecue = "Espace topologique et homéomorphisme"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAT22152"
+  intitule_ecue = "Espaces de Banach"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "MAL2215"
+intitule_ue = "Algèbre de Groupes"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr DIAGANA Youssouf, MC"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MAL22151"
+  intitule_ecue = "Groupes"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MAL22152"
+  intitule_ecue = "Application des groupes en Géométrie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_specialite]]
+code_ue = "MCD2215"
+intitule_ue = "Calcul Différentiel"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MCD22151"
+  intitule_ecue = "Théorèmes fondamentaux du calcul différentiel et applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "MCD22152"
+  intitule_ecue = "Applications à la Géométrie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MEN2215"
+intitule_ue = "Méthodes Numériques"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "Dr NACHID Halima, MA"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MEN22151"
+  intitule_ecue = "Résolution numérique des équations"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MEN22152"
+  intitule_ecue = "Résolution des systèmes numériques"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "LOG2215"
+intitule_ue = "Logiciels Scientifiques"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr NACHID Halima, MA"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "LOG22151"
+  intitule_ecue = "Matlab"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "LOG22152"
+  intitule_ecue = "Maple"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "UEL2215"
+intitule_ue = "UE Libre"
+credit = 1
+cect_ue = 1
+enseignant_responsable = "Dr ASSANE Abdoulaye, MA"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "UEL2215"
+  intitule_ecue = "UE Libre"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_5.total]
+cm = 186
+td = 174
+tp = 0
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours: MATHEMATIQUES - INFORMATIQUE
+# Spécialité: MATHEMATIQUES
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours = "MATHEMATIQUES - INFORMATIQUE"
+specialite = "MATHEMATIQUES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MIN2216"
+intitule_ue = "Mesure et Intégration"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr ESSOH Modeste, MA"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIN22161"
+  intitule_ecue = "Fonctions mesurables et Intégration"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIN22162"
+  intitule_ecue = "Espaces L1 et L2"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "GED2216"
+intitule_ue = "Géométrie Différentielle"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr KOUROUMA Moussa, MC"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "GED22161"
+  intitule_ecue = "Espaces Euclidiens et Applications Affines"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "GED22162"
+  intitule_ecue = "Homographie du plan réel et de la droite complexe"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "MAL2216"
+intitule_ue = "Algèbre 5"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr DIAGANA Youssouf, MC"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "MAL22161"
+  intitule_ecue = "Arithmétique dans les anneaux commutatifs"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "MAL22162"
+  intitule_ecue = "Extensions algébriques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_specialite]]
+code_ue = "ANC2216"
+intitule_ue = "Analyse Complexe"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "Dr YORO Gozo, MC"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ANC22161"
+  intitule_ecue = "Analyticité, Principe du maximum et Applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "ANC22162"
+  intitule_ecue = "Formules des résidus et Applications"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "PRJ2216"
+intitule_ue = "Projet"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "PRJ2216"
+  intitule_ecue = "Projet"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 36
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "ANG2216"
+intitule_ue = "Anglais"
+credit = 3
+cect_ue = 3
+enseignant_responsable = "M. GBEADA Marius"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "ANG2216"
+  intitule_ecue = "Anglais"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_6.total]
+cm = 162
+td = 162
+tp = 0
+projet = 36
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

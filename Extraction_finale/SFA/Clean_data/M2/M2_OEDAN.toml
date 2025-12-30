@@ -1,0 +1,117 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Spécialité: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+specialite = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANS2313"
+intitule_ue = "Analyse Fonctionnelle Variationnelle"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANS23131"
+  intitule_ecue = "Espaces de Skobelev et Dérivées Généralisées"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANS23132"
+  intitule_ecue = "Introduction aux Problèmes aux limites"  
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "ANU2313"
+intitule_ue = "Analyse Numérique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU23131"
+  intitule_ecue = "Méthodes de volumes finis méthodes des éléments finis"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU23132"
+  intitule_ecue = "Méthodes spectrales"  
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "MAC2313"
+intitule_ue = "Algèbre Commutative"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAC23131"
+  intitule_ecue = "Modules de longueur finie et dimension de Krull"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MAC23132"
+  intitule_ecue = "Modules gradués Fonctions de Hilbert,"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "OPT2313"
+intitule_ue = "Optimisation et Equations Différentielles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OPT23131"
+  intitule_ecue = "Conditions d'optimalité"  
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OPT23132"
+  intitule_ecue = "Notions de programmation"  
+
+[[semestre_3.ue_methodologie]]
+code_ue = "PRL2313"
+intitule_ue = "Programmation Linéaire"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "PRL2313"
+  intitule_ecue = "Programmation linéaire"  
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEX2313"
+intitule_ue = "Techniques d'expression française"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEX2313"
+  intitule_ecue = "Techniques d'expression française"  
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2313"
+intitule_ue = "Anglais"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2313"
+  intitule_ecue = "Anglais"  
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Spécialité: OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+specialite = "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2314"
+intitule_ue = "Réduction Scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2314"
+  intitule_ecue = "Réduction Scientifique"  
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2314"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2314"
+  intitule_ecue = "Stage et Mémoire"

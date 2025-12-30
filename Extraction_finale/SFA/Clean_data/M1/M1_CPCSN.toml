@@ -1,0 +1,197 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "COA2121"
+intitule_ue = "Chimie organique avancée"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COA21211"
+  intitule_ecue = "Réactivités des systèmes conjugés"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COA21212"
+  intitule_ecue = "Chimie des énotates. Réamenagement"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "COP2121"
+intitule_ue = "Chimie Organique Physique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "COP2121"
+  intitule_ecue = "Chimie Organique Physique"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "GFP2121"
+intitule_ue = "Grandes familles des plantes Médicinales"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GFP2121"
+  intitule_ecue = "Grandes familles des plantes Médicinales"
+
+[[semestre_1.ue_specialite]]
+code_ue = "RPE2121"
+intitule_ue = "Résonance Paramagnétique Electronique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RPE2121"
+  intitule_ecue = "Résonance Paramagnétique Electronique"
+
+[[semestre_1.ue_specialite]]
+code_ue = "RMN2121"
+intitule_ue = "Techniques d'analyse RMN"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RMN21211"
+  intitule_ecue = "Introduction à la RMN"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RMN21212"
+  intitule_ecue = "RMN Bidimensionnelle"
+
+[[semestre_1.ue_specialite]]
+code_ue = "SCH2121"
+intitule_ue = "Stéreochimie"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "SCH2121"
+  intitule_ecue = "Stéreochimie"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "MTA2121"
+intitule_ue = "Méthodes Thermiques d'Analyse"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "MTA2121"
+  intitule_ecue = "Méthodes Thermiques d'Analyse"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "INF2121"
+intitule_ue = "Informatique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "INF2121"
+  intitule_ecue = "Informatique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "BMA2121"
+intitule_ue = "Biologie Moléculaire Appliquée"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "BMA2121"
+  intitule_ecue = "Biologie Moléculaire Appliquée"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Spécialité: CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+specialite = "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES (CPCSN)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "HET2122"
+intitule_ue = "Hétérochimie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HET21221"
+  intitule_ecue = "Hétérocycles à 3 et 4 chaînons"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HET21222"
+  intitule_ecue = "Hétérocycles à 5 et 6 chaînons et condensés"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PTC2122"
+intitule_ue = "Phytochimie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PTC 21221"
+  intitule_ecue = "Métabolites secondaires"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PTC 21222"
+  intitule_ecue = "Biosynthèse des métabolites secondaires"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ACO2122"
+intitule_ue = "Applications de la Chimie Organique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ACO2122"
+  intitule_ecue = "Applications de la Chimie Organique"
+
+[[semestre_2.ue_specialite]]
+code_ue = "POL2122"
+intitule_ue = "Polymères"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "POL2122"
+  intitule_ecue = "Polymères"
+
+[[semestre_2.ue_specialite]]
+code_ue = "AIN2122"
+intitule_ue = "Arômes dans l'Industrie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "AIN2122"
+  intitule_ecue = "Arômes dans l'Industrie"
+
+[[semestre_2.ue_specialite]]
+code_ue = "TOX2122"
+intitule_ue = "Toxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TOX2122"
+  intitule_ecue = "Toxicologie"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "IPM2122"
+intitule_ue = "Initiation à la pharmacologie"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "IPM2122"
+  intitule_ecue = "Initiation à la pharmacologie"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2122"
+intitule_ue = "Entrepreneuriat"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2122"
+  intitule_ecue = "Entrepreneuriat"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "DVD2122"
+intitule_ue = "Developpement durable"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "DVD2122"
+  intitule_ecue = "Developpement durable"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "STP2122"
+intitule_ue = "Stage pédagogique"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "STP2122"
+  intitule_ecue = "Stage pédagogique"

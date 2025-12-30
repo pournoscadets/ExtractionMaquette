@@ -1,0 +1,185 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: GENIE INFORMATIQUE (GI)
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "GENIE INFORMATIQUE (GI)"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "INA2411"
+intitule_ue = "Intelligence Artificielle"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "INE24111"
+  intitule_ecue = "Représentation de la connaissance"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "INE24112"
+  intitule_ecue = "Lois d'interprétation"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "LFC2411"
+intitule_ue = "Langages formels et Compilation"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "LFC2411"
+  intitule_ecue = "Langages formels et Compilation"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CPI2411"
+intitule_ue = "Conduite de Projets Informatiques"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CPI24111"
+  intitule_ecue = "Conduites de projets"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CPI24112"
+  intitule_ecue = "Applications"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ROO2411"
+intitule_ue = "Recherche Opérationnelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROO24111"
+  intitule_ecue = "Programmation en nombre entier"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROO24112"
+  intitule_ecue = "Programmation non linéaire"
+
+[[semestre_1.ue_specialite]]
+code_ue = "GLA2411"
+intitule_ue = "Génie Logiciel Avancé"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24111"
+  intitule_ecue = "Méthodes de conception"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "GLA24112"
+  intitule_ecue = "Ateliers de Développement"
+
+[[semestre_1.ue_specialite]]
+code_ue = "RET2411"
+intitule_ue = "Réseaux et Transmission de Données"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RET24111"
+  intitule_ecue = "Conception de réseaux locaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "RET24112"
+  intitule_ecue = "Transmission"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: GENIE INFORMATIQUE (GI)
+# Spécialité: GENIE INFORMATIQUE (GI)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "GENIE INFORMATIQUE (GI)"
+specialite = "GENIE INFORMATIQUE (GI)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "APR2412"
+intitule_ue = "Applications Réparties"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "APR2412"
+  intitule_ecue = "Applications Réparties"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ANU2412"
+intitule_ue = "Analyse Numériques et Applications"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU24121"
+  intitule_ecue = "Analyses numériques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ANU24122"
+  intitule_ecue = "Applications"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PWA2412"
+intitule_ue = "Programmation Web Avancée"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PWA24121"
+  intitule_ecue = "Bases"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PWA24122"
+  intitule_ecue = "Applications"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "RTE2412"
+intitule_ue = "Réseaux de Télécommunication"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RTE2412"
+  intitule_ecue = "Réseaux de Télécommunication"
+
+[[semestre_2.ue_specialite]]
+code_ue = "BDA2412"
+intitule_ue = "Bases de données avancées"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BDA24121"
+  intitule_ecue = "Administration et mise en œuvre des bases de données"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BDA24122"
+  intitule_ecue = "Bases de données déductives"
+
+[[semestre_2.ue_specialite]]
+code_ue = "SYE2412"
+intitule_ue = "Systèmes d'Exploitation"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "SYE2412"
+  intitule_ecue = "Systèmes d'Exploitation"
+
+[[semestre_2.ue_specialite]]
+code_ue = "SYI2412"
+intitule_ue = "Sécurité des Systèmes Informatiques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "SYI24121"
+  intitule_ecue = "Notions de base"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "SYI24122"
+  intitule_ecue = "Applications"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ENT2412"
+intitule_ue = "Entrepreneuriat"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ENT2412"
+  intitule_ecue = "Entrepreneuriat"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ANG2412"
+intitule_ue = "Anglais"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ANG2412"
+  intitule_ecue = "Anglais"

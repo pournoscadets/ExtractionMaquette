@@ -1,0 +1,117 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)
+# Spécialité: ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)"
+specialite = "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AFA2313"
+intitule_ue = "Analyse Fonctionnelle Approfondie"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AFA23131"
+  intitule_ecue = "Théorèmes Fondamentaux de l'Analyse fonctionnelle"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AFA23132"
+  intitule_ecue = "Mesures Complexes et de Radon - Transformation de Fourier"  
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PRA2313"
+intitule_ue = "Probabilités Avancées"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRA23131"
+  intitule_ecue = "Eléments de théorie des Martingales"  
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PRA23132"
+  intitule_ecue = "Algorithms stochastiques de résolution de problèmes"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "TEF2313"
+intitule_ue = "Théories des filtrations"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TEF23131"
+  intitule_ecue = "Filtration des anneaux gradués associés"  
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TEF23132"
+  intitule_ecue = "Quasi-polynômes de Hilbert"  
+
+[[semestre_3.ue_specialite]]
+code_ue = "CRY2313"
+intitule_ue = "Cryptographie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CRY23131"
+  intitule_ecue = "Cryptologie classiques et compléments mathématiques"  
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CRY23132"
+  intitule_ecue = "Cryptographie publique et cryptanalyse"  
+
+[[semestre_3.ue_methodologie]]
+code_ue = "PRL2313"
+intitule_ue = "Programmation linéaire"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "PRL2313"
+  intitule_ecue = "Programmation linéaire"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEX2313"
+intitule_ue = "Techniques d'expression française"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEX2313"
+  intitule_ecue = "Techniques d'expression française"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2313"
+intitule_ue = "Anglais"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2313"
+  intitule_ecue = "Anglais"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)
+# Spécialité: ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)"
+specialite = "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2314"
+intitule_ue = "Réduction Scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2314"
+  intitule_ecue = "Réduction Scientifique"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2314"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2314"
+  intitule_ecue = "Stage et Mémoire"

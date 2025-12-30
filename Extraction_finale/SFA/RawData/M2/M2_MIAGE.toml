@@ -1,0 +1,371 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AIN2423"
+intitule_ue = "Audit Informatique"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "M. TCHOUDI Olivier"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AIN24231"
+  intitule_ecue = "Audit d'exploitation (COBIT ITIL)"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AIN24232"
+  intitule_ecue = "Audit de sécurité (ISACA)"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AEA2423"
+intitule_ue = "Analyse Economique Approfondie"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr LAHOUANI Laisse Akéyémi, MA"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AEA24231"
+  intitule_ecue = "Microéconomie approfondie"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AEA24232"
+  intitule_ecue = "Macroéconomie approfondie"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "VEV2423"
+intitule_ue = "Vérification Validation"
+credit = 6
+cect_ue = 6
+enseignant_responsable = "M. KOUAME N'Guessan A."
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "VEV24231"
+  intitule_ecue = "Principe méthodes et techniques"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "VEV24232"
+  intitule_ecue = "Essais et tests"
+  cm = 16
+  td = 0
+  tp = 20
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "EDO2423"
+intitule_ue = "Entrepôt de Données"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr Ouattara Mory, A"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EDO24231"
+  intitule_ecue = "Forage de données"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EDO24232"
+  intitule_ecue = "Analyse de données"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ECA2423"
+intitule_ue = "Economie Appliquée"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "Dr KOUASSI Patrick Franklin, MC"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ECA24231"
+  intitule_ecue = "Economie Numérique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ECA24232"
+  intitule_ecue = "Economie de l'environnement"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GPP2423"
+intitule_ue = "Gestion de Portefeuille de Projets"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPP24231"
+  intitule_ecue = "Sélection de projets"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPP24232"
+  intitule_ecue = "Optimisation de portefeuille"
+  cm = 12
+  td = 0
+  tp = 0
+  projet = 0
+  total_he = 12
+  tpe = 13
+  ctt = 25
+  credit_ecue = 1
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "DTE2423"
+intitule_ue = "Droit du Travail et des Entreprises"
+credit = 4
+cect_ue = 4
+enseignant_responsable = "M. DJATO Kouassi Blaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "DTE24231"
+  intitule_ecue = "Droit du Travail"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "DTE24232"
+  intitule_ecue = "Droit des entreprises"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[semestre_3.total]
+cm = 190
+td = 150
+tp = 20
+projet = 0
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Mention: INFORMATIQUE
+# Spécialité: METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+mention = "INFORMATIQUE"
+specialite = "METHODES INFORMATIQUES APPLIQUEES A LA GESTION ET A L'ECONOMIE (MIAGE)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "CAE2424"
+intitule_ue = "Comptabilité Approfondie- Entrepreneuriat"
+credit = 5
+cect_ue = 5
+enseignant_responsable = "M. GBENOU Gbehode"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "CAE24241"
+  intitule_ecue = "Comptabilité approfondie"
+  cm = 18
+  td = 18
+  tp = 0
+  projet = 0
+  total_he = 36
+  tpe = 39
+  ctt = 75
+  credit_ecue = 3
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "CAE24242"
+  intitule_ecue = "Entrepreneuriat"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "RDS2424"
+intitule_ue = "Réduction Scientifique"
+credit = 2
+cect_ue = 2
+enseignant_responsable = "Pr TANOH Hilaire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "RDS2424"
+  intitule_ecue = "Réduction Scientifique"
+  cm = 12
+  td = 12
+  tp = 0
+  projet = 0
+  total_he = 24
+  tpe = 26
+  ctt = 50
+  credit_ecue = 2
+  evaluation_cc = "40 %"
+  evaluation_et = "60 %"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM2424"
+intitule_ue = "Stage et Mémoire"
+credit = 23
+cect_ue = 23
+enseignant_responsable = "Dr EDI Kouassi, MA"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2424"
+  intitule_ecue = "Stage et Mémoire"
+  cm = 0
+  td = 0
+  tp = 0
+  projet = 276
+  total_he = 276
+  tpe = 299
+  ctt = 575
+  credit_ecue = 23
+  evaluation_cc = ""
+  evaluation_et = ""
+
+[semestre_4.total]
+cm = 42
+td = 42
+tp = 0
+projet = 276
+total_he = 360
+tpe = 390
+ctt = 750
+credit_total = 30

@@ -1,0 +1,125 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)
+# Spécialité: PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)"
+specialite = "PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CTE2113"
+intitule_ue = "Catalyse et Chimie de l'environnement"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CTE21131"
+  intitule_ecue = "Catalyse sur métaux"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CTE21132"
+  intitule_ecue = "Chimie de l'environnement"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "TSP2113"
+intitule_ue = "Thermodynamique des systèmes poly constitués"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPS21131"
+  intitule_ecue = "Thermodynamique des solutions"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPS21132"
+  intitule_ecue = "Méthodologie Calphad"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MAP2113"
+intitule_ue = "Matériaux et Procedés d'élaboration"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAP21131"
+  intitule_ecue = "Matériaux et utilisé"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAP21132"
+  intitule_ecue = "Matériaux et Conceptions"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TAC2113"
+intitule_ue = "Techniques d'analyse et de caractérisation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TAC21131"
+  intitule_ecue = "Techniques d'analyse spectroscopique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TAC21132"
+  intitule_ecue = "Méthodes de caractérisation"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GPR2113"
+intitule_ue = "Génie des Procedés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPR21131"
+  intitule_ecue = "Génie chimique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GPR21132"
+  intitule_ecue = "Procedés chimiques"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MSC2113"
+intitule_ue = "Modélisation des Systèmes Chimiques"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MSC21131"
+  intitule_ecue = "Techniques de modélisation moleculaire"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MSC21132"
+  intitule_ecue = "Calcul de propriétés moleculaires"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANG2113"
+intitule_ue = "Anglais"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANG2113"
+  intitule_ecue = "Anglais"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)
+# Spécialité: PHYSICO-CHIMIE DES MATERIALAUX ET PROCEEDS (PCMP)
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSICO-CHIMIE DES MATERIALS ET PROCEDES (PCMP)"
+specialite = "PHYSICO-CHIMIE DES MATERIALAUX ET PROCEEDS (PCMP)"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_methodologie]]
+code_ue = "INF2114"
+intitule_ue = "Informatique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "INF 2114"
+  intitule_ecue = "Informatique"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "STM 2114"
+intitule_ue = "Stage et Mémoire"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "STM2114"
+  intitule_ecue = "Stage et Mémoire"

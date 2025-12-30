@@ -1,0 +1,193 @@
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE DU VIVANT (PV)
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE DU VIVANT (PV)"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "ISV2211"
+intitule_ue = "Introduction aux Sciences de la Vie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ISV22111"
+  intitule_ecue = "Biologie Moléculaire et Cellulaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ISV22112"
+  intitule_ecue = "Physiologie Médicale"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BCM2211"
+intitule_ue = "Biochimie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BCM22111"
+  intitule_ecue = "Biochimie 1"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BCM22112"
+  intitule_ecue = "Biochimie 2"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "RHE2211"
+intitule_ue = "Rheologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE22111"
+  intitule_ecue = "Concepts de Base"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RHE22112"
+  intitule_ecue = "Applications"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "ELS2211"
+intitule_ue = "Elasticité"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELS2211"
+  intitule_ecue = "Elasticité"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "SPE2211"
+intitule_ue = "Spectroscopie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SPE2211"
+  intitule_ecue = "Spectroscopie"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "POO2211"
+intitule_ue = "Propagation des ondes dans les millieux biologiques"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "POO22111"
+  intitule_ecue = "Concepts généraux"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "POO22112"
+  intitule_ecue = "Applications (Imagerie, chirurgie micro invasive, écholocation, etc.)"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "TPI2211"
+intitule_ue = "Thermodynamique des Processus Irréversibles"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPI22111"
+  intitule_ecue = "Généralités"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPI22112"
+  intitule_ecue = "Concepts avancés"
+
+# Domaine: SCIENCES ET TECHNOLOGIE
+# Parcours/ Mention: PHYSIQUE DU VIVANT (PV)
+# Spécialité: PHYSIQUE DU VIVANT (PV)
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE"
+parcours_mention = "PHYSIQUE DU VIVANT (PV)"
+specialite = "PHYSIQUE DU VIVANT (PV)"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "BIM2212"
+intitule_ue = "Biophysique Moléculaire"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIM22121"
+  intitule_ecue = "Macromolécules, Conformation et Dynamique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIM22122"
+  intitule_ecue = "Structures Organisées"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "VIO2212"
+intitule_ue = "Vision par Ordinateur (Imagerie biologique, traitement d'image)"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIO22121"
+  intitule_ecue = "Traitement d'Image"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "VIO22122"
+  intitule_ecue = "Imagerie Biologique"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MBI2212"
+intitule_ue = "Milieux Biologiques (MB)"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MBI22121"
+  intitule_ecue = "Electricité des MB"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MBI22122"
+  intitule_ecue = "Magnétisme des MB"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MBI22123"
+  intitule_ecue = "Systèmes Biologiques"
+
+[[semestre_2.ue_specialite]]
+code_ue = "ELI2212"
+intitule_ue = "Electronique d'instruments-Capteur/ Instrumentation d'analyse Médicale"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ELI22121"
+  intitule_ecue = "Electronique d'instruments-Capteur"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ELI22122"
+  intitule_ecue = "Instrumentation d'analyse Médicale"
+
+[[semestre_2.ue_specialite]]
+code_ue = "BIC2212"
+intitule_ue = "Biophysique cellulaire"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BIC22121"
+  intitule_ecue = "La Cellule"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "BIC22122"
+  intitule_ecue = "Biophysique de la cellule"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PRT2212"
+intitule_ue = "Projet tutoré"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PRT2212"
+  intitule_ecue = "Projet tutoré"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CRI2212"
+intitule_ue = "Cristallographie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CRI2212"
+  intitule_ecue = "Cristallographie"
+
+[[semestre_2.ue_specialite]]
+code_ue = "MSC2211"
+intitule_ue = "Modélisation des Systèmes Complexes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "MSC2211"
+  intitule_ecue = "Modélisation des Systèmes Complexes"
