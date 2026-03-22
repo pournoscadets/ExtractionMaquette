@@ -18,5 +18,5 @@ NB: Pour ne pas dépasser la limite des contextes des IA <br/>
 NB: il n'est pas obligatoire de communiquer à tout moment le gros json, il faut juste veiller à ce que l'université et la(les) filière(s) soit renseignée(s). Seuls les parcours et tous les composants qui leurs sont rattachés peuvent être omis si jamais nous les avons déjà sauvegarder en base de données(en outre on peut bien fonctionner avec la donnée delta).
 
 * Il faut après récupérer ce json et faire l'appel à l'api suivante avec un token qui possède le rôle ADMIN. Pour ce fait, si ce n'est pas le cas il faut télécharger Bruno([link](https://www.usebruno.com)) et clôner le repo suivant [link](https://github.com/pournoscadets/BrunoExamemo). Importer le repository clôné dans Bruno afin d'avoir toutes les APIs du serveur. <br/>
-L'api à exécutée est(ex: ***/school/create/full*** qui se trouve dans le dossier **School Manage** de la collection Bruno )
+L'api à exécutée est(ex: ***/school/create/full*** qui se trouve dans le dossier **School Manage** de la collection Bruno ). Pour la vérification il faut juste faire appel à l'API(***/v1/school/uNA***).
 
