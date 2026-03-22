@@ -1,0 +1,147 @@
+{
+  "label": "Universite Nangui Abrogoua",
+  "abbreviation": "UNA",
+  "ufrs": [
+    {
+      "label": "Sciences Fondamentales et Appliquees",
+      "abbreviation": "SFA",
+      "parcours": [
+        {
+          "label": "PROBABILITES-STATISTIQUES (PS)",
+          "abbreviation": "PS",
+          "levels": [
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Mathematiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse Fonctionnelle Variationnelle",
+                      "abbreviation": "ANS2313",
+                      "ecues": [
+                        {
+                          "label": "Espaces de Skobelev et Derivees Generalises",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Introduction aux Problemes aux limites",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilites",
+                      "abbreviation": "PBT2313",
+                      "ecues": [
+                        {
+                          "label": "Integrale d'Itô, Formule d'Itô",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equations differentielles stochastiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algebre Commutative",
+                      "abbreviation": "MAC2313",
+                      "ecues": [
+                        {
+                          "label": "Modules de longueur finie et dimension de Krull",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Modules gradues Fonctions de Hilbert,",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistiques",
+                      "abbreviation": "STA2313",
+                      "ecues": [
+                        {
+                          "label": "Modele statistiques estimations",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Theories des tests",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation Lineaire",
+                      "abbreviation": "PRL2313",
+                      "ecues": [
+                        {
+                          "label": "Programmation Lineaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Techniques d'expression francaise",
+                      "abbreviation": "TEX2313",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'expression francaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2313",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Reduction Scientifique",
+                      "abbreviation": "RDS2314",
+                      "ecues": [
+                        {
+                          "label": "Reduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2314",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

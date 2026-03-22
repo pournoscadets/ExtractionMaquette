@@ -17,81 +17,81 @@ semestre = 5
 code_ue = "MEF2125"
 intitule_ue = "Mécanique des fluides"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "MEF2125"
-  intitule_ecue = "Mécanique des fluides"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "MEF2125"
+intitule_ecue = "Mécanique des fluides"
 
 [[semestre_5.ue_connaissances_fondamentales]]
 code_ue = "ELM2125"
 intitule_ue = "Electromagnétisme des Milieux"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "ELM21251"
-  intitule_ecue = "Polarisation et Aimantation des milieux"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "ELM21251"
+intitule_ecue = "Polarisation et Aimantation des milieux"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "ELM21252"
-  intitule_ecue = "Ondes électromagnétiques dans les milieux"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "ELM21252"
+intitule_ecue = "Ondes électromagnétiques dans les milieux"
 
 [[semestre_5.ue_connaissances_fondamentales]]
 code_ue = "COI2125"
 intitule_ue = "Chimie Organique et Inorganique"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "COI21251"
-  intitule_ecue = "Chimie Organique"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "COI21251"
+intitule_ecue = "Chimie Organique"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "COI21252"
-  intitule_ecue = "Chimie Minérale"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "COI21252"
+intitule_ecue = "Chimie Minérale"
 
 [[semestre_5.ue_connaissances_fondamentales]]
 code_ue = "LCS2125"
 intitule_ue = "Liaisons Chimiques et Spectroscopie"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "LCS21251"
-  intitule_ecue = "Liaisons Chimiques"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "LCS21251"
+intitule_ecue = "Liaisons Chimiques"
 
-  [[semestre_5.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "LCS21252"
-  intitule_ecue = "Spectroscopie"
+[[semestre_5.ue_connaissances_fondamentales.ecue]]
+code_ecue = "LCS21252"
+intitule_ecue = "Spectroscopie"
 
 [[semestre_5.ue_methodologie]]
 code_ue = "MOP2125"
 intitule_ue = "Modélisation pour la Physique"
 
-  [[semestre_5.ue_methodologie.ecue]]
-  code_ecue = "MOP2125"
-  intitule_ecue = "Modélisation pour la Physique"
+[[semestre_5.ue_methodologie.ecue]]
+code_ecue = "MOP2125"
+intitule_ecue = "Modélisation pour la Physique"
 
 [[semestre_5.ue_methodologie]]
 code_ue = "MAS2125"
 intitule_ue = "Mathématiques pour Sciences Physiques"
 
-  [[semestre_5.ue_methodologie.ecue]]
-  code_ecue = "MAS2125"
-  intitule_ecue = "Mathématiques pour Sciences Physiques"
+[[semestre_5.ue_methodologie.ecue]]
+code_ecue = "MAS2125"
+intitule_ecue = "Mathématiques pour Sciences Physiques"
 
 [[semestre_5.ue_methodologie]]
 code_ue = "DIS2125"
 intitule_ue = "Didactique et Informatique pour les Sciences Physiques"
 
-  [[semestre_5.ue_methodologie.ecue]]
-  code_ecue = "DIS21251"
-  intitule_ecue = "Didactique"
+[[semestre_5.ue_methodologie.ecue]]
+code_ecue = "DIS21251"
+intitule_ecue = "Didactique"
 
-  [[semestre_5.ue_methodologie.ecue]]
-  code_ecue = "DIS21252"
-  intitule_ecue = "Informatique pour Sciences Physiques"
+[[semestre_5.ue_methodologie.ecue]]
+code_ecue = "DIS21252"
+intitule_ecue = "Informatique pour Sciences Physiques"
 
 [[semestre_5.ue_culture_generale]]
 code_ue = "UEL2125"
 intitule_ue = "UE Libre"
 
-  [[semestre_5.ue_culture_generale.ecue]]
-  code_ecue = "UEL2125"
-  intitule_ecue = "UE Libre"
+[[semestre_5.ue_culture_generale.ecue]]
+code_ecue = "UEL2125"
+intitule_ecue = "UE Libre"
 
 # Domaine: SCIENCES ET TECHNOLOGIE
 # Parcours: PHYSIQUE-CHIMIE
@@ -112,82 +112,82 @@ semestre = 6
 code_ue = "PPM2116"
 intitule_ue = "Propriété de la Matière"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PPM21161"
-  intitule_ecue = "Structure de la matière"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PPM21161"
+intitule_ecue = "Structure de la matière"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PPM21162"
-  intitule_ecue = "Les tenseurs"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PPM21162"
+intitule_ecue = "Les tenseurs"
 
 [[semestre_6.ue_connaissances_fondamentales]]
 code_ue = "THG2126"
 intitule_ue = "Thermodynamique Générale"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "THG21261"
-  intitule_ecue = "Potentiels thermodynamiques"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "THG21261"
+intitule_ecue = "Potentiels thermodynamiques"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "THG21262"
-  intitule_ecue = "Thermodynamique des Solutions"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "THG21262"
+intitule_ecue = "Thermodynamique des Solutions"
 
 [[semestre_6.ue_connaissances_fondamentales]]
 code_ue = "OPP2126"
 intitule_ue = "Optique Physique"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "OPP21261"
-  intitule_ecue = "Polarisation"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "OPP21261"
+intitule_ecue = "Polarisation"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "OPP21262"
-  intitule_ecue = "Interférence et Diffraction"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "OPP21262"
+intitule_ecue = "Interférence et Diffraction"
 
 [[semestre_6.ue_connaissances_fondamentales]]
 code_ue = "PVP2126"
 intitule_ue = "Phénomènes de Vibration et de Propagation"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PVP21261"
-  intitule_ecue = "Phénomènes de vibration"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PVP21261"
+intitule_ecue = "Phénomènes de vibration"
 
-  [[semestre_6.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PVP21262"
-  intitule_ecue = "Propagation"
+[[semestre_6.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PVP21262"
+intitule_ecue = "Propagation"
 
 [[semestre_6.ue_specialite]]
 code_ue = "ELE2126"
 intitule_ue = "Electronique"
 
-  [[semestre_6.ue_specialite.ecue]]
-  code_ecue = "ELE21261"
-  intitule_ecue = "Electronique Analogique"
+[[semestre_6.ue_specialite.ecue]]
+code_ecue = "ELE21261"
+intitule_ecue = "Electronique Analogique"
 
-  [[semestre_6.ue_specialite.ecue]]
-  code_ecue = "ELE21262"
-  intitule_ecue = "Electronique Numérique"
+[[semestre_6.ue_specialite.ecue]]
+code_ecue = "ELE21262"
+intitule_ecue = "Electronique Numérique"
 
 [[semestre_6.ue_methodologie]]
 code_ue = "MEP2126"
 intitule_ue = "Mesures Physiques"
 
-  [[semestre_6.ue_methodologie.ecue]]
-  code_ecue = "MEP2126"
-  intitule_ecue = "Mesures Physiques"
+[[semestre_6.ue_methodologie.ecue]]
+code_ecue = "MEP2126"
+intitule_ecue = "Mesures Physiques"
 
 [[semestre_6.ue_methodologie]]
 code_ue = "MEC2126"
 intitule_ue = "Mesures Chimiques"
 
-  [[semestre_6.ue_methodologie.ecue]]
-  code_ecue = "MEC2126"
-  intitule_ecue = "Mesures Chimiques"
+[[semestre_6.ue_methodologie.ecue]]
+code_ecue = "MEC2126"
+intitule_ecue = "Mesures Chimiques"
 
 [[semestre_6.ue_culture_generale]]
 code_ue = "FRA2126"
 intitule_ue = "Français"
 
-  [[semestre_6.ue_culture_generale.ecue]]
-  code_ecue = "FRA2126"
-  intitule_ecue = "Français"
+[[semestre_6.ue_culture_generale.ecue]]
+code_ecue = "FRA2126"
+intitule_ecue = "Français"
