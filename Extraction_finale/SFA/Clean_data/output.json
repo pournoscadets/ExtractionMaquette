@@ -1663,9 +1663,984 @@
                   ]
                 }
               ]
+            },
+            {
+              "label": "L2",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Integrations et Series",
+                      "abbreviation": "MAN2103",
+                      "ecues": [
+                        {
+                          "label": "Integrales generalisees et Series de fonctions",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Series entieres-Series de Fourier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilite- Statistique",
+                      "abbreviation": "PBS2103",
+                      "ecues": [
+                        {
+                          "label": "Probabilites",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Statistique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mathematiques pour les Sciences-Physiques",
+                      "abbreviation": "MSP2103",
+                      "ecues": [
+                        {
+                          "label": "Mathematiques pour les Sciences-Physiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie Organique 1",
+                      "abbreviation": "CHO2103",
+                      "ecues": [
+                        {
+                          "label": "Hydrocarbures",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Composes organiques fonctici",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Minerale",
+                      "abbreviation": "CHM2103",
+                      "ecues": [
+                        {
+                          "label": "Classification des elements chimiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Proprietes des elements chimiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Pratique",
+                      "abbreviation": "CHP2104",
+                      "ecues": [
+                        {
+                          "label": "Chimie Generale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie Organique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Mecanique des Systemes",
+                      "abbreviation": "MEM2104",
+                      "ecues": [
+                        {
+                          "label": "Elements de base de la mecanique des systemes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications aux systemes materiels",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electromagnetisme",
+                      "abbreviation": "ELE2104",
+                      "ecues": [
+                        {
+                          "label": "Electromagnetisme",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optique Ondulatoire",
+                      "abbreviation": "OPO2104",
+                      "ecues": [
+                        {
+                          "label": "Optique Ondulatoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mecanique Quantique",
+                      "abbreviation": "PMQ2104",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique Physique",
+                      "abbreviation": "PTH2104",
+                      "ecues": [
+                        {
+                          "label": "Principes de la thermodynamie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Physique Pratique",
+                      "abbreviation": "PHP2104",
+                      "ecues": [
+                        {
+                          "label": "Physique Pratique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Introduction à la programmation",
+                      "abbreviation": "INP2103",
+                      "ecues": [
+                        {
+                          "label": "Introduction à la programmation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2103",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "UE Libre",
+                      "abbreviation": "UEL2104",
+                      "ecues": [
+                        {
+                          "label": "UE Libre",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Mecanique des fluides",
+                      "abbreviation": "MEF2125",
+                      "ecues": [
+                        {
+                          "label": "Mecanique des fluides",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electromagnetisme des Milieux",
+                      "abbreviation": "ELM2125",
+                      "ecues": [
+                        {
+                          "label": "Polarisation et Aimantation des milieux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ondes électromagnétiques dans les milieux",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Propriété de la Matière",
+                      "abbreviation": "PPM2116",
+                      "ecues": [
+                        {
+                          "label": "Structure de la matière",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Les tenseurs",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique Générale",
+                      "abbreviation": "THG2126",
+                      "ecues": [
+                        {
+                          "label": "Potentiels thermodynamiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Thermodynamique des Solutions",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optique Physique",
+                      "abbreviation": "OPP2126",
+                      "ecues": [
+                        {
+                          "label": "Polarisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Interference et Diffraction",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Phenomenes de Vibration et de Propagation",
+                      "abbreviation": "PVP2126",
+                      "ecues": [
+                        {
+                          "label": "Phenomenes de vibration",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Propagation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electronique",
+                      "abbreviation": "ELE2126",
+                      "ecues": [
+                        {
+                          "label": "Electronique Analogique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Electronique Numérique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mesures Physiques",
+                      "abbreviation": "MEP2126",
+                      "ecues": [
+                        {
+                          "label": "Mesures Physiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie Organique et Inorganique",
+                      "abbreviation": "COI2125",
+                      "ecues": [
+                        {
+                          "label": "Chimie Organique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie Minerale",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Liaisons Chimiques et Spectroscopie",
+                      "abbreviation": "LCS2125",
+                      "ecues": [
+                        {
+                          "label": "Liaisons Chimiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Spectroscopie",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mesures Chimiques",
+                      "abbreviation": "MEC2126",
+                      "ecues": [
+                        {
+                          "label": "Mesures Chimiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Modélisation pour la Physique",
+                      "abbreviation": "MOP2125",
+                      "ecues": [
+                        {
+                          "label": "Modélisation pour la Physique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mathematiques pour Sciences Physiques",
+                      "abbreviation": "MAS2125",
+                      "ecues": [
+                        {
+                          "label": "Mathematiques pour Sciences Physiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Didactique et Informatique pour les Sciences Physiques",
+                      "abbreviation": "DIS2125",
+                      "ecues": [
+                        {
+                          "label": "Didactique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Informatique pour Sciences Physiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "UE Libre",
+                      "abbreviation": "UEL2125",
+                      "ecues": [
+                        {
+                          "label": "UE Libre",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Français",
+                      "abbreviation": "FRA2126",
+                      "ecues": [
+                        {
+                          "label": "Français",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
+        {
+          "label": "PHYSIQUE",
+          "abbreviation": "PHYS",
+          "levels": [
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Physique Atomique et Nucléaire",
+                      "abbreviation": "PAN2115",
+                      "ecues": [
+                        {
+                          "label": "Physique Atomique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Physique Nucléaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electromagnetisme des Milieux",
+                      "abbreviation": "ELM2115",
+                      "ecues": [
+                        {
+                          "label": "Polarisation et aimantation des milieux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ondes électromagnétiques dans les milieux",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mecanique des Fluides",
+                      "abbreviation": "MEF2115",
+                      "ecues": [
+                        {
+                          "label": "Mecanique des Fluides",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mecanique Analytique",
+                      "abbreviation": "MEA2115",
+                      "ecues": [
+                        {
+                          "label": "Mecanique Analytique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Theorie du Signal",
+                      "abbreviation": "TSI2115",
+                      "ecues": [
+                        {
+                          "label": "Theorie du Signal",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Relativité",
+                      "abbreviation": "REL2115",
+                      "ecues": [
+                        {
+                          "label": "Relativité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Physique Statistique",
+                      "abbreviation": "PHS2115",
+                      "ecues": [
+                        {
+                          "label": "Ensembles et Distributions Statistiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Phenomene de transport",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Propriete de la Matiere",
+                      "abbreviation": "PPM2116",
+                      "ecues": [
+                        {
+                          "label": "Structure de la matière",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Les tenseurs",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optique Physique",
+                      "abbreviation": "OPP2116",
+                      "ecues": [
+                        {
+                          "label": "Polarisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Interference et Diffraction",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Phenomenes de Vibration et de Propagation",
+                      "abbreviation": "PVP2116",
+                      "ecues": [
+                        {
+                          "label": "Phenomenes de vibration",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Propagation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electronique",
+                      "abbreviation": "ELE2116",
+                      "ecues": [
+                        {
+                          "label": "Electronique Analogique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Electronique Numérique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mesures Physiques",
+                      "abbreviation": "MEP2116",
+                      "ecues": [
+                        {
+                          "label": "Mesures Physiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Modélisation pour la Physique",
+                      "abbreviation": "MOP2115",
+                      "ecues": [
+                        {
+                          "label": "Modélisation pour la Physique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Programmation",
+                      "abbreviation": "PRG2115",
+                      "ecues": [
+                        {
+                          "label": "Programmation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Projet pratique de fin de Licence",
+                      "abbreviation": "APP2116",
+                      "ecues": [
+                        {
+                          "label": "Projet pratique de fin de Licence",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2116",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Gestion de l'environnement",
+                      "abbreviation": "GEN2116",
+                      "ecues": [
+                        {
+                          "label": "Gestion de l'environnement",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Developpement durable",
+                      "abbreviation": "DED2116",
+                      "ecues": [
+                        {
+                          "label": "Developpement durable",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Nutrition",
+                      "abbreviation": "NUT2116",
+                      "ecues": [
+                        {
+                          "label": "Nutrition",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Histoire",
+                  "abbreviation": "HIST",
+                  "ues": [
+                    {
+                      "label": "Histoire de la Physique",
+                      "abbreviation": "HIP2116",
+                      "ecues": [
+                        {
+                          "label": "Histoire de la Physique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CHIMIE",
+          "abbreviation": "CHIM",
+          "levels": [
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Thermodynamique Statistique",
+                      "abbreviation": "THS2135",
+                      "ecues": [
+                        {
+                          "label": "Processus réversibles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Processus irréversibles",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique Générale",
+                      "abbreviation": "THG2135",
+                      "ecues": [
+                        {
+                          "label": "Potentiels thermodynamiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Thermodynamique des solutions",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Minérale Avancée",
+                      "abbreviation": "CMA2135",
+                      "ecues": [
+                        {
+                          "label": "Elements de transition",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie minerale industrielle",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Liaisons Chimiques et Spectroscopie",
+                      "abbreviation": "LCS2135",
+                      "ecues": [
+                        {
+                          "label": "Liaisons Chimiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Spectroscopie",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cristallographie",
+                      "abbreviation": "CRI2135",
+                      "ecues": [
+                        {
+                          "label": "Notions de base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Organique",
+                      "abbreviation": "CHO2136",
+                      "ecues": [
+                        {
+                          "label": "Phénols-Ethers-Epoxydes-dérivés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Amines-Acides carboxyliques et ses dérivés",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cinétique Chimique/ Electrochimie",
+                      "abbreviation": "ECC2136",
+                      "ecues": [
+                        {
+                          "label": "Electrochimie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Cinétique chimique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Assurance Qualité",
+                      "abbreviation": "ASQ2136",
+                      "ecues": [
+                        {
+                          "label": "Assurance",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Qualité",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Quantique",
+                      "abbreviation": "CHQ2136",
+                      "ecues": [
+                        {
+                          "label": "Chimie Quantique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Pratique",
+                      "abbreviation": "CHP2136",
+                      "ecues": [
+                        {
+                          "label": "Chimie Organique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie Physique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Mécanique des Fluides",
+                      "abbreviation": "MEF2136",
+                      "ecues": [
+                        {
+                          "label": "Mécanique des Fluides",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse Numérique",
+                      "abbreviation": "ANU2135",
+                      "ecues": [
+                        {
+                          "label": "Analyse Numérique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Programmation",
+                      "abbreviation": "PRG2136",
+                      "ecues": [
+                        {
+                          "label": "Programmation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "UE Libre",
+                      "abbreviation": "UEL2135",
+                      "ecues": [
+                        {
+                          "label": "UE Libre",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Projet",
+                      "abbreviation": "PRJ2136",
+                      "ecues": [
+                        {
+                          "label": "Projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+        ,
         {
           "label": "MATHEMATIQUES",
           "abbreviation": "M",
@@ -2099,7 +3074,7 @@
           ]
         },
         {
-          "label": "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE (ACC)",
+          "label": "ALGEBRE COMMUTATIVE ET CRYPTOGRAPHIE",
           "abbreviation": "ACC",
           "levels": [
             {
@@ -2358,11 +3333,140 @@
                   ]
                 }
               ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse Fonctionnelle Approfondie",
+                      "abbreviation": "AFA2313",
+                      "ecues": [
+                        {
+                          "label": "Theoremes Fondamentaux de l'Analyse fonctionnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mesures Complexes et de Radon - Transformation de Fourier",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilites Avancees",
+                      "abbreviation": "PRA2313",
+                      "ecues": [
+                        {
+                          "label": "Elements de theorie des Martingales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Algorithmes stochastiques de resolution de problemes",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Theories des filtrations",
+                      "abbreviation": "TEF2313",
+                      "ecues": [
+                        {
+                          "label": "Filtration des anneaux gradues associes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Quasi-polynomes de Hilbert",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cryptographie",
+                      "abbreviation": "CRY2313",
+                      "ecues": [
+                        {
+                          "label": "Cryptologie classiques et complements mathematiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Cryptographie publique et cryptanalyse",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation lineaire",
+                      "abbreviation": "PRL2313",
+                      "ecues": [
+                        {
+                          "label": "Programmation lineaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Techniques d'expression francaise",
+                      "abbreviation": "TEX2313",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'expression francaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2313",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Reduction Scientifique",
+                      "abbreviation": "RDS2314",
+                      "ecues": [
+                        {
+                          "label": "Reduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2314",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "label": "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE (OEDAN)",
+          "label": "OPTIMISATION, EQUATION DIFFERENTIELLE ET ANALYSE NUMERIQUE",
           "abbreviation": "OEDAN",
           "levels": [
             {
@@ -2621,11 +3725,140 @@
                   ]
                 }
               ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Mathematiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse Fonctionnelle Variationnelle",
+                      "abbreviation": "ANS2313",
+                      "ecues": [
+                        {
+                          "label": "Espaces de Skobelev et Derivees Generalisees",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Introduction aux Problemes aux limites",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse Numerique",
+                      "abbreviation": "ANU2313",
+                      "ecues": [
+                        {
+                          "label": "Methodes de volumes finis methodes des elements finis",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Methodes spectrales",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algebre Commutative",
+                      "abbreviation": "MAC2313",
+                      "ecues": [
+                        {
+                          "label": "Modules de longueur finie et dimension de Krull",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Modules gradues Fonctions de Hilbert,",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optimisation et Equations Differentielles",
+                      "abbreviation": "OPT2313",
+                      "ecues": [
+                        {
+                          "label": "Conditions d'optimalite",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Notions de programmation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation Lineaire",
+                      "abbreviation": "PRL2313",
+                      "ecues": [
+                        {
+                          "label": "Programmation lineaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Techniques d'expression francaise",
+                      "abbreviation": "TEX2313",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'expression francaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2313",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Reduction Scientifique",
+                      "abbreviation": "RDS2314",
+                      "ecues": [
+                        {
+                          "label": "Reduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2314",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "label": "PROBABILITES-STATISTIQUES (PS)",
+          "label": "PROBABILITES-STATISTIQUES",
           "abbreviation": "PS",
           "levels": [
             {
@@ -2877,6 +4110,1677 @@
                       "ecues": [
                         {
                           "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Mathematiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse Fonctionnelle Variationnelle",
+                      "abbreviation": "ANS2313",
+                      "ecues": [
+                        {
+                          "label": "Espaces de Skobelev et Derivees Generalises",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Introduction aux Problemes aux limites",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Probabilites",
+                      "abbreviation": "PBT2313",
+                      "ecues": [
+                        {
+                          "label": "Integrale d'Itô, Formule d'Itô",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equations differentielles stochastiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Algebre Commutative",
+                      "abbreviation": "MAC2313",
+                      "ecues": [
+                        {
+                          "label": "Modules de longueur finie et dimension de Krull",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Modules gradues Fonctions de Hilbert,",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Statistiques",
+                      "abbreviation": "STA2313",
+                      "ecues": [
+                        {
+                          "label": "Modele statistiques estimations",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Theories des tests",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Programmation Lineaire",
+                      "abbreviation": "PRL2313",
+                      "ecues": [
+                        {
+                          "label": "Programmation Lineaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Techniques d'expression francaise",
+                      "abbreviation": "TEX2313",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'expression francaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2313",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Reduction Scientifique",
+                      "abbreviation": "RDS2314",
+                      "ecues": [
+                        {
+                          "label": "Reduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2314",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "CHIMIE ET PHYSICO-CHIMIE DES SUBSTANCES NATURELLES",
+          "abbreviation": "CPCSN",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie organique avancée",
+                      "abbreviation": "COA2121",
+                      "ecues": [
+                        {
+                          "label": "Reactivites des systemes conjuges",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie des enotates. Reamenagement",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Chimie Organique Physique",
+                      "abbreviation": "COP2121",
+                      "ecues": [
+                        {
+                          "label": "Chimie Organique Physique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Resonance Paramagnetique Electronique",
+                      "abbreviation": "RPE2121",
+                      "ecues": [
+                        {
+                          "label": "Resonance Paramagnetique Electronique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Techniques d'analyse RMN",
+                      "abbreviation": "RMN2121",
+                      "ecues": [
+                        {
+                          "label": "Introduction à la RMN",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "RMN Bidimensionnelle",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stereochimie",
+                      "abbreviation": "SCH2121",
+                      "ecues": [
+                        {
+                          "label": "Stereochimie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Heterochimie",
+                      "abbreviation": "HET2122",
+                      "ecues": [
+                        {
+                          "label": "Heterocycles a 3 et 4 chainons",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Heterocycles a 5 et 6 chainons et condensés",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Phytochimie",
+                      "abbreviation": "PTC2122",
+                      "ecues": [
+                        {
+                          "label": "Metabolites secondaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biosynthese des metabolites secondaires",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Applications de la Chimie Organique",
+                      "abbreviation": "ACO2122",
+                      "ecues": [
+                        {
+                          "label": "Applications de la Chimie Organique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Polymeres",
+                      "abbreviation": "POL2122",
+                      "ecues": [
+                        {
+                          "label": "Polymeres",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Aromes dans l'Industrie",
+                      "abbreviation": "AIN2122",
+                      "ecues": [
+                        {
+                          "label": "Aromes dans l'Industrie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Grandes familles des plantes Medicinales",
+                      "abbreviation": "GFP2121",
+                      "ecues": [
+                        {
+                          "label": "Grandes familles des plantes Medicinales",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biologie Moleculaire Appliquee",
+                      "abbreviation": "BMA2121",
+                      "ecues": [
+                        {
+                          "label": "Biologie Moleculaire Appliquee",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Initiation a la pharmacologie",
+                      "abbreviation": "IPM2122",
+                      "ecues": [
+                        {
+                          "label": "Initiation a la pharmacologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Methodes Thermiques d'Analyse",
+                      "abbreviation": "MTA2121",
+                      "ecues": [
+                        {
+                          "label": "Methodes Thermiques d'Analyse",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Informatique",
+                      "abbreviation": "INF2121",
+                      "ecues": [
+                        {
+                          "label": "Informatique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Pharmacie",
+                  "abbreviation": "PHAR",
+                  "ues": [
+                    {
+                      "label": "Toxicologie",
+                      "abbreviation": "TOX2122",
+                      "ecues": [
+                        {
+                          "label": "Toxicologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2122",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Developpement durable",
+                      "abbreviation": "DVD2122",
+                      "ecues": [
+                        {
+                          "label": "Developpement durable",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Stage pédagogique",
+                      "abbreviation": "STP2122",
+                      "ecues": [
+                        {
+                          "label": "Stage pédagogique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie Bio organique",
+                      "abbreviation": "CBO2123",
+                      "ecues": [
+                        {
+                          "label": "Mecanisme reactionnel, biomolecules et metabolisme",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Transformation biochimique, famille de composes bioimportants",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Synthese des composes bioactifs",
+                      "abbreviation": "SCB2123",
+                      "ecues": [
+                        {
+                          "label": "Lipides, vitamines",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Moyens chimiques de defense des vegetaux",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Modelisation et graphisme moleculaire",
+                      "abbreviation": "MGM2123",
+                      "ecues": [
+                        {
+                          "label": "Modelisation moleculaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Graphisme moleculaire",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Methodes Analytiques",
+                      "abbreviation": "MAN2123",
+                      "ecues": [
+                        {
+                          "label": "Processus d'extraction, isolement et purification",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques separatives et spectrometrie de masse",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Strategie de syntheses",
+                      "abbreviation": "SSY2123",
+                      "ecues": [
+                        {
+                          "label": "Strategie de syntheses",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Conception de projets",
+                      "abbreviation": "COP2123",
+                      "ecues": [
+                        {
+                          "label": "Conception de projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Recherche bibliographique et reduction scientifique",
+                      "abbreviation": "RBR2124",
+                      "ecues": [
+                        {
+                          "label": "Recherche bibliographique et reduction scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2124",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2123",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PHYSICO-CHIMIE DES MATERIAUX ET PROCEDES (PCMP)",
+          "abbreviation": "PCMP",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Mathematiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Mathematiques",
+                      "abbreviation": "MAT2111",
+                      "ecues": [
+                        {
+                          "label": "Tenseurs",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equations differentielles et integrales",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Rheologie-Elasticite",
+                      "abbreviation": "RHE2111",
+                      "ecues": [
+                        {
+                          "label": "Rheologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Elasticite",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique des Equilibres de Phases",
+                      "abbreviation": "THM2111",
+                      "ecues": [
+                        {
+                          "label": "Diagramme d'equilibre",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Calcul des lignes d'equilibre",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Energetique et Transfert de chaleur",
+                      "abbreviation": "ETC2111",
+                      "ecues": [
+                        {
+                          "label": "Energetique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Transfert de chaleur",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Physique des vibrations",
+                      "abbreviation": "VIB2112",
+                      "ecues": [
+                        {
+                          "label": "Systemes lineaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Systemes non lineaires",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie du Solide",
+                      "abbreviation": "CHS2111",
+                      "ecues": [
+                        {
+                          "label": "Defauts ponctuels",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Elaboration des ceramiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Methodes Electrochimiques",
+                      "abbreviation": "MEL2112",
+                      "ecues": [
+                        {
+                          "label": "Methodes Electrochimiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Spectroscopie d'Analyse",
+                      "abbreviation": "SPA2112",
+                      "ecues": [
+                        {
+                          "label": "Spectroscopie d'Analyse",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Ingenieur",
+                  "abbreviation": "ING",
+                  "ues": [
+                    {
+                      "label": "Principes fondamentaux de Genie des Procedes",
+                      "abbreviation": "PGP2112",
+                      "ecues": [
+                        {
+                          "label": "Principes generaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Polymeres",
+                      "abbreviation": "POL2112",
+                      "ecues": [
+                        {
+                          "label": "Polymeres organiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Application des polymeres",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Initiation a la Recherche",
+                      "abbreviation": "INR2112",
+                      "ecues": [
+                        {
+                          "label": "Initiation a la Recherche",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Conception de Projet",
+                      "abbreviation": "COP2112",
+                      "ecues": [
+                        {
+                          "label": "Conception de Projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2111",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2112",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+             {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Catalyse et Chimie de l'environnement",
+                      "abbreviation": "CTE2113",
+                      "ecues": [
+                        {
+                          "label": "Catalyse sur metaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie de l'environnement",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique des systemes poly constitues",
+                      "abbreviation": "TSP2113",
+                      "ecues": [
+                        {
+                          "label": "Thermodynamique des solutions",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Methodologie Calphad",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Materiaux et Procedes d'elaboration",
+                      "abbreviation": "MAP2113",
+                      "ecues": [
+                        {
+                          "label": "Materiaux et utilise",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Materiaux et Conceptions",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Techniques d'analyse et de caracterisation",
+                      "abbreviation": "TAC2113",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'analyse spectroscopique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Methodes de caracterisation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Genie des Procedes",
+                      "abbreviation": "GPR2113",
+                      "ecues": [
+                        {
+                          "label": "Genie chimique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Procedes chimiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Modelisation des Systemes Chimiques",
+                      "abbreviation": "MSC2113",
+                      "ecues": [
+                        {
+                          "label": "Techniques de modelisation moleculaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Calcul de proprietes moleculaires",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG2113",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Informatique",
+                      "abbreviation": "INF2114",
+                      "ecues": [
+                        {
+                          "label": "Informatique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2114",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PHYSIQUE DU VIVANT",
+          "abbreviation": "PV",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Introduction aux Sciences de la Vie",
+                      "abbreviation": "ISV2211",
+                      "ecues": [
+                        {
+                          "label": "Biologie Moleculaire et Cellulaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Physiologie Médicale",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biochimie",
+                      "abbreviation": "BCM2211",
+                      "ecues": [
+                        {
+                          "label": "Biochimie 1",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biochimie 2",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biophysique cellulaire",
+                      "abbreviation": "BIC2212",
+                      "ecues": [
+                        {
+                          "label": "La Cellule",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biophysique de la cellule",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Rheologie",
+                      "abbreviation": "RHE2211",
+                      "ecues": [
+                        {
+                          "label": "Concepts de Base",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Elasticité",
+                      "abbreviation": "ELS2211",
+                      "ecues": [
+                        {
+                          "label": "Elasticité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Spectroscopie",
+                      "abbreviation": "SPE2211",
+                      "ecues": [
+                        {
+                          "label": "Spectroscopie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Propagation des ondes dans les milieux biologiques",
+                      "abbreviation": "POO2211",
+                      "ecues": [
+                        {
+                          "label": "Concepts généraux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications (Imagerie, chirurgie micro invasive, écholocation, etc.)",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique des Processus Irreversibles",
+                      "abbreviation": "TPI2211",
+                      "ecues": [
+                        {
+                          "label": "Généralités",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Concepts avancés",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biophysique Moleculaire",
+                      "abbreviation": "BIM2212",
+                      "ecues": [
+                        {
+                          "label": "Macromolecules, Conformation et Dynamique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Structures Organisées",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Milieux Biologiques (MB)",
+                      "abbreviation": "MBI2212",
+                      "ecues": [
+                        {
+                          "label": "Electricité des MB",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Magnétisme des MB",
+                          "type": "ECUE2"
+                        },
+                        {
+                          "label": "Systèmes Biologiques",
+                          "type": "ECUE3"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cristallographie",
+                      "abbreviation": "CRI2212",
+                      "ecues": [
+                        {
+                          "label": "Cristallographie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Vision par Ordinateur (Imagerie biologique, traitement d'image)",
+                      "abbreviation": "VIO2212",
+                      "ecues": [
+                        {
+                          "label": "Traitement d'Image",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Imagerie Biologique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electronique d'instruments-Capteur/ Instrumentation d'analyse Medicale",
+                      "abbreviation": "ELI2212",
+                      "ecues": [
+                        {
+                          "label": "Electronique d'instruments-Capteur",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Instrumentation d'analyse Medicale",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Modelisation des Systemes Complexes",
+                      "abbreviation": "MSC2211",
+                      "ecues": [
+                        {
+                          "label": "Modelisation des Systemes Complexes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Projet tutoré",
+                      "abbreviation": "PRT2212",
+                      "ecues": [
+                        {
+                          "label": "Projet tutoré",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Physique pour la Biologie Moleculaire",
+                      "abbreviation": "PBM2213",
+                      "ecues": [
+                        {
+                          "label": "Physique de l'ARN, ADN, Proteine",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Physique de la Regulation",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biophysique et Biochimie Theoriques",
+                      "abbreviation": "BBT2213",
+                      "ecues": [
+                        {
+                          "label": "Methodes theoriques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse structurale",
+                          "type": "ECUE2"
+                        },
+                        {
+                          "label": "Modelisation & Conception",
+                          "type": "ECUE3"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Proprietes optiques et hydrodynamiques des macromolecules en solutions",
+                      "abbreviation": "POH2213",
+                      "ecues": [
+                        {
+                          "label": "Structures Organisees",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Proprietes Optiques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Dynamique des Structures et Interactions des Macromolecules Biologiques",
+                      "abbreviation": "DSI2213",
+                      "ecues": [
+                        {
+                          "label": "Structures, Relations Structure-Fonction",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Interactions Macromoleculaires",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Conception Assistee par ordinateur de (macro)Molecules sur mesure",
+                      "abbreviation": "CAO2213",
+                      "ecues": [
+                        {
+                          "label": "Molecules naturelles a activites biologique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie Medicinale",
+                          "type": "ECUE2"
+                        },
+                        {
+                          "label": "Conception Assistee par Ordinateur de Molecules (CAOM)",
+                          "type": "ECUE3"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Outils et Methodes",
+                      "abbreviation": "OME2213",
+                      "ecues": [
+                        {
+                          "label": "Outils et Methodes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Reduction Scientifique",
+                      "abbreviation": "RDS2213",
+                      "ecues": [
+                        {
+                          "label": "Reduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2214",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2214",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PHOTONIQUE",
+          "abbreviation": "PHOTONIQUE",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Physique du Solide",
+                      "abbreviation": "PHS2221",
+                      "ecues": [
+                        {
+                          "label": "Structures cristallines",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Proprietes electroniques",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Interactions Rayonnements-Matiere",
+                      "abbreviation": "IRM2221",
+                      "ecues": [
+                        {
+                          "label": "Rayonnements",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Interactions",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technique en Microscopie",
+                      "abbreviation": "TMI2221",
+                      "ecues": [
+                        {
+                          "label": "Microscopie de fluorescence",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Microscopie a contraste de phase",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cristallographie",
+                      "abbreviation": "CRT2222",
+                      "ecues": [
+                        {
+                          "label": "Structures",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Spectroscopie",
+                      "abbreviation": "SPE2222",
+                      "ecues": [
+                        {
+                          "label": "Spectroscopie d'absorption et d'emission atomique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Spectroscopie de fluorescence (UV). Spectrometrie de masse",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Nanostructures et Nanophysique",
+                      "abbreviation": "NAN2222",
+                      "ecues": [
+                        {
+                          "label": "Nanostructure",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Nanophysique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optique Quantique et Optoelectronique",
+                      "abbreviation": "OQO2222",
+                      "ecues": [
+                        {
+                          "label": "Optique quantique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Optoelectronique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Imagerie",
+                      "abbreviation": "IMA2222",
+                      "ecues": [
+                        {
+                          "label": "Imagerie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Introduction a l'Optique de Fourier",
+                      "abbreviation": "IOF2222",
+                      "ecues": [
+                        {
+                          "label": "Introduction a l'Optique de Fourier",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Signaux",
+                      "abbreviation": "SIG2221",
+                      "ecues": [
+                        {
+                          "label": "Traitement de Signaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse de Signaux",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathematiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse Statistique Multivariee",
+                      "abbreviation": "ASM2221",
+                      "ecues": [
+                        {
+                          "label": "Planification experimentale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse Multivariable de donnees",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Methode Numerique et Logiciels Scientifiques",
+                      "abbreviation": "MNL2221",
+                      "ecues": [
+                        {
+                          "label": "Methode Numerique et Logiciels Scientifiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "UE Libre",
+                      "abbreviation": "UEL2221",
+                      "ecues": [
+                        {
+                          "label": "UE Libre",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Reduction Scientifique",
+                      "abbreviation": "RDS2222",
+                      "ecues": [
+                        {
+                          "label": "Reduction Scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entrepreneuriat",
+                      "abbreviation": "ENT2222",
+                      "ecues": [
+                        {
+                          "label": "Entrepreneuriat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANS2222",
+                      "ecues": [
+                        {
+                          "label": "Anglais",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Circuits et Instrumentations Electroniques",
+                      "abbreviation": "CIE2223",
+                      "ecues": [
+                        {
+                          "label": "Circuits Electroniques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Instrumentations Electronique",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Optique Avancee",
+                      "abbreviation": "OPA2223",
+                      "ecues": [
+                        {
+                          "label": "Optique Nonlineaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Optique Guidee",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Lasers",
+                      "abbreviation": "LAS2223",
+                      "ecues": [
+                        {
+                          "label": "Description des Lasers",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Principaux Lasers : technologie et applications",
+                          "type": "ECUE2"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Outils de Modelisation",
+                      "abbreviation": "OMO2223",
+                      "ecues": [
+                        {
+                          "label": "Outils de Modelisation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Spectroscopie Avancee",
+                      "abbreviation": "SPE2223",
+                      "ecues": [
+                        {
+                          "label": "Spectroscopie Avancee",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Initiation a la Physique du Plasma",
+                      "abbreviation": "IPP2223",
+                      "ecues": [
+                        {
+                          "label": "Initiation a la Physique du Plasma",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Initiation a la physique de couches minces",
+                      "abbreviation": "IPF2223",
+                      "ecues": [
+                        {
+                          "label": "Initiation a la physique de couches minces",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Initiation a la Theorie de la Relativite",
+                      "abbreviation": "ITR2223",
+                      "ecues": [
+                        {
+                          "label": "Initiation a la Theorie de la Relativite",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Techniques de caracterisation de materiaux",
+                      "abbreviation": "TCA2223",
+                      "ecues": [
+                        {
+                          "label": "Techniques de caracterisation de materiaux",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Effets Electro-optiques",
+                      "abbreviation": "EEO2223",
+                      "ecues": [
+                        {
+                          "label": "Effets Electro-optiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Modelisation Moleculaire : Matiere molle",
+                      "abbreviation": "MMM2223",
+                      "ecues": [
+                        {
+                          "label": "Modelisation Moleculaire : Matiere molle",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Stage et Memoire",
+                      "abbreviation": "STM2224",
+                      "ecues": [
+                        {
+                          "label": "Stage et Memoire",
                           "type": "ECUE1"
                         }
                       ]

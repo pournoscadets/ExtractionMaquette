@@ -15,73 +15,73 @@ semestre = 3
 code_ue = "MAN2103"
 intitule_ue = "Intégrations et Séries"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "MAN21031"
-  intitule_ecue = "Intégrales généralisées et Séries de fonctions"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "MAN21031"
+intitule_ecue = "Intégrales généralisées et Séries de fonctions"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "MAN21032"
-  intitule_ecue = "Séries entières-Séries de Fourier"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "MAN21032"
+intitule_ecue = "Séries entières-Séries de Fourier"
 
 [[semestre_3.ue_connaissances_fondamentales]]
 code_ue = "CHO2103"
 intitule_ue = "Chimie Organique 1"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "CHO21031"
-  intitule_ecue = "Hydrocarbures"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "CHO21031"
+intitule_ecue = "Hydrocarbures"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "CHO21032"
-  intitule_ecue = "Composés organiques fonctici"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "CHO21032"
+intitule_ecue = "Composés organiques fonctici"
 
 [[semestre_3.ue_connaissances_fondamentales]]
 code_ue = "CHM2103"
 intitule_ue = "Chimie Minérale"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "CHM21031"
-  intitule_ecue = "Classification des éléments chimiques"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "CHM21031"
+intitule_ecue = "Classification des éléments chimiques"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "CHM21032"
-  intitule_ecue = "Propriétés des éléments chimiques"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "CHM21032"
+intitule_ecue = "Propriétés des éléments chimiques"
 
 [[semestre_3.ue_connaissances_fondamentales]]
 code_ue = "PBS2103"
 intitule_ue = "Probabilité- Statistique"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PBS21031"
-  intitule_ecue = "Probabilités"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PBS21031"
+intitule_ecue = "Probabilités"
 
-  [[semestre_3.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PBS21032"
-  intitule_ecue = "Statistique"
+[[semestre_3.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PBS21032"
+intitule_ecue = "Statistique"
 
 [[semestre_3.ue_methodologie]]
 code_ue = "INP2103"
 intitule_ue = "Introduction à la programmation"
 
-  [[semestre_3.ue_methodologie.ecue]]
-  code_ecue = "INP2103"
-  intitule_ecue = "Introduction à la programmation"
+[[semestre_3.ue_methodologie.ecue]]
+code_ecue = "INP2103"
+intitule_ecue = "Introduction à la programmation"
 
 [[semestre_3.ue_methodologie]]
 code_ue = "MSP2103"
 intitule_ue = "Mathématiques pour les Sciences-Physiques"
 
-  [[semestre_3.ue_methodologie.ecue]]
-  code_ecue = "MSP2103"
-  intitule_ecue = "Mathématiques pour les Sciences-Physiques"
+[[semestre_3.ue_methodologie.ecue]]
+code_ecue = "MSP2103"
+intitule_ecue = "Mathématiques pour les Sciences-Physiques"
 
 [[semestre_3.ue_culture_generale]]
 code_ue = "ANG2103"
 intitule_ue = "Anglais"
 
-  [[semestre_3.ue_culture_generale.ecue]]
-  code_ecue = "ANG2103"
-  intitule_ecue = "Anglais"
+[[semestre_3.ue_culture_generale.ecue]]
+code_ecue = "ANG2103"
+intitule_ecue = "Anglais"
 
 # Domaine: SCIENCES ET TECHNOLOGIE
 # Parcours: PHYSIQUE-CHIMIE
@@ -100,78 +100,78 @@ semestre = 4
 code_ue = "MEM2104"
 intitule_ue = "Mécanique des Systèmes"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "MEM21041"
-  intitule_ecue = "Éléments de base de la mécanique des systèmes"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "MEM21041"
+intitule_ecue = "Éléments de base de la mécanique des systèmes"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "MEM21042"
-  intitule_ecue = "Applications aux systèmes matériels"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "MEM21042"
+intitule_ecue = "Applications aux systèmes matériels"
 
 [[semestre_4.ue_connaissances_fondamentales]]
 code_ue = "ELE2104"
 intitule_ue = "Electromagnétisme"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "ELE2104"
-  intitule_ecue = "Electromagnétisme"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "ELE2104"
+intitule_ecue = "Electromagnétisme"
 
 [[semestre_4.ue_connaissances_fondamentales]]
 code_ue = "OPO2104"
 intitule_ue = "Optique Ondulatoire"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "OPO2104"
-  intitule_ecue = "Optique Ondulatoire"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "OPO2104"
+intitule_ecue = "Optique Ondulatoire"
 
 [[semestre_4.ue_connaissances_fondamentales]]
 code_ue = "PMQ2104"
 intitule_ue = "Mécanique Quantique"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PMQ21041"
-  intitule_ecue = "Notions de base"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PMQ21041"
+intitule_ecue = "Notions de base"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PMQ21042"
-  intitule_ecue = "Applications"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PMQ21042"
+intitule_ecue = "Applications"
 
 [[semestre_4.ue_connaissances_fondamentales]]
 code_ue = "PTH2104"
 intitule_ue = "Thermodynamique Physique"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PTH21041"
-  intitule_ecue = "Principes de la thermodynamique"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PTH21041"
+intitule_ecue = "Principes de la thermodynamique"
 
-  [[semestre_4.ue_connaissances_fondamentales.ecue]]
-  code_ecue = "PTH21042"
-  intitule_ecue = "Applications"
+[[semestre_4.ue_connaissances_fondamentales.ecue]]
+code_ecue = "PTH21042"
+intitule_ecue = "Applications"
 
 [[semestre_4.ue_methodologie]]
 code_ue = "PHP2104"
 intitule_ue = "Physique Pratique"
 
-  [[semestre_4.ue_methodologie.ecue]]
-  code_ecue = "PHP2104"
-  intitule_ecue = "Physique Pratique"
+[[semestre_4.ue_methodologie.ecue]]
+code_ecue = "PHP2104"
+intitule_ecue = "Physique Pratique"
 
 [[semestre_4.ue_methodologie]]
 code_ue = "CHP2104"
 intitule_ue = "Chimie Pratique"
 
-  [[semestre_4.ue_methodologie.ecue]]
-  code_ecue = "CHP21041"
-  intitule_ecue = "Chimie Générale"
+[[semestre_4.ue_methodologie.ecue]]
+code_ecue = "CHP21041"
+intitule_ecue = "Chimie Générale"
 
-  [[semestre_4.ue_methodologie.ecue]]
-  code_ecue = "CHP21042"
-  intitule_ecue = "Chimie Organique"
+[[semestre_4.ue_methodologie.ecue]]
+code_ecue = "CHP21042"
+intitule_ecue = "Chimie Organique"
 
 [[semestre_4.ue_culture_generale]]
 code_ue = "UEL2104"
 intitule_ue = "UE Libre"
 
-  [[semestre_4.ue_culture_generale.ecue]]
-  code_ecue = "UEL2104"
-  intitule_ecue = "UE Libre"
+[[semestre_4.ue_culture_generale.ecue]]
+code_ecue = "UEL2104"
+intitule_ecue = "UE Libre"
