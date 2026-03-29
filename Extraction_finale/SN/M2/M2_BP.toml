@@ -1,0 +1,130 @@
+# Domaine: SCIENCES ET TECHNOLOGIES
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "ORG500"
+intitule_ue = "Organographie"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ORG501"
+  intitule_ecue = "Appareil végétatif"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ORG502"
+  intitule_ecue = "Appareil reproducteur"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "ECV500"
+intitule_ue = "Ecologie et conservation des végétaux"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ECV501"
+  intitule_ecue = "Ecologie végétale"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ECV502"
+  intitule_ecue = "Conservation des ressources végétales"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ECV503"
+  intitule_ecue = "Impact environnemental"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PHG500"
+intitule_ue = "Pharmacognosie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG501"
+  intitule_ecue = "Pharmacognosie générale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG502"
+  intitule_ecue = "Pharmacognosie spéciale 1"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG503"
+  intitule_ecue = "Pharmacognosie spéciale 2"
+
+[[semestre_3.ue_specialite]]
+code_ue = "FPM500"
+intitule_ue = "Formulation et production des médicaments traditionnels améliorés (MTA)"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM501"
+  intitule_ecue = "Biopharmacie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM502"
+  intitule_ecue = "Management de la qualité"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ARO500"
+intitule_ue = "Aromathérapie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ARO501"
+  intitule_ecue = "Production et forme galénique des huiles essentielles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ARO502"
+  intitule_ecue = "Voie d'administration et toxicité"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MRP500"
+intitule_ue = "Méthode de recherche en Pharmacologie et Phytothérapie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP501"
+  intitule_ecue = "Méthodologie en pharmacologie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP502"
+  intitule_ecue = "Méthodologie en phytothérapie"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "SOC500"
+intitule_ue = "Sociologie"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "SOC500"
+  intitule_ecue = "Sociologie"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES ET TECHNOLOGIES
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SEE500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SEE500"
+  intitule_ecue = "Stage en entreprise"

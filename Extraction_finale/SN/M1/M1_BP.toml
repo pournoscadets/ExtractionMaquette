@@ -1,0 +1,170 @@
+# Domaine: SCIENCES ET TECHNOLOGIES
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_fondamentale]]
+code_ue = "PHM400"
+intitule_ue = "Physiologie moléculaires"
+
+  [[semestre_1.ue_fondamentale.ecue]]
+  code_ecue = "PHM401"
+  intitule_ecue = "Métabolisme des glucides et des lipides"
+
+  [[semestre_1.ue_fondamentale.ecue]]
+  code_ecue = "PHM402"
+  intitule_ecue = "Métabolisme des protides et des vitamines"
+
+[[semestre_1.ue_specialite]]
+code_ue = "MTP400"
+intitule_ue = "Médecine traditionnelle et Pharmacopée africaine"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "MTP401"
+  intitule_ecue = "Médecine traditionnelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "MTP402"
+  intitule_ecue = "Pharmacopée africaine"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PSC400"
+intitule_ue = "Pathologie des systèmes nerveux cardiovasculaire et digestif"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PSC401"
+  intitule_ecue = "Pathologie du système nerveux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PSC402"
+  intitule_ecue = "Pathologie du système cardiovasculaire"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PSC403"
+  intitule_ecue = "Pathologie du système digestif"
+
+[[semestre_1.ue_specialite]]
+code_ue = "DDN400"
+intitule_ue = "Diabétologie et Disfonctionnement nutritionnelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "DDN401"
+  intitule_ecue = "Pathologie du métabolisme"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "DDN402"
+  intitule_ecue = "Physiopathologie de la nutrition"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CMI400"
+intitule_ue = "Cancérologie et maladies infectieuses"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CMI401"
+  intitule_ecue = "Cancer"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CMI402"
+  intitule_ecue = "Pathologie infectieuse"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CSC400"
+intitule_ue = "Communication scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES ET TECHNOLOGIES
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_fondamentale]]
+code_ue = "TOG400"
+intitule_ue = "Toxicologie générale"
+
+  [[semestre_2.ue_fondamentale.ecue]]
+  code_ecue = "TOG401"
+  intitule_ecue = "Toxicologie des systèmes"
+
+  [[semestre_2.ue_fondamentale.ecue]]
+  code_ecue = "TOG402"
+  intitule_ecue = "Immunotoxicologie"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PME400"
+intitule_ue = "Plantes médicinales"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PME401"
+  intitule_ecue = "Taxonomie des plantes africaines"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PME402"
+  intitule_ecue = "Caractères botaniques"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PLT400"
+intitule_ue = "Plantes toxiques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PLT400"
+  intitule_ecue = "Plantes médicinales toxiques"
+
+[[semestre_2.ue_stage]]
+code_ue = "STE400"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "STE400"
+  intitule_ecue = "Stage en entreprise"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "BOS400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "BOS401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "BOS402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "PPE400"
+intitule_ue = "Projet personnel"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "PPE400"
+  intitule_ecue = "Projet personnel"

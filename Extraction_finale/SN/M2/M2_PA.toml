@@ -1,0 +1,130 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS ANIMALES
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "PEP500"
+intitule_ue = "Pathogènes épizootiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BPE501"
+  intitule_ecue = "Biologie des pathogènes épizootiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TEP502"
+  intitule_ecue = "Technique d'analyse et épidémiologie moléculaire des pathogènes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EPI503"
+  intitule_ecue = "Epidémiologie"
+
+[[semestre_3.ue_specialite]]
+code_ue = "DFR500"
+intitule_ue = "Droit Foncier Rural"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "DFR501"
+  intitule_ecue = "Droit Foncier Rural"
+
+[[semestre_3.ue_specialite]]
+code_ue = "HQD500"
+intitule_ue = "Hygiène et qualité des denrées alimentaires d'origine animale et halieutique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EQC501"
+  intitule_ecue = "Evaluation de la qualité des produits carnés et halieutiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EQL502"
+  intitule_ecue = "Evaluation de la qualité des produits laitiers"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TPR500"
+intitule_ue = "Transformation des produits carnés, laitiers et halieutiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TPC501"
+  intitule_ecue = "Transformation des produits carnés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TPL502"
+  intitule_ecue = "Transformation des produits laitiers"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TPH503"
+  intitule_ecue = "Transformation des produits halieutiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "VPM500"
+intitule_ue = "Valorisation des plantes médicinales en pharmacopée traditionnelle vétérinaires"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "VPM501"
+  intitule_ecue = "Valorisation des plantes médicinales en pharmacopée traditionnelle vétérinaires"
+
+[[semestre_3.ue_specialite]]
+code_ue = "FAH500"
+intitule_ue = "Filières des Ressources Animales et Halieutiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PFR501"
+  intitule_ecue = "Principales Filières des RAH en Côte d'Ivoire"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CCO502"
+  intitule_ecue = "Circuits de commercialisation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAR503"
+  intitule_ecue = "Marketing"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "ECG500"
+intitule_ue = "Entreprenariat et Conseil de gestion"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "ENT501"
+  intitule_ecue = "Entreprenariat"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "CGE502"
+  intitule_ecue = "Conseil de gestion"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA501"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS ANIMALES
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "SEN500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "SEN501"
+  intitule_ecue = "Stage en entreprise"

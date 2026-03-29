@@ -1,0 +1,213 @@
+# Domaine: SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+Parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MQL100"
+intitule_ue = "Mécanique quantique et liaison chimique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MQL101"
+  intitule_ecue = "Mécanique quantique"
+
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MQL102"
+  intitule_ecue = "Liaison chimique"
+
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "TRA100"
+intitule_ue = "Thermodynamique, Cinétique Chimique et réaction en solution aqueuse"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TRA101"
+  intitule_ecue = "Thermodynamique et Cinétique Chimique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TRA102"
+  intitule_ecue = "Réaction en solution aqueuse"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MEO100"
+intitule_ue = "Mécanique et optique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEO101"
+  intitule_ecue = "Mécanique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEO102"
+  intitule_ecue = "Optique"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "ELE100"
+intitule_ue = "Electrostatique et électricité"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELE101"
+  intitule_ecue = "Electrostatique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELE102"
+  intitule_ecue = "Electricité"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BMS100"
+intitule_ue = "Biochimie structurale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BMS101"
+  intitule_ecue = "Structure des molécules simples"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BMS102"
+  intitule_ecue = "structure des molécules de taille moyenne"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "RED100"
+intitule_ue = "Recherche documentaire"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "RED100"
+  intitule_ecue = "Technique de recherche documentaire"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANG100"
+intitule_ue = "Anglais structural"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG101"
+  intitule_ecue = "listening (Anglais)"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG102"
+  intitule_ecue = "Writing (Anglais)"
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES
+# Grade: LICENCE
+# Niveau: L1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PGI100"
+intitule_ue = "Pétrologie et Géodynamique Interne"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGI101"
+  intitule_ecue = "Pétrologie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGI102"
+  intitule_ecue = "Géodynamique Interne"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PGE100"
+intitule_ue = "Pédologie et Géodynamique Externe"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGE101"
+  intitule_ecue = "Pédologie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGE102"
+  intitule_ecue = "Géodynamique Externe"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "BIC100"
+intitule_ue = "Biologie Cellulaire"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIC101"
+  intitule_ecue = "Cellules et virus"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIC102"
+  intitule_ecue = "Membrane plasmique et hyaloplasme"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIC103"
+  intitule_ecue = "Système membranaire interne - Péroxysomes et organites de conversion d'énergie"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "BID100"
+intitule_ue = "Biologie du Développement"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BID101"
+  intitule_ecue = "Grandes étapes du développement"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BID102"
+  intitule_ecue = "Développement embryonnaire des invertébrés"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BID103"
+  intitule_ecue = "Développement embryonnaire des vertébrés"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MAT100"
+intitule_ue = "Algèbre et analyse"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH101"
+  intitule_ecue = "Algèbre"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH102"
+  intitule_ecue = "Analyse"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "IIF100"
+intitule_ue = "Initiation à l'informatique"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IIF101"
+  intitule_ecue = "Connaissance de l'ordinateur"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IIF102"
+  intitule_ecue = "Utilisation de logiciels de base"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "UEL100"
+intitule_ue = "UE libre *"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Technique de communication"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Civilisation africaine"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Droit de l'eau"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Droit de l'environnement"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Agro-économie"
+
+

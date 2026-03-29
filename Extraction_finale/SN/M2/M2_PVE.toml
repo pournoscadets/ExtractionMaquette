@@ -1,0 +1,118 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "PHV500"
+intitule_ue = "Physiopathologie végétale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHV501"
+  intitule_ecue = "Mode d'attaque des pathogènes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHV502"
+  intitule_ecue = "Mécanismes de défense des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHV503"
+  intitule_ecue = "Effets des pathogènes sur les fonctions physiologiques de la plante"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PCD500"
+intitule_ue = "Protection et conservation des denrées stockées"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PCD501"
+  intitule_ecue = "Lutte contre les ravageurs des denrées stockées et des nuisibles domestiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PCD502"
+  intitule_ecue = "Lutte contre les bactéries et champignons"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PCD503"
+  intitule_ecue = "Techniques de conservation"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MLI500"
+intitule_ue = "Méthodes de lutte intégrées"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MLI501"
+  intitule_ecue = "Méthode de lutte contre les nuisibles des cultures"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MLI502"
+  intitule_ecue = "Techniques de lutte intégrée"
+
+[[semestre_3.ue_specialite]]
+code_ue = "NEF500"
+intitule_ue = "Nuisibles des essences forestières"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "NEF501"
+  intitule_ecue = "Phytopathologie forestière"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "NEF502"
+  intitule_ecue = "Entomologie forestière"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SST500"
+intitule_ue = "Séminaire et sortie de terrain"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SST500"
+  intitule_ecue = "Séminaire et sortie de terrain"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "LNC500"
+intitule_ue = "Lois, normes et conventions en matière de protection des végétaux"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "LNC501"
+  intitule_ecue = "Cadre juridique nationale en protection des végétaux"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "LNC502"
+  intitule_ecue = "Normes et conventions internationales en protection des végétaux"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ACT500"
+intitule_ue = "Anglais de composition thématique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ACT500"
+  intitule_ecue = "Anglais de composition thématique"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "STA500"
+intitule_ue = "Stage"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "STA500"
+  intitule_ecue = "Stage"

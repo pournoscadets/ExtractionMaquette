@@ -1,0 +1,210 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "CHE400"
+intitule_ue = "Chimie de l'Environnement"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHE401"
+  intitule_ecue = "Toxicologie des pesticides"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHE402"
+  intitule_ecue = "Ecotoxicologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHE403"
+  intitule_ecue = "Analyse des résidus"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PHT400"
+intitule_ue = "Phytotechnie tropicale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHT401"
+  intitule_ecue = "Monographie des grandes cultures"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHT402"
+  intitule_ecue = "Fondement de l'agriculture et systèmes de production végétale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHT403"
+  intitule_ecue = "Amélioration des systèmes de production végétale"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PTV400"
+intitule_ue = "Production et technologie végétales"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTV401"
+  intitule_ecue = "Physiologie des semences et de la germination"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTV402"
+  intitule_ecue = "Production hors sol des plantes"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTV403"
+  intitule_ecue = "Production végétale et agriculture biologique"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PTP400"
+intitule_ue = "Phytopathologie"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTP401"
+  intitule_ecue = "Maladies parasitaires"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTP402"
+  intitule_ecue = "Maladies non parasitaires"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BIS400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIS401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIS402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TAB400"
+intitule_ue = "Techniques d'analyses biologiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TAB401"
+  intitule_ecue = "Techniques d'analyses biologiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TAB402"
+  intitule_ecue = "Techniques d'analyse moléculaire"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "CSC400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "GPP400"
+intitule_ue = "Génétique des populations et gestion des ressources phytogénétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GPP401"
+  intitule_ecue = "Espèces et spéciation"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GPP402"
+  intitule_ecue = "Génétique des populations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GPP403"
+  intitule_ecue = "Gestion des ressources phytogénétiques"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "AGB400"
+intitule_ue = "Agri-business"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGB401"
+  intitule_ecue = "Formation en chaîne"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGB402"
+  intitule_ecue = "Etude des marchés et markéting"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGB403"
+  intitule_ecue = "Entreprenariat"
+
+[[semestre_2.ue_specialite]]
+code_ue = "REV400"
+intitule_ue = "Régénération des espèces végétales"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REV401"
+  intitule_ecue = "Régénération par graines"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REV402"
+  intitule_ecue = "Régénération par extension végétative"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REV403"
+  intitule_ecue = "Régénération in vitro"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GFS400"
+intitule_ue = "Gestion de la fertilité des sols"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFS401"
+  intitule_ecue = "Gestion des jachères et Agroforesterie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFS402"
+  intitule_ecue = "Aménagement et Irrigation"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFS403"
+  intitule_ecue = "Engrais verts et association légumineuses/plantes"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "CEP400"
+intitule_ue = "Conception, suivi et évaluation de projet"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "CEP400"
+  intitule_ecue = "Conception, suivi et évaluation de projet"
+
+[[semestre_2.ue_stage]]
+code_ue = "IME400"
+intitule_ue = "Immersion en entreprise"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "IME400"
+  intitule_ecue = "Immersion en entreprise"

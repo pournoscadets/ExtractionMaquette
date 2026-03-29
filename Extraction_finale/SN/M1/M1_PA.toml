@@ -1,0 +1,206 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS ANIMALES
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IMU400"
+intitule_ue = "Immunologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU401"
+  intitule_ecue = "Système immunitaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU402"
+  intitule_ecue = "Immunopathologie et vaccinologie"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CYN400"
+intitule_ue = "Cynégétique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN401"
+  intitule_ecue = "Présentation de la Faune"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN402"
+  intitule_ecue = "Relation Habitat/Effectif/Espèce"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN403"
+  intitule_ecue = "Principe d'Etablissement et Gestion des Aires Protégées"
+
+[[semestre_1.ue_specialite]]
+code_ue = "BBR400"
+intitule_ue = "Biologie et Biotechnologie de la Reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE401"
+  intitule_ecue = "Biologie de la reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE402"
+  intitule_ecue = "Biotechnologie de la reproduction"
+
+[[semestre_1.ue_specialite]]
+code_ue = "EBE400"
+intitule_ue = "Ethique et Bien-être"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE401"
+  intitule_ecue = "Ethique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE402"
+  intitule_ecue = "Bien-être"
+
+[[semestre_1.ue_specialite]]
+code_ue = "HSS400"
+intitule_ue = "Hygiène et sécurité sanitaire dans les filières de production animale"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS401"
+  intitule_ecue = "Hygiène et qualité dans les FDA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS402"
+  intitule_ecue = "Sécurité sanitaire des aliments"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "EGP400"
+intitule_ue = "Economie et gestion des projets"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP401"
+  intitule_ecue = "Economie"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP402"
+  intitule_ecue = "Gestion et évaluation des projets"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "GGE400"
+intitule_ue = "Génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE401"
+  intitule_ecue = "Outils du génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE402"
+  intitule_ecue = "Applications du génie génétique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS ANIMALES
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PAN400"
+intitule_ue = "Physiologie animale"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN401"
+  intitule_ecue = "Physiologie des grandes fonctions"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN402"
+  intitule_ecue = "Physiologie des poissons"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "HRE400"
+intitule_ue = "Hormones et régulation"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE400"
+  intitule_ecue = "Hormones et régulation"
+
+[[semestre_2.ue_specialite]]
+code_ue = "NAT400"
+intitule_ue = "Nutrition, alimentation animales et toxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAT401"
+  intitule_ecue = "Nutrition et alimentation des monogastriques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAT402"
+  intitule_ecue = "Nutrition et alimentation des polygastriques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAT403"
+  intitule_ecue = "Toxicologie vétérinaire"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PVL400"
+intitule_ue = "Production laitière et de viande"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PVL401"
+  intitule_ecue = "Production laitière"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PVL402"
+  intitule_ecue = "Production de viande"
+
+[[semestre_2.ue_stage]]
+code_ue = "SEL400"
+intitule_ue = "Stage en entreprise ou au laboratoire"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "SEL400"
+  intitule_ecue = "Stage en entreprise ou au laboratoire"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "AVM400"
+intitule_ue = "Analyse de variables multiples"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AVM400"
+  intitule_ecue = "Analyse de variables multiples"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "MRD400"
+intitule_ue = "Méthodes factorielles de réduction de données"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "MRD400"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "CSC400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"

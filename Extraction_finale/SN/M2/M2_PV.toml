@@ -1,0 +1,142 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AGP500"
+intitule_ue = "Amélioration génétique des plantes"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGP501"
+  intitule_ecue = "Génétique quantitative"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGP502"
+  intitule_ecue = "Sélection variétale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGP503"
+  intitule_ecue = "Biotechnologie et amélioration des plantes"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "TPR500"
+intitule_ue = "Technologie post- récolte"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPR501"
+  intitule_ecue = "Physiologie post- récolte"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPR502"
+  intitule_ecue = "Pathologie post- récolte"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPR503"
+  intitule_ecue = "Gestion post- récolte"
+
+[[semestre_3.ue_specialite]]
+code_ue = "CIV500"
+intitule_ue = "Culture in vitro et application en agriculture"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CIV501"
+  intitule_ecue = "Production en masse des végétaux"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CIV502"
+  intitule_ecue = "Amélioration variétale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CIV503"
+  intitule_ecue = "Assainissement des plantes et production de substances naturelles"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PPV500"
+intitule_ue = "Physiopathologie végétale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PPV501"
+  intitule_ecue = "Mode d'attaque des pathogènes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PPV502"
+  intitule_ecue = "Mécanismes de défense des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PPV503"
+  intitule_ecue = "Effets des pathogènes sur les fonctions physiologiques de la plantes"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ESA500"
+intitule_ue = "Ecophysiologie et stratégies d'adaptation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ESA501"
+  intitule_ecue = "Stress abiotique et pathologie végétales de toxicité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ESA502"
+  intitule_ecue = "Pathologies végétales de stress abiotique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ESA503"
+  intitule_ecue = "Mécanismes adaptatifs des plantes"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ONM500"
+intitule_ue = "Compétition et optimisation de la nutrition minérale et hydrique des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ONM501"
+  intitule_ecue = "Allélopathie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ONM502"
+  intitule_ecue = "Symbiose mycorhizienne"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "SVT500"
+intitule_ue = "Séminaires et visites de terrain"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SVT500"
+  intitule_ecue = "Séminaires et visites de terrain"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle (Mémoire)"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage en entreprise"

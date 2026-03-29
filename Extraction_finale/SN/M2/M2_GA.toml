@@ -1,0 +1,126 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: GENETIQUE ANIMALE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ANIMALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEQ500"
+intitule_ue = "Génétique Quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ501"
+  intitule_ecue = "Fondamentaux de la génétique quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ502"
+  intitule_ecue = "Analyse génétique des caractères quantitatifs"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEG500"
+intitule_ue = "Génie Génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG501"
+  intitule_ecue = "Les outils du génie génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG502"
+  intitule_ecue = "Les applications du génie génétique"
+
+[[semestre_3.ue_specialite]]
+code_ue = "AGA500"
+intitule_ue = "Amélioration Génétique des Animaux"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGA501"
+  intitule_ecue = "Amélioration génétique des animaux d'élevage"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGA502"
+  intitule_ecue = "Gestion de la qualité des productions animales"
+
+[[semestre_3.ue_specialite]]
+code_ue = "BGA500"
+intitule_ue = "Bases génétiques de la Production Animale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BGA501"
+  intitule_ecue = "Systèmes de production et biotechnologie de la reproduction"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BGA502"
+  intitule_ecue = "Génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BGA503"
+  intitule_ecue = "Génétique et sélection des animaux domestiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SAE500"
+intitule_ue = "Santé animale et environnement"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SAE501"
+  intitule_ecue = "Santé et pathologies des animaux d'élevage"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SAE502"
+  intitule_ecue = "Ecophysiologie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SAE503"
+  intitule_ecue = "Ecotoxicologie"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "SEA500"
+intitule_ue = "Systématique et Evolution Animale"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SEA500"
+  intitule_ecue = "Systématique et évolution animale"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "AGB500"
+intitule_ue = "AgroBusiness"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "AGB500"
+  intitule_ecue = "Agrobusiness"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ELS500"
+intitule_ue = "Entreprenariat et Leadership"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ALS500"
+  intitule_ecue = "Entreprenariat et leadership"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: GENETIQUE ANIMALE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ANIMALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage en entreprise"

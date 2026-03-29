@@ -1,0 +1,228 @@
+# Domaine: SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "BIA200"
+intitule_ue = "Biologie Animale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIA201"
+  intitule_ecue = "Protozoaires"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIA202"
+  intitule_ecue = "Métazoaires"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PHA200"
+intitule_ue = "Physiologie Animale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA201"
+  intitule_ecue = "Transport transmembranaire et transépithelial"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA202"
+  intitule_ecue = "Tissu nerveux"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA203"
+  intitule_ecue = "Contraction musculaire"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "BIV200"
+intitule_ue = "Biologie Végétale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIV201"
+  intitule_ecue = "Organisation et morphologie des spermaphytes"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIV202"
+  intitule_ecue = "Organisation reproduction des procariotes, des thallophytes des cormophytes non spermaphytes"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PHV200"
+intitule_ue = "Physiologie Végétale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHV201"
+  intitule_ecue = "Nutrition des plantes"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHV202"
+  intitule_ecue = "Résistance des plantes au stress"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "GEN200"
+intitule_ue = "Génétique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN201"
+  intitule_ecue = "Connaissance fondamentale en génétique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN202"
+  intitule_ecue = "Mutation génétique"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CHO200"
+intitule_ue = "Chimie Organique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO201"
+  intitule_ecue = "Chimie organique générale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO202"
+  intitule_ecue = "Chimie organique des structures"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "GHS200"
+intitule_ue = "Géologie Historique et Structurale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GHS201"
+  intitule_ecue = "Géologie Historique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GHS202"
+  intitule_ecue = "Géologie Structurale"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "UEL200"
+intitule_ue = "Loisir *"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "UEL200"
+  intitule_ecue = "Sport"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "UEL200"
+  intitule_ecue = "Musique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "UEL200"
+  intitule_ecue = "Danse"
+
+
+# Domaine: SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES
+# Grade: LICENCE
+# Niveau: L2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 4
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MAT200"
+intitule_ue = "Probabilité et statistique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH201"
+  intitule_ecue = "Probabilité"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH202"
+  intitule_ecue = "statistique"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "HYD200"
+intitule_ue = "Hydrologie et Hydrogéologie générale"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HYD201"
+  intitule_ecue = "Hydrologie générale"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HYD202"
+  intitule_ecue = "Hydrogéologie générale"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MBA200"
+intitule_ue = "Biochimie des macromolécules"
+
+  [[semestre_4.ue_connaissances_fondamentales]]
+  code_ecue = "MBA201"
+  intitule_ecue = "Structure des macromolécules"
+
+  [[semestre_4.ue_connaissances_fondamentales]]
+  code_ecue = "MBA202"
+  intitule_ecue = "Notions de métabolisme des macromolécules"
+
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "PHY200"
+intitule_ue = "Thermodynamique et éléments de physiques des particules"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHY201"
+  intitule_ecue = "Thermodynamique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHY202"
+  intitule_ecue = "Eléments de physiques des particules"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "BEB200"
+intitule_ue = "Enzymologie et Bioénergétique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEB201"
+  intitule_ecue = "Cinétique enzymatique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEB202"
+  intitule_ecue = "Bioénergetique"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MIG200"
+intitule_ue = "Microbiologie générale"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIG201"
+  intitule_ecue = "Classification"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIG202"
+  intitule_ecue = "Rôle des microorganismes"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "IRS200"
+intitule_ue = "Initiation à la redaction scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "IRS200"
+  intitule_ecue = "Initiation à la redaction scientifique"
+
+[[semestre_4.ue_culture_generale]]
+code_ue = "IPR200"
+intitule_ue = "Insertion professionnel"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "IPR201"
+  intitule_ecue = "Milieu agroalimentaire"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "IPR202"
+  intitule_ecue = "Secteur de l'eau"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "IPR203"
+  intitule_ecue = "Productions animales et végétales"
+

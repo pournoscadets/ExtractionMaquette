@@ -1,0 +1,122 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: AVICULTURE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "TPA500"
+intitule_ue = "Techniques de production des aliments composés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FAC501"
+  intitule_ecue = "Formulation des aliments composés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TFA502"
+  intitule_ecue = "Techniques de fabrication des aliments composés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CMV503"
+  intitule_ecue = "Formulation et fabrication des CMV"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PDA500"
+intitule_ue = "Pathologies dominantes aviaires"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PRP501"
+  intitule_ecue = "Pathologies des reproducteurs et pondeuses"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PVC502"
+  intitule_ecue = "Pathologies des volailles de chair"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TPR500"
+intitule_ue = "Qualité et commercialisation des produits avicoles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "QPA501"
+  intitule_ecue = "Qualité des produits avicoles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CCO502"
+  intitule_ecue = "Circuits de commercialisation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAR503"
+  intitule_ecue = "Marketing"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ERC500"
+intitule_ue = "Techniques d'élevage des reproducteurs 'chair'"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ERC501"
+  intitule_ecue = "Conduite de l'élevage des reproducteurs 'chair'"
+
+[[semestre_3.ue_specialite]]
+code_ue = "RIO500"
+intitule_ue = "Reproduction, incubation et production des œufs de consommation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "POC501"
+  intitule_ecue = "Techniques de production des œufs à couver"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "INC502"
+  intitule_ecue = "Incubation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OCO503"
+  intitule_ecue = "Techniques de production des œufs de consommation"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "GSA500"
+intitule_ue = "Gestion et suivi d'une exploitation avicole"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "GEA501"
+  intitule_ecue = "Gestion d'une exploitation avicole"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SEA502"
+  intitule_ecue = "Suivi d'une exploitation avicole"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: AVICULTURE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "SEN500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "SEN500"
+  intitule_ecue = "Stage en entreprise"

@@ -1,0 +1,122 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: GENETIQUE VEGETALE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE VEGETALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEQ500"
+intitule_ue = "Génétique Quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ501"
+  intitule_ecue = "Fondamentaux de la génétique quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ502"
+  intitule_ecue = "Analyse génétique des caractères quantitatifs"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEG500"
+intitule_ue = "Génie Génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG501"
+  intitule_ecue = "Les outils du génie génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG502"
+  intitule_ecue = "Les applications du génie génétique"
+
+[[semestre_3.ue_specialite]]
+code_ue = "AGP500"
+intitule_ue = "Amélioration Génétique des Plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGP501"
+  intitule_ecue = "Amélioration génétique des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGP502"
+  intitule_ecue = "Gestion de la qualité des productions végétales"
+
+[[semestre_3.ue_specialite]]
+code_ue = "AGR500"
+intitule_ue = "Amélioration Génétique de la Résistance des Plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGR501"
+  intitule_ecue = "Physiologie et mécanisme de défense des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGR502"
+  intitule_ecue = "Amélioration génétique de la résistance des plantes aux bio-agresseurs"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGR503"
+  intitule_ecue = "Amélioration génétique de la résistance des plantes aux facteurs abiotiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PTT500"
+intitule_ue = "Phytotechnie Tropicale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PTT501"
+  intitule_ecue = "Fondements de l'agriculture en régions tropicales"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PTT502"
+  intitule_ecue = "Perspectives d'amélioration des productions végétales en régions tropicales"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "SEV500"
+intitule_ue = "Systématique et Evolution Végétale"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SEV500"
+  intitule_ecue = "Systématique et évolution végétale"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "AGB500"
+intitule_ue = "AgroBusiness"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "AGB50"
+  intitule_ecue = "Agrobusiness"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ELS500"
+intitule_ue = "Entreprenariat et Leadership"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ELS500"
+  intitule_ecue = "Entreprenariat et leadership"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: GENETIQUE VEGETALE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE VEGETALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage en entreprise"

@@ -1,0 +1,210 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "EDP400"
+intitule_ue = "Écologie des populations"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EDP401"
+  intitule_ecue = "Évolution moléculaire et génomique des populations"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EDP402"
+  intitule_ecue = "Croissance & Traits d'histoire de vie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EDP403"
+  intitule_ecue = "Dynamique de population"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "SDC400"
+intitule_ue = "Structure des communautés"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC401"
+  intitule_ecue = "Structure des communautés"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC402"
+  intitule_ecue = "Interactions spécifiques"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC403"
+  intitule_ecue = "Perturbations écologiques"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BEF400"
+intitule_ue = "Biodiversité et écologie fonctionnelle"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEF401"
+  intitule_ecue = "Fonctionnement d'un écosystème tropical"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEF402"
+  intitule_ecue = "Services écosystémiques"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "TAX400"
+intitule_ue = "Taxonomie du vivant"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TAX401"
+  intitule_ecue = "Méthodes de classification & Taxonomie animale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TAX402"
+  intitule_ecue = "Méthodes de classification & Taxonomie végétale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TAX403"
+  intitule_ecue = "Méthodes de classification & Taxonomie des microorganismes"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ROS400"
+intitule_ue = "Réponses des organismes aux stress environnementaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROS401"
+  intitule_ecue = "Réponses des végétaux aux stress environnementaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROS402"
+  intitule_ecue = "Réponses des animaux aux stress environnementaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROS403"
+  intitule_ecue = "Réponses des microorganismes aux stress environnementaux"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TSD400"
+intitule_ue = "Traitement statistique des données"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TSD401"
+  intitule_ecue = "Traitement statistique des données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TES400"
+intitule_ue = "Télédétection et SIG"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TES401"
+  intitule_ecue = "Bases théoriques sur les traitements d'images de télédétection"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TES402"
+  intitule_ecue = "Initiation aux SIG"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "CSC400"
+intitule_ue = "Communication scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ADP400"
+intitule_ue = "Analyse démographique des populations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ADP401"
+  intitule_ecue = "Modèle démographique matriciel; Modèle de Lotka Volterra"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ADP402"
+  intitule_ecue = "Modèles bayésien et hiérarchique"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PSG400"
+intitule_ue = "Phytosociologie et phytogéographie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PSG401"
+  intitule_ecue = "Phytosociologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PSG402"
+  intitule_ecue = "Phytogéographie"
+
+[[semestre_2.ue_specialite]]
+code_ue = "TOX400"
+intitule_ue = "Écotoxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TOX401"
+  intitule_ecue = "Toxicologie des pesticides et méthode de lutte intégrée"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TOX402"
+  intitule_ecue = "Toxicologie des métaux lourds et autres composés chimiques"
+
+[[semestre_2.ue_specialite]]
+code_ue = "ECQ400"
+intitule_ue = "Écologie quantitative"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ECQ401"
+  intitule_ecue = "Processus stochastique de mort et de naissance; modélisation des incertitudes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ECQ402"
+  intitule_ecue = "Application de l'écologie quantitative"
+
+[[semestre_2.ue_stage]]
+code_ue = "SIM400"
+intitule_ue = "Stage d'immersion"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "SIM400"
+  intitule_ecue = "Stage d'immersion"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "PPE400"
+intitule_ue = "Outil d'insertion professionnelle"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "PPE401"
+  intitule_ecue = "Rédaction de CV et simulation d'entretien de stages et d'embauche"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "PPE402"
+  intitule_ecue = "Techniques de recherche d'offres de stage ou d'emploi"

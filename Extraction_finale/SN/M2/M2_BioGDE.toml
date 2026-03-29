@@ -1,0 +1,126 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "GDB500"
+intitule_ue = "Gestion de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDB501"
+  intitule_ecue = "Protection de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDB502"
+  intitule_ecue = "Biologie de la conservation: métapopulation et viabilité des populations"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GDE500"
+intitule_ue = "Gestion durable des écosystèmes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDE501"
+  intitule_ecue = "Intensification écologique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDE502"
+  intitule_ecue = "Paysages dégradés et stratégie de réhabilitation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDE503"
+  intitule_ecue = "Gaz à effet de serre et réchauffement climatique: impacts sur l'environnement"
+
+[[semestre_3.ue_specialite]]
+code_ue = "APT500"
+intitule_ue = "Aménagement des paysages urbains"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "APT501"
+  intitule_ecue = "Aménagement des paysages urbains"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "APT502"
+  intitule_ecue = "Aménagement des parcs et réserves naturelles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "APT503"
+  intitule_ecue = "Aménagement des forêts"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ERB500"
+intitule_ue = "Économie, réglementation de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ERB501"
+  intitule_ecue = "Économie de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ERB502"
+  intitule_ecue = "Législation nationale et internationale de la protection de la biodiversité"
+
+[[semestre_3.ue_specialite]]
+code_ue = "EIE500"
+intitule_ue = "Étude d'impact environnemental"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EIE501"
+  intitule_ecue = "Impact environnemental et orientations stratégiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EIE502"
+  intitule_ecue = "Gestion des impacts"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SFA500"
+intitule_ue = "Structure et fonctionnement des milieux aquatiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SFA501"
+  intitule_ecue = "Structure et diversité biologique des écosystèmes aquatiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SFA502"
+  intitule_ecue = "Fonctionnement des milieux aquatiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SFA503"
+  intitule_ecue = "Options de gestion durable des milieux aquatiques et applications"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle (Mémoire)"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage de fin de cycle (Mémoire)"
