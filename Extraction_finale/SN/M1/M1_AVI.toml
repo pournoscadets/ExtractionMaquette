@@ -1,0 +1,206 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: AVICULTURE
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IMU400"
+intitule_ue = "Immunologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU401"
+  intitule_ecue = "Système immunitaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU402"
+  intitule_ecue = "Immunopathologie et vaccinologie"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CYN400"
+intitule_ue = "Cynégétique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN401"
+  intitule_ecue = "Présentation de la Faune"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN402"
+  intitule_ecue = "Relation Habitat/Effectif/Espèce"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN403"
+  intitule_ecue = "Principe d'Etablissement et Gestion des Aires Protégées"
+
+[[semestre_1.ue_specialite]]
+code_ue = "BBR400"
+intitule_ue = "Biologie et Biotechnologie de la Reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE401"
+  intitule_ecue = "Biologie de la reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE402"
+  intitule_ecue = "Biotechnologie de la reproduction"
+
+[[semestre_1.ue_specialite]]
+code_ue = "EBE400"
+intitule_ue = "Ethique et Bien-être"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE401"
+  intitule_ecue = "Ethique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE402"
+  intitule_ecue = "Bien-être"
+
+[[semestre_1.ue_specialite]]
+code_ue = "HSS400"
+intitule_ue = "Hygiène et sécurité sanitaire dans les filières de production animale"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS401"
+  intitule_ecue = "Hygiène et qualité dans les FDA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS402"
+  intitule_ecue = "Sécurité sanitaire des aliments"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "EGP400"
+intitule_ue = "Economie et gestion des projets"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP401"
+  intitule_ecue = "Economie"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP402"
+  intitule_ecue = "Gestion et évaluation des projets"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "GGE400"
+intitule_ue = "Génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE401"
+  intitule_ecue = "Outils du génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE402"
+  intitule_ecue = "Applications du génie génétique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: AVICULTURE
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "APV400"
+intitule_ue = "Anatomie et Physiologie des volailles"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AVO401"
+  intitule_ecue = "Anatomie des volailles"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVO402"
+  intitule_ecue = "Physiologie des volailles"
+
+[[semestre_2.ue_specialite]]
+code_ue = "NAT400"
+intitule_ue = "Nutrition, Alimentation des Volailles et Toxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAV401"
+  intitule_ecue = "Nutrition et alimentation des volailles"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "FRV402"
+  intitule_ecue = "Formulation des rations de volaille"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TAV403"
+  intitule_ecue = "Toxicologie des aliments de volaille"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PAVL400"
+intitule_ue = "Pathologies Aviaires"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "MAV401"
+  intitule_ecue = "Maladies aviaires"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DPM402"
+  intitule_ecue = "Diagnostic et prévention des maladies aviaires"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CVC400"
+intitule_ue = "Conduite de l'élevage de Volailles de chair"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CVC400"
+  intitule_ecue = "Techniques d'élevage de volailles de chair"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CVP400"
+intitule_ue = "Conduite de l'élevage de volailles de ponte"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CVP400"
+  intitule_ecue = "Techniques d'élevage de volailles de ponte"
+
+[[semestre_2.ue_stage]]
+code_ue = "SEL400"
+intitule_ue = "Stage en entreprise ou au laboratoire"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "SEL400"
+  intitule_ecue = "Stage en entreprise ou au laboratoire"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "ESA400"
+intitule_ue = "Environnement du Secteur Avicole"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "ESA400"
+  intitule_ecue = "Réglementation, organisation, foncier rural, etc."
+
+[[semestre_2.ue_methodologie]]
+code_ue = "IEA400"
+intitule_ue = "Infrastructures et Equipements Avicoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IAV401"
+  intitule_ecue = "Infrastructures Avicoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "EAV402"
+  intitule_ecue = "Equipements Avicoles"

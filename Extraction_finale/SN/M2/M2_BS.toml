@@ -1,0 +1,131 @@
+# Domaine: SCIENCES ET TECHNOLOGIES
+# Parcours: BIOLOGIE ET SANTE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 3
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BIOLOGIE ET SANTE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "NCF500"
+intitule_ue = "Neuromédiateurs et comportements fondamentaux"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "NCF501"
+  intitule_ecue = "Neuromédiateur et système nerveux autonome"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "NCF502"
+  intitule_ecue = "Etude des comportements fondamentaux"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "PHI500"
+intitule_ue = "Pharmacologie infectieuse"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHI501"
+  intitule_ecue = "Antimicrobiens"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHI502"
+  intitule_ecue = "Immunomodulation"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "PSC500"
+intitule_ue = "Pharmacologie du système cardiovasculaire"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PSC501"
+  intitule_ecue = "Pharmacologie du système cardiaque"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PSC502"
+  intitule_ecue = "Pharmacologie de l'hémostase"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "PHR500"
+intitule_ue = "Physiologie de la reproduction"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHR501"
+  intitule_ecue = "Fonctionnement des organes de reproduction et développement fœto-placentaire"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHR502"
+  intitule_ecue = "Mécanisme de contrôle des hormones de reproduction"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PHG500"
+intitule_ue = "Pharmacognosie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG501"
+  intitule_ecue = "Pharmacognosie générale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG502"
+  intitule_ecue = "Pharmacognosie spéciale 1"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG503"
+  intitule_ecue = "Pharmacognosie spéciale 2"
+
+[[semestre_3.ue_specialite]]
+code_ue = "FPM500"
+intitule_ue = "Formulation et production des médicaments traditionnels améliorés (MTA)"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM501"
+  intitule_ecue = "Biopharmacie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM502"
+  intitule_ecue = "Management de la qualité"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MRP500"
+intitule_ue = "Méthode de recherche en Pharmacologie et Phytothérapie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP501"
+  intitule_ecue = "Méthodologie en pharmacologie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP502"
+  intitule_ecue = "Méthodologie en phytothérapie"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANC500"
+intitule_ue = "Anglais de composition thématique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANC500"
+  intitule_ecue = "Anglais de composition thématique"
+
+
+
+# Domaine: SCIENCES ET TECHNOLOGIES
+# Parcours: BIOLOGIE ET SANTE
+# Grade: MASTER
+# Niveau: M2
+# Semestre: 4
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BIOLOGIE ET SANTE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SEE500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SEE500"
+  intitule_ecue = "Stage en entreprise"

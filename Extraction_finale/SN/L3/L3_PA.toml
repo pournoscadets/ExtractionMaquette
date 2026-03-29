@@ -1,0 +1,234 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS ANIMALES
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ZEA300"
+intitule_ue = "Zootechnie générale et Extérieur"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZEA301"
+  intitule_ecue = "Zootechnie générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZEA302"
+  intitule_ecue = "Extérieur"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "HIA300"
+intitule_ue = "Histologie fonctionnelle et anatomie comparée"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HIA301"
+  intitule_ecue = "Histologie fonctionnelle"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HIA302"
+  intitule_ecue = "Anatomie pathologique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HIA303"
+  intitule_ecue = "Anatomie comparée"
+
+[[semestre_5.ue_specialite]]
+code_ue = "APA300"
+intitule_ue = "Agrostologie et Aménagements agro-pastoraux"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "APA301"
+  intitule_ecue = "Aménagements agro-pastoraux"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "APA302"
+  intitule_ecue = "Agrostologie"
+
+[[semestre_5.ue_specialite]]
+code_ue = "ANA300"
+intitule_ue = "Alimentation et nutrition animales"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ANA301"
+  intitule_ecue = "Digestibilité des aliments"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ANA302"
+  intitule_ecue = "Techniques d'analyse et formulation des rations"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "BIS300"
+intitule_ue = "Biosécurité"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS301"
+  intitule_ecue = "Risques biologiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS302"
+  intitule_ecue = "Mesure de confinement et procédures de sécurité"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "AMG300"
+intitule_ue = "Amélioration génétique des animaux d'élevage"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "AMG301"
+  intitule_ecue = "Principes de la génétique des populations animales"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "AMG302"
+  intitule_ecue = "Sélection animale"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "CDS300"
+intitule_ue = "Collecte des données et analyse statistique"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS301"
+  intitule_ecue = "Méthodes de collecte des données"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS302"
+  intitule_ecue = "Analyse univariée et bivariées"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MRP300"
+intitule_ue = "Méthode de rédaction de projet"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MRP300"
+  intitule_ecue = "Méthode de rédaction de projet"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "AAC300"
+intitule_ue = "Anglais d'acquisition"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "AAC300"
+  intitule_ecue = "Anglais d'acquisition"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PRODUCTIONS ANIMALES
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_specialite]]
+code_ue = "PAT300"
+intitule_ue = "Pathologies animales"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PAT301"
+  intitule_ecue = "Affections microbiennes"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PAT302"
+  intitule_ecue = "Affections parasitaires"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PAT303"
+  intitule_ecue = "Affections métaboliques"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PDM300"
+intitule_ue = "Production des monogastriques"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDM301"
+  intitule_ecue = "Aviculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDM302"
+  intitule_ecue = "Porciculture"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PDR300"
+intitule_ue = "Production des ruminants"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDR301"
+  intitule_ecue = "Production ovine et caprine"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDR302"
+  intitule_ecue = "Production bovine"
+
+[[semestre_6.ue_specialite]]
+code_ue = "EDE300"
+intitule_ue = "Élevage en développement"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "EDE301"
+  intitule_ecue = "Cuniculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "EDE302"
+  intitule_ecue = "Apiculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "EDE303"
+  intitule_ecue = "Aulacodiculture et Achatiniculture"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PEA300"
+intitule_ue = "Pêche et aquaculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PEA301"
+  intitule_ecue = "Pêche"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PEA302"
+  intitule_ecue = "Aquaculture"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "EGB300"
+intitule_ue = "Ecologie générale et Bioclimatologie"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "EGB301"
+  intitule_ecue = "Ecologie générale"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "EGB302"
+  intitule_ecue = "Bioclimatologie"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "OGP300"
+intitule_ue = "Organisation et gestion des professionnels d'élevage et recherche d'emploi"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGP301"
+  intitule_ecue = "Gestion des organisations professionnelles"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGP302"
+  intitule_ecue = "Leadership et développement personnel"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGP303"
+  intitule_ecue = "Technique de recherche d'emploi"
+
+[[semestre_6.ue_stage]]
+code_ue = "STI300"
+intitule_ue = "Stage d'immersion"
+
+  [[semestre_6.ue_stage.ecue]]
+  code_ecue = "STI300"
+  intitule_ecue = "Stage d'immersion"

@@ -1,0 +1,226 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: GENETIQUE ET AMELIORATION DES Bioressources
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ET AMELIORATION DES Bioressources"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_specialite]]
+code_ue = "BIP400"
+intitule_ue = "Biologie des Populations"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BIP401"
+  intitule_ecue = "Génétique des populations"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BIP402"
+  intitule_ecue = "Evolution et sélection naturelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BIP403"
+  intitule_ecue = "Biogéographie et dynamique des populations"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "ICP400"
+intitule_ue = "Immersion en Milieu Réel et Construction de Projet"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ICP401"
+  intitule_ecue = "Conception et rédaction de projet professionnel"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ICP402"
+  intitule_ecue = "Immersion en milieu réel"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'Expression Anglaise"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CSC400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Recherche documentaire"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Rédaction scientifique"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BST400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BIF400"
+intitule_ue = "Bio-Informatique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIF401"
+  intitule_ecue = "Modélisation des phénomènes biologiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIF402"
+  intitule_ecue = "Système d'Information Géographique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIF403"
+  intitule_ecue = "Bioinformatique appliquée à la génomique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ADD400"
+intitule_ue = "Agriculture et Développement Durable"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ADD401"
+  intitule_ecue = "Systèmes de culture"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ADD402"
+  intitule_ecue = "Agrobiodiversité"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "EDG400"
+intitule_ue = "Ethique, Déontologie et Gouvernance"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "EDG401"
+  intitule_ecue = "Ethique et déontologie"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "EDG402"
+  intitule_ecue = "Gouvernance"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: GENETIQUE ET AMELIORATION DES Bioressources
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ET AMELIORATION DES Bioressources"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "SYS400"
+intitule_ue = "Systèmes Semenciers"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYS401"
+  intitule_ecue = "Physiologie des semences"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYS402"
+  intitule_ecue = "Production et conservation de semences"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYS403"
+  intitule_ecue = "Législation en matière de production et distribution des semences"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MGU400"
+intitule_ue = "Marqueurs Génétiques et Utilisations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MGU401"
+  intitule_ecue = "Développement des marqueurs génétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MGU402"
+  intitule_ecue = "Utilisations des marqueurs génétiques"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "GRG400"
+intitule_ue = "Gestion des Ressources Génétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GRG401"
+  intitule_ecue = "Prospection et collecte des ressources génétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GRG402"
+  intitule_ecue = "Banques de gènes"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GRG403"
+  intitule_ecue = "Régénération et conservation des ressources génétiques"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "GEN400"
+intitule_ue = "Génomique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN401"
+  intitule_ecue = "Cytogénétique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN402"
+  intitule_ecue = "Génomique expressive"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN403"
+  intitule_ecue = "Génomique fonctionnelle"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "RGE400"
+intitule_ue = "Régulation Génique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RGE401"
+  intitule_ecue = "Génétique extra-chromosomique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RGE402"
+  intitule_ecue = "Régulation de l'expression des gènes"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RGE403"
+  intitule_ecue = "Régulations épigénétiques"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "CSE400"
+intitule_ue = "Concept, Suivi et Evaluation des Projets"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "CSE400"
+  intitule_ecue = "Concept, suivi et évaluation des projets"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ESJ400"
+intitule_ue = "Environnement Socio-Economique et Juridique de la Production Animale et Végétale"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ESJ401"
+  intitule_ecue = "Sociologie du développement et notion de droit foncier"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ESJ402"
+  intitule_ecue = "Economie agricole"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ESJ403"
+  intitule_ecue = "Démarche qualité et biosécurité en production et commercialisation animale et végétale"

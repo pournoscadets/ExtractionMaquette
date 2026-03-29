@@ -1,0 +1,238 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "SYA300"
+intitule_ue = "Systématique des angiospermes"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYA301"
+  intitule_ecue = "Systématique des monocotylédones"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYA302"
+  intitule_ecue = "Systématique des dicotylédones"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "AHH300"
+intitule_ue = "Anatomie humaine générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AHH301"
+  intitule_ecue = "Muscles"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AHH302"
+  intitule_ecue = "Tissus conjonctif et système respiratoire"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "EGB300"
+intitule_ue = "Ecologie générale et bioclimatologie"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EGB301"
+  intitule_ecue = "Ecologie générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EGB302"
+  intitule_ecue = "Bioclimatologie"
+
+[[semestre_5.ue_specialite]]
+code_ue = "ETH300"
+intitule_ue = "Ethnobotanique"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ETH301"
+  intitule_ecue = "Ethnobotanique descriptive"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ETH302"
+  intitule_ecue = "Ethnobotanique quantitative"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "CDS300"
+intitule_ue = "Collecte des données et analyse statistique"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS301"
+  intitule_ecue = "Méthode de collecte des données"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS302"
+  intitule_ecue = "Analyse univariée et bivariée"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "BIS300"
+intitule_ue = "Biosécurité"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS301"
+  intitule_ecue = "Risques biologiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS302"
+  intitule_ecue = "Mesure de confinement et procédure de sécurité"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "ANG300"
+intitule_ue = "Anglais"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "ANG300"
+  intitule_ecue = "Anglais d'aquisition"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MRP300"
+intitule_ue = "Méthode de rédaction de projet"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MRP300"
+  intitule_ecue = "Méthode de rédaction de projet"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "TRE300"
+intitule_ue = "Technique de recherche d'emploi"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "TRE300"
+  intitule_ecue = "Technique de recherche d'emploi"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "AJE300"
+intitule_ue = "Aspect juridique et éthique de la médecine traditionnelle"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "AJE300"
+  intitule_ecue = "Aspect juridique et éthique de la médecine traditionnelle"
+
+[[semestre_5.ue_stage]]
+code_ue = "STA300"
+intitule_ue = "STAGE"
+
+  [[semestre_5.ue_stage.ecue]]
+  code_ecue = "STA300"
+  intitule_ecue = "STAGE"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PGF300"
+intitule_ue = "PHYSIOLOGIE DES GRANDES FONCTIONS"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGF301"
+  intitule_ecue = "SYSTÈME NERVEUX"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGF302"
+  intitule_ecue = "EXPLORATION FONCTIONNELLE RESPIRATOIRE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGF303"
+  intitule_ecue = "SYSTÈME DIGESTIF ET RENAL"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MPM300"
+intitule_ue = "MICROBIOLOGIE ET PARASITOLOGIE MEDICALE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPM301"
+  intitule_ecue = "MICROBIOLOGIE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPM302"
+  intitule_ecue = "PARASITOLOGIE"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "HRE300"
+intitule_ue = "HORMONE ET REGULATION ENDOCRINE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE301"
+  intitule_ecue = "HORMONES"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE302"
+  intitule_ecue = "GLANDES ENDOCRINES"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE303"
+  intitule_ecue = "REGULATION ENDOCRINE"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "HDF300"
+intitule_ue = "HISTOLOGIE HUMAINE DESCRIPTIVE ET FONCTIONNELLE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HDF301"
+  intitule_ecue = "HISTOLOGIE DES VISCERES"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HDF302"
+  intitule_ecue = "HEMATO-IMMUNOLOGIE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HDF303"
+  intitule_ecue = "HEMOSTASE"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PHA300"
+intitule_ue = "PHARMACOLOGIE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA301"
+  intitule_ecue = "PHARMACOLOGIE GENERALE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA302"
+  intitule_ecue = "PHARMACOLOGIE SPECIALE"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PTS300"
+intitule_ue = "PHYTOCHIMIE ET TECHNIQUE DE SEPARATION"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PTS301"
+  intitule_ecue = "PHYTOCHIMIE"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PTS302"
+  intitule_ecue = "TECHNIQUE DE SEPARATION"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "GRP300"
+intitule_ue = "GESTION DES RESSOURCES PHYTOGENETIQUE"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "GRP301"
+  intitule_ecue = "REGENERATION NATURELLE"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "GRP302"
+  intitule_ecue = "REGENERATION IN VITRO"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "GRP303"
+  intitule_ecue = "GESTION RESSOURCES VEGETALES"

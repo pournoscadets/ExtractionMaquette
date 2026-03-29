@@ -1,0 +1,238 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 5
+
+[semestre_5.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "FAS300"
+intitule_ue = "Fertilité et amendement des sols"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FAS301"
+  intitule_ecue = "Pédologie et Pédopaysages"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FAS302"
+  intitule_ecue = "Potentialité et fertilisation des sols de CI"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "PDV300"
+intitule_ue = "Physiologie du développement végétal"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PDV301"
+  intitule_ecue = "Hormonologie"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PDV302"
+  intitule_ecue = "initiation à la Culture In Vitro"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PDV303"
+  intitule_ecue = "Croissance et développement des plantes"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "TPV300"
+intitule_ue = "Techniques de Production végétale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPV301"
+  intitule_ecue = "Itinéraire techniques des cultures maraîchères et vivrières"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPV302"
+  intitule_ecue = "Itinéraire techniques des cultures industrielles et des plantes ornementales"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPV303"
+  intitule_ecue = "Techniques d'irrigation"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ZOA300"
+intitule_ue = "Zoologie Agricole"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZOA301"
+  intitule_ecue = "Arthropodes ravageurs"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZOA302"
+  intitule_ecue = "Vertébrés ravageurs"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZOA303"
+  intitule_ecue = "Autres groupes d'animaux ravageurs"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "BOT300"
+intitule_ue = "Botanique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BOT301"
+  intitule_ecue = "Systématique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BOT302"
+  intitule_ecue = "Préadaptation"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BOT303"
+  intitule_ecue = "Biologie de la reproduction végétale"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "CDA300"
+intitule_ue = "Collecte de données et analyses statistiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDA301"
+  intitule_ecue = "Méthodes de collectes des données"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDA301"
+  intitule_ecue = "Analyses statistiques (Univariée et Bivariées)"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "REP300"
+intitule_ue = "Rédaction de projets"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "REP300"
+  intitule_ecue = "Rédaction de projets"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "ANA300"
+intitule_ue = "Anglais d'acquisition"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "ANA300"
+  intitule_ecue = "Anglais d'acquisition"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Grade: LICENCE
+# Niveau: L3
+# Semestre: 6
+
+[semestre_6.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "GEF300"
+intitule_ue = "Génétique Formelle"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEF301"
+  intitule_ecue = "Transmission des caractères par reproduction sexuée"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEF302"
+  intitule_ecue = "Génétique des haploïdes et interaction intergénétique"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEF303"
+  intitule_ecue = "Recombinaison intergénétique chez les microorganismes"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PHG300"
+intitule_ue = "Phytopathologie générale"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHG301"
+  intitule_ecue = "Agents phytopathogènes"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHG302"
+  intitule_ecue = "Diagnostique des maladies des plantes"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHG303"
+  intitule_ecue = "Techniques d'identification et méthodes de lutte contres les agents phytopathogènes"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "CHP300"
+intitule_ue = "Chimie des pesticides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHP301"
+  intitule_ecue = "Généralités et formulation des pesticides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHP302"
+  intitule_ecue = "Législation et normes sur les pesticides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHP303"
+  intitule_ecue = "Usage sécurisé des pesticides"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "ECO300"
+intitule_ue = "Ecologie"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECO301"
+  intitule_ecue = "Notion de base d'écologie générale"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECO302"
+  intitule_ecue = "Ecologie des communautés"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECO303"
+  intitule_ecue = "Bioclimatologie et indicateurs des changements climatiques"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "FOT300"
+intitule_ue = "Foresterie et Télédétection"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "FOT301"
+  intitule_ecue = "Foresterie"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "FOT302"
+  intitule_ecue = "Télédétection"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MPP300"
+intitule_ue = "Malherbologie et plantes parasites des cultures"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPP301"
+  intitule_ecue = "Biologie et systématique des mauvaises herbes et de plantes parasites"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPP301"
+  intitule_ecue = "Méthodes de lutte contre les mauvaises herbes et les plantes parasites"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "ERU300"
+intitule_ue = "Economie rurale"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ERU301"
+  intitule_ecue = "Législation foncière"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ERU302"
+  intitule_ecue = "Economie"
+
+[[semestre_6.ue_culture_specialite]]
+code_ue = "STA300"
+intitule_ue = "Stage"
+
+  [[semestre_6.ue_culture_specialite.ecue]]
+  code_ecue = "STA300"
+  intitule_ecue = "Stage pratique"

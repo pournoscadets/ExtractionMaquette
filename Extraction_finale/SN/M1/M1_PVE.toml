@@ -1,0 +1,190 @@
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 1
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_specialite]]
+code_ue = "CDE400"
+intitule_ue = "Chimie de l'environnement"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CDE401"
+  intitule_ecue = "Toxicologie et Ecotoxicologie des produits chimiques"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CDE402"
+  intitule_ecue = "Analyse des résidus"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PAV400"
+intitule_ue = "Pathologie végétale"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PAV401"
+  intitule_ecue = "Maladies parasitaires des végétaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PAV402"
+  intitule_ecue = "Maladies non parasitaires des végétaux"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ENA400"
+intitule_ue = "Entomologie agricole"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ENA401"
+  intitule_ecue = "Biologie et écologie des insectes ravageurs des cultures"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ENA402"
+  intitule_ecue = "Biologie et écologie des ravageurs des denrées stockées"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ENA403"
+  intitule_ecue = "Biologie et écologie des insectes ennemis naturels"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BST400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "COS400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "COS401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "COS402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "DER400"
+intitule_ue = "Droit foncier et Economie rurale"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "DER401"
+  intitule_ecue = "Droit foncier"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "DER402"
+  intitule_ecue = "Economie rurale"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "BIF400"
+intitule_ue = "Bioinformatique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "BIF100"
+  intitule_ecue = "Bioinformatique"
+
+
+# Domaine: SCIENCES AGRONOMIQUES
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Grade: MASTER
+# Niveau: M1
+# Semestre: 2
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_specialite]]
+code_ue = "DMM400"
+intitule_ue = "Diagnostic et méthodes de lutte contre les maladies des plantes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DMM401"
+  intitule_ecue = "Méthodes de diagnostic en pathologie végétale"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DMM402"
+  intitule_ecue = "Lutte contre les maladies virales et fongiques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DMM403"
+  intitule_ecue = "Lutte contre les maladies bactériennes et les nématodes"
+
+[[semestre_2.ue_specialite]]
+code_ue = "RTA400"
+intitule_ue = "Biopesticides: Recherche et techniques d'analyse"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "RTA401"
+  intitule_ecue = "Biopesticides: substances naturelles et microorganismes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "RTA402"
+  intitule_ecue = "Technique d'analyse biochimique et moléculaire"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GAC400"
+intitule_ue = "Gestion des adventices des cultures"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GAC401"
+  intitule_ecue = "Adventices des cultures vivrières et maraîchères"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GAC402"
+  intitule_ecue = "Adventices des cultures industrielles"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "AGB400"
+intitule_ue = "Agri-business"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AGB401"
+  intitule_ecue = "Législation et normes nationales et internationales sur la commercialisation des produits agricoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AGB402"
+  intitule_ecue = "Chaîne des valeurs, étude des marchés et markéting"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AGB403"
+  intitule_ecue = "Entreprenariat agricole"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "SEP400"
+intitule_ue = "Suivi et évaluation de projets agricoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "SEP400"
+  intitule_ecue = "Conception, suivi et évaluation de projet"
+
+[[semestre_2.ue_stage]]
+code_ue = "IME400"
+intitule_ue = "Immersion en entreprise"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "IME400"
+  intitule_ecue = "Immersion en entreprise"
