@@ -1,0 +1,3652 @@
+================================================================================
+# L1_PVA.toml
+# Niveau: L1
+# Parcours: PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+Parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MQL100"
+intitule_ue = "Mécanique quantique et liaison chimique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MQL101"
+  intitule_ecue = "Mécanique quantique"
+
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MQL102"
+  intitule_ecue = "Liaison chimique"
+
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "TRA100"
+intitule_ue = "Thermodynamique, Cinétique Chimique et réaction en solution aqueuse"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TRA101"
+  intitule_ecue = "Thermodynamique et Cinétique Chimique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TRA102"
+  intitule_ecue = "Réaction en solution aqueuse"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "MEO100"
+intitule_ue = "Mécanique et optique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEO101"
+  intitule_ecue = "Mécanique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MEO102"
+  intitule_ecue = "Optique"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "ELE100"
+intitule_ue = "Electrostatique et électricité"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELE101"
+  intitule_ecue = "Electrostatique"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ELE102"
+  intitule_ecue = "Electricité"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BMS100"
+intitule_ue = "Biochimie structurale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BMS101"
+  intitule_ecue = "Structure des molécules simples"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BMS102"
+  intitule_ecue = "structure des molécules de taille moyenne"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "RED100"
+intitule_ue = "Recherche documentaire"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "RED100"
+  intitule_ecue = "Technique de recherche documentaire"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ANG100"
+intitule_ue = "Anglais structural"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG101"
+  intitule_ecue = "listening (Anglais)"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ANG102"
+  intitule_ecue = "Writing (Anglais)"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PGI100"
+intitule_ue = "Pétrologie et Géodynamique Interne"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGI101"
+  intitule_ecue = "Pétrologie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGI102"
+  intitule_ecue = "Géodynamique Interne"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PGE100"
+intitule_ue = "Pédologie et Géodynamique Externe"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGE101"
+  intitule_ecue = "Pédologie"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGE102"
+  intitule_ecue = "Géodynamique Externe"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "BIC100"
+intitule_ue = "Biologie Cellulaire"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIC101"
+  intitule_ecue = "Cellules et virus"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIC102"
+  intitule_ecue = "Membrane plasmique et hyaloplasme"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIC103"
+  intitule_ecue = "Système membranaire interne - Péroxysomes et organites de conversion d'énergie"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "BID100"
+intitule_ue = "Biologie du Développement"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BID101"
+  intitule_ecue = "Grandes étapes du développement"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BID102"
+  intitule_ecue = "Développement embryonnaire des invertébrés"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BID103"
+  intitule_ecue = "Développement embryonnaire des vertébrés"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MAT100"
+intitule_ue = "Algèbre et analyse"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH101"
+  intitule_ecue = "Algèbre"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH102"
+  intitule_ecue = "Analyse"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "IIF100"
+intitule_ue = "Initiation à l'informatique"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IIF101"
+  intitule_ecue = "Connaissance de l'ordinateur"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IIF102"
+  intitule_ecue = "Utilisation de logiciels de base"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "UEL100"
+intitule_ue = "UE libre *"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Technique de communication"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Civilisation africaine"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Droit de l'eau"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Droit de l'environnement"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "UEL100"
+  intitule_ecue = "Agro-économie"
+
+
+
+
+================================================================================
+# L2_PVA.toml
+# Niveau: L2
+# Parcours: PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "BIA200"
+intitule_ue = "Biologie Animale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIA201"
+  intitule_ecue = "Protozoaires"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIA202"
+  intitule_ecue = "Métazoaires"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PHA200"
+intitule_ue = "Physiologie Animale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA201"
+  intitule_ecue = "Transport transmembranaire et transépithelial"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA202"
+  intitule_ecue = "Tissu nerveux"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA203"
+  intitule_ecue = "Contraction musculaire"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "BIV200"
+intitule_ue = "Biologie Végétale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIV201"
+  intitule_ecue = "Organisation et morphologie des spermaphytes"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BIV202"
+  intitule_ecue = "Organisation reproduction des procariotes, des thallophytes des cormophytes non spermaphytes"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "PHV200"
+intitule_ue = "Physiologie Végétale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHV201"
+  intitule_ecue = "Nutrition des plantes"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHV202"
+  intitule_ecue = "Résistance des plantes au stress"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "GEN200"
+intitule_ue = "Génétique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN201"
+  intitule_ecue = "Connaissance fondamentale en génétique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN202"
+  intitule_ecue = "Mutation génétique"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "CHO200"
+intitule_ue = "Chimie Organique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO201"
+  intitule_ecue = "Chimie organique générale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHO202"
+  intitule_ecue = "Chimie organique des structures"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "GHS200"
+intitule_ue = "Géologie Historique et Structurale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GHS201"
+  intitule_ecue = "Géologie Historique"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GHS202"
+  intitule_ecue = "Géologie Structurale"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "UEL200"
+intitule_ue = "Loisir *"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "UEL200"
+  intitule_ecue = "Sport"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "UEL200"
+  intitule_ecue = "Musique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "UEL200"
+  intitule_ecue = "Danse"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIE OU SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L2"
+semestre = 4
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MAT200"
+intitule_ue = "Probabilité et statistique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH201"
+  intitule_ecue = "Probabilité"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MATH202"
+  intitule_ecue = "statistique"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "HYD200"
+intitule_ue = "Hydrologie et Hydrogéologie générale"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HYD201"
+  intitule_ecue = "Hydrologie générale"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HYD202"
+  intitule_ecue = "Hydrogéologie générale"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MBA200"
+intitule_ue = "Biochimie des macromolécules"
+
+  [[semestre_4.ue_connaissances_fondamentales]]
+  code_ecue = "MBA201"
+  intitule_ecue = "Structure des macromolécules"
+
+  [[semestre_4.ue_connaissances_fondamentales]]
+  code_ecue = "MBA202"
+  intitule_ecue = "Notions de métabolisme des macromolécules"
+
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "PHY200"
+intitule_ue = "Thermodynamique et éléments de physiques des particules"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHY201"
+  intitule_ecue = "Thermodynamique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHY202"
+  intitule_ecue = "Eléments de physiques des particules"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "BEB200"
+intitule_ue = "Enzymologie et Bioénergétique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEB201"
+  intitule_ecue = "Cinétique enzymatique"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEB202"
+  intitule_ecue = "Bioénergetique"
+
+[[semestre_4.ue_connaissances_fondamentales]]
+code_ue = "MIG200"
+intitule_ue = "Microbiologie générale"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIG201"
+  intitule_ecue = "Classification"
+
+  [[semestre_4.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MIG202"
+  intitule_ecue = "Rôle des microorganismes"
+
+[[semestre_4.ue_methodologie]]
+code_ue = "IRS200"
+intitule_ue = "Initiation à la redaction scientifique"
+
+  [[semestre_4.ue_methodologie.ecue]]
+  code_ecue = "IRS200"
+  intitule_ecue = "Initiation à la redaction scientifique"
+
+[[semestre_4.ue_culture_generale]]
+code_ue = "IPR200"
+intitule_ue = "Insertion professionnel"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "IPR201"
+  intitule_ecue = "Milieu agroalimentaire"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "IPR202"
+  intitule_ecue = "Secteur de l'eau"
+
+  [[semestre_4.ue_culture_generale.ecue]]
+  code_ecue = "IPR203"
+  intitule_ecue = "Productions animales et végétales"
+
+
+
+================================================================================
+# L3_BP.toml
+# Niveau: L3
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Semestre: 5
+================================================================================
+
+[semestre_5.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "SYA300"
+intitule_ue = "Systématique des angiospermes"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYA301"
+  intitule_ecue = "Systématique des monocotylédones"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYA302"
+  intitule_ecue = "Systématique des dicotylédones"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "AHH300"
+intitule_ue = "Anatomie humaine générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AHH301"
+  intitule_ecue = "Muscles"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AHH302"
+  intitule_ecue = "Tissus conjonctif et système respiratoire"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "EGB300"
+intitule_ue = "Ecologie générale et bioclimatologie"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EGB301"
+  intitule_ecue = "Ecologie générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EGB302"
+  intitule_ecue = "Bioclimatologie"
+
+[[semestre_5.ue_specialite]]
+code_ue = "ETH300"
+intitule_ue = "Ethnobotanique"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ETH301"
+  intitule_ecue = "Ethnobotanique descriptive"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ETH302"
+  intitule_ecue = "Ethnobotanique quantitative"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "CDS300"
+intitule_ue = "Collecte des données et analyse statistique"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS301"
+  intitule_ecue = "Méthode de collecte des données"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS302"
+  intitule_ecue = "Analyse univariée et bivariée"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "BIS300"
+intitule_ue = "Biosécurité"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS301"
+  intitule_ecue = "Risques biologiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS302"
+  intitule_ecue = "Mesure de confinement et procédure de sécurité"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "ANG300"
+intitule_ue = "Anglais"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "ANG300"
+  intitule_ecue = "Anglais d'aquisition"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MRP300"
+intitule_ue = "Méthode de rédaction de projet"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MRP300"
+  intitule_ecue = "Méthode de rédaction de projet"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "TRE300"
+intitule_ue = "Technique de recherche d'emploi"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "TRE300"
+  intitule_ecue = "Technique de recherche d'emploi"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "AJE300"
+intitule_ue = "Aspect juridique et éthique de la médecine traditionnelle"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "AJE300"
+  intitule_ecue = "Aspect juridique et éthique de la médecine traditionnelle"
+
+[[semestre_5.ue_stage]]
+code_ue = "STA300"
+intitule_ue = "STAGE"
+
+  [[semestre_5.ue_stage.ecue]]
+  code_ecue = "STA300"
+  intitule_ecue = "STAGE"
+
+
+[semestre_6.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PGF300"
+intitule_ue = "PHYSIOLOGIE DES GRANDES FONCTIONS"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGF301"
+  intitule_ecue = "SYSTÈME NERVEUX"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGF302"
+  intitule_ecue = "EXPLORATION FONCTIONNELLE RESPIRATOIRE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PGF303"
+  intitule_ecue = "SYSTÈME DIGESTIF ET RENAL"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MPM300"
+intitule_ue = "MICROBIOLOGIE ET PARASITOLOGIE MEDICALE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPM301"
+  intitule_ecue = "MICROBIOLOGIE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPM302"
+  intitule_ecue = "PARASITOLOGIE"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "HRE300"
+intitule_ue = "HORMONE ET REGULATION ENDOCRINE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE301"
+  intitule_ecue = "HORMONES"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE302"
+  intitule_ecue = "GLANDES ENDOCRINES"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE303"
+  intitule_ecue = "REGULATION ENDOCRINE"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "HDF300"
+intitule_ue = "HISTOLOGIE HUMAINE DESCRIPTIVE ET FONCTIONNELLE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HDF301"
+  intitule_ecue = "HISTOLOGIE DES VISCERES"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HDF302"
+  intitule_ecue = "HEMATO-IMMUNOLOGIE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HDF303"
+  intitule_ecue = "HEMOSTASE"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PHA300"
+intitule_ue = "PHARMACOLOGIE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA301"
+  intitule_ecue = "PHARMACOLOGIE GENERALE"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHA302"
+  intitule_ecue = "PHARMACOLOGIE SPECIALE"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PTS300"
+intitule_ue = "PHYTOCHIMIE ET TECHNIQUE DE SEPARATION"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PTS301"
+  intitule_ecue = "PHYTOCHIMIE"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PTS302"
+  intitule_ecue = "TECHNIQUE DE SEPARATION"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "GRP300"
+intitule_ue = "GESTION DES RESSOURCES PHYTOGENETIQUE"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "GRP301"
+  intitule_ecue = "REGENERATION NATURELLE"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "GRP302"
+  intitule_ecue = "REGENERATION IN VITRO"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "GRP303"
+  intitule_ecue = "GESTION RESSOURCES VEGETALES"
+
+
+================================================================================
+# L3_PA.toml
+# Niveau: L3
+# Parcours: PRODUCTIONS ANIMALES
+# Semestre: 5
+================================================================================
+
+[semestre_5.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ZEA300"
+intitule_ue = "Zootechnie générale et Extérieur"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZEA301"
+  intitule_ecue = "Zootechnie générale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZEA302"
+  intitule_ecue = "Extérieur"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "HIA300"
+intitule_ue = "Histologie fonctionnelle et anatomie comparée"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HIA301"
+  intitule_ecue = "Histologie fonctionnelle"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HIA302"
+  intitule_ecue = "Anatomie pathologique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HIA303"
+  intitule_ecue = "Anatomie comparée"
+
+[[semestre_5.ue_specialite]]
+code_ue = "APA300"
+intitule_ue = "Agrostologie et Aménagements agro-pastoraux"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "APA301"
+  intitule_ecue = "Aménagements agro-pastoraux"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "APA302"
+  intitule_ecue = "Agrostologie"
+
+[[semestre_5.ue_specialite]]
+code_ue = "ANA300"
+intitule_ue = "Alimentation et nutrition animales"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ANA301"
+  intitule_ecue = "Digestibilité des aliments"
+
+  [[semestre_5.ue_specialite.ecue]]
+  code_ecue = "ANA302"
+  intitule_ecue = "Techniques d'analyse et formulation des rations"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "BIS300"
+intitule_ue = "Biosécurité"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS301"
+  intitule_ecue = "Risques biologiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "BIS302"
+  intitule_ecue = "Mesure de confinement et procédures de sécurité"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "AMG300"
+intitule_ue = "Amélioration génétique des animaux d'élevage"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "AMG301"
+  intitule_ecue = "Principes de la génétique des populations animales"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "AMG302"
+  intitule_ecue = "Sélection animale"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "CDS300"
+intitule_ue = "Collecte des données et analyse statistique"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS301"
+  intitule_ecue = "Méthodes de collecte des données"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDS302"
+  intitule_ecue = "Analyse univariée et bivariées"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "MRP300"
+intitule_ue = "Méthode de rédaction de projet"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "MRP300"
+  intitule_ecue = "Méthode de rédaction de projet"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "AAC300"
+intitule_ue = "Anglais d'acquisition"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "AAC300"
+  intitule_ecue = "Anglais d'acquisition"
+
+
+[semestre_6.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_specialite]]
+code_ue = "PAT300"
+intitule_ue = "Pathologies animales"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PAT301"
+  intitule_ecue = "Affections microbiennes"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PAT302"
+  intitule_ecue = "Affections parasitaires"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PAT303"
+  intitule_ecue = "Affections métaboliques"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PDM300"
+intitule_ue = "Production des monogastriques"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDM301"
+  intitule_ecue = "Aviculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDM302"
+  intitule_ecue = "Porciculture"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PDR300"
+intitule_ue = "Production des ruminants"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDR301"
+  intitule_ecue = "Production ovine et caprine"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PDR302"
+  intitule_ecue = "Production bovine"
+
+[[semestre_6.ue_specialite]]
+code_ue = "EDE300"
+intitule_ue = "Élevage en développement"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "EDE301"
+  intitule_ecue = "Cuniculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "EDE302"
+  intitule_ecue = "Apiculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "EDE303"
+  intitule_ecue = "Aulacodiculture et Achatiniculture"
+
+[[semestre_6.ue_specialite]]
+code_ue = "PEA300"
+intitule_ue = "Pêche et aquaculture"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PEA301"
+  intitule_ecue = "Pêche"
+
+  [[semestre_6.ue_specialite.ecue]]
+  code_ecue = "PEA302"
+  intitule_ecue = "Aquaculture"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "EGB300"
+intitule_ue = "Ecologie générale et Bioclimatologie"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "EGB301"
+  intitule_ecue = "Ecologie générale"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "EGB302"
+  intitule_ecue = "Bioclimatologie"
+
+[[semestre_6.ue_methodologie]]
+code_ue = "OGP300"
+intitule_ue = "Organisation et gestion des professionnels d'élevage et recherche d'emploi"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGP301"
+  intitule_ecue = "Gestion des organisations professionnelles"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGP302"
+  intitule_ecue = "Leadership et développement personnel"
+
+  [[semestre_6.ue_methodologie.ecue]]
+  code_ecue = "OGP303"
+  intitule_ecue = "Technique de recherche d'emploi"
+
+[[semestre_6.ue_stage]]
+code_ue = "STI300"
+intitule_ue = "Stage d'immersion"
+
+  [[semestre_6.ue_stage.ecue]]
+  code_ecue = "STI300"
+  intitule_ecue = "Stage d'immersion"
+
+
+================================================================================
+# L3_PVE.toml
+# Niveau: L3
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Semestre: 5
+================================================================================
+
+[semestre_5.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 5
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "FAS300"
+intitule_ue = "Fertilité et amendement des sols"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FAS301"
+  intitule_ecue = "Pédologie et Pédopaysages"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "FAS302"
+  intitule_ecue = "Potentialité et fertilisation des sols de CI"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "PDV300"
+intitule_ue = "Physiologie du développement végétal"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PDV301"
+  intitule_ecue = "Hormonologie"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PDV302"
+  intitule_ecue = "initiation à la Culture In Vitro"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PDV303"
+  intitule_ecue = "Croissance et développement des plantes"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "TPV300"
+intitule_ue = "Techniques de Production végétale"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPV301"
+  intitule_ecue = "Itinéraire techniques des cultures maraîchères et vivrières"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPV302"
+  intitule_ecue = "Itinéraire techniques des cultures industrielles et des plantes ornementales"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPV303"
+  intitule_ecue = "Techniques d'irrigation"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "ZOA300"
+intitule_ue = "Zoologie Agricole"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZOA301"
+  intitule_ecue = "Arthropodes ravageurs"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZOA302"
+  intitule_ecue = "Vertébrés ravageurs"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ZOA303"
+  intitule_ecue = "Autres groupes d'animaux ravageurs"
+
+[[semestre_5.ue_connaissances_fondamentales]]
+code_ue = "BOT300"
+intitule_ue = "Botanique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BOT301"
+  intitule_ecue = "Systématique"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BOT302"
+  intitule_ecue = "Préadaptation"
+
+  [[semestre_5.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BOT303"
+  intitule_ecue = "Biologie de la reproduction végétale"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "CDA300"
+intitule_ue = "Collecte de données et analyses statistiques"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDA301"
+  intitule_ecue = "Méthodes de collectes des données"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "CDA301"
+  intitule_ecue = "Analyses statistiques (Univariée et Bivariées)"
+
+[[semestre_5.ue_methodologie]]
+code_ue = "REP300"
+intitule_ue = "Rédaction de projets"
+
+  [[semestre_5.ue_methodologie.ecue]]
+  code_ecue = "REP300"
+  intitule_ecue = "Rédaction de projets"
+
+[[semestre_5.ue_culture_generale]]
+code_ue = "ANA300"
+intitule_ue = "Anglais d'acquisition"
+
+  [[semestre_5.ue_culture_generale.ecue]]
+  code_ecue = "ANA300"
+  intitule_ecue = "Anglais d'acquisition"
+
+
+[semestre_6.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "LICENCE"
+niveau = "L3"
+semestre = 6
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "GEF300"
+intitule_ue = "Génétique Formelle"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEF301"
+  intitule_ecue = "Transmission des caractères par reproduction sexuée"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEF302"
+  intitule_ecue = "Génétique des haploïdes et interaction intergénétique"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEF303"
+  intitule_ecue = "Recombinaison intergénétique chez les microorganismes"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "PHG300"
+intitule_ue = "Phytopathologie générale"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHG301"
+  intitule_ecue = "Agents phytopathogènes"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHG302"
+  intitule_ecue = "Diagnostique des maladies des plantes"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHG303"
+  intitule_ecue = "Techniques d'identification et méthodes de lutte contres les agents phytopathogènes"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "CHP300"
+intitule_ue = "Chimie des pesticides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHP301"
+  intitule_ecue = "Généralités et formulation des pesticides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHP302"
+  intitule_ecue = "Législation et normes sur les pesticides"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHP303"
+  intitule_ecue = "Usage sécurisé des pesticides"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "ECO300"
+intitule_ue = "Ecologie"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECO301"
+  intitule_ecue = "Notion de base d'écologie générale"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECO302"
+  intitule_ecue = "Ecologie des communautés"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ECO303"
+  intitule_ecue = "Bioclimatologie et indicateurs des changements climatiques"
+
+[[semestre_6.ue_culture_generale]]
+code_ue = "FOT300"
+intitule_ue = "Foresterie et Télédétection"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "FOT301"
+  intitule_ecue = "Foresterie"
+
+  [[semestre_6.ue_culture_generale.ecue]]
+  code_ecue = "FOT302"
+  intitule_ecue = "Télédétection"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "MPP300"
+intitule_ue = "Malherbologie et plantes parasites des cultures"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPP301"
+  intitule_ecue = "Biologie et systématique des mauvaises herbes et de plantes parasites"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MPP301"
+  intitule_ecue = "Méthodes de lutte contre les mauvaises herbes et les plantes parasites"
+
+[[semestre_6.ue_connaissances_fondamentales]]
+code_ue = "ERU300"
+intitule_ue = "Economie rurale"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ERU301"
+  intitule_ecue = "Législation foncière"
+
+  [[semestre_6.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ERU302"
+  intitule_ecue = "Economie"
+
+[[semestre_6.ue_culture_specialite]]
+code_ue = "STA300"
+intitule_ue = "Stage"
+
+  [[semestre_6.ue_culture_specialite.ecue]]
+  code_ecue = "STA300"
+  intitule_ecue = "Stage pratique"
+
+
+================================================================================
+# M1_AVI.toml
+# Niveau: M1
+# Parcours: AVICULTURE
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IMU400"
+intitule_ue = "Immunologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU401"
+  intitule_ecue = "Système immunitaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU402"
+  intitule_ecue = "Immunopathologie et vaccinologie"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CYN400"
+intitule_ue = "Cynégétique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN401"
+  intitule_ecue = "Présentation de la Faune"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN402"
+  intitule_ecue = "Relation Habitat/Effectif/Espèce"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN403"
+  intitule_ecue = "Principe d'Etablissement et Gestion des Aires Protégées"
+
+[[semestre_1.ue_specialite]]
+code_ue = "BBR400"
+intitule_ue = "Biologie et Biotechnologie de la Reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE401"
+  intitule_ecue = "Biologie de la reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE402"
+  intitule_ecue = "Biotechnologie de la reproduction"
+
+[[semestre_1.ue_specialite]]
+code_ue = "EBE400"
+intitule_ue = "Ethique et Bien-être"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE401"
+  intitule_ecue = "Ethique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE402"
+  intitule_ecue = "Bien-être"
+
+[[semestre_1.ue_specialite]]
+code_ue = "HSS400"
+intitule_ue = "Hygiène et sécurité sanitaire dans les filières de production animale"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS401"
+  intitule_ecue = "Hygiène et qualité dans les FDA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS402"
+  intitule_ecue = "Sécurité sanitaire des aliments"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "EGP400"
+intitule_ue = "Economie et gestion des projets"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP401"
+  intitule_ecue = "Economie"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP402"
+  intitule_ecue = "Gestion et évaluation des projets"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "GGE400"
+intitule_ue = "Génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE401"
+  intitule_ecue = "Outils du génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE402"
+  intitule_ecue = "Applications du génie génétique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "APV400"
+intitule_ue = "Anatomie et Physiologie des volailles"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AVO401"
+  intitule_ecue = "Anatomie des volailles"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PVO402"
+  intitule_ecue = "Physiologie des volailles"
+
+[[semestre_2.ue_specialite]]
+code_ue = "NAT400"
+intitule_ue = "Nutrition, Alimentation des Volailles et Toxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAV401"
+  intitule_ecue = "Nutrition et alimentation des volailles"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "FRV402"
+  intitule_ecue = "Formulation des rations de volaille"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TAV403"
+  intitule_ecue = "Toxicologie des aliments de volaille"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PAVL400"
+intitule_ue = "Pathologies Aviaires"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "MAV401"
+  intitule_ecue = "Maladies aviaires"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DPM402"
+  intitule_ecue = "Diagnostic et prévention des maladies aviaires"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CVC400"
+intitule_ue = "Conduite de l'élevage de Volailles de chair"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CVC400"
+  intitule_ecue = "Techniques d'élevage de volailles de chair"
+
+[[semestre_2.ue_specialite]]
+code_ue = "CVP400"
+intitule_ue = "Conduite de l'élevage de volailles de ponte"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "CVP400"
+  intitule_ecue = "Techniques d'élevage de volailles de ponte"
+
+[[semestre_2.ue_stage]]
+code_ue = "SEL400"
+intitule_ue = "Stage en entreprise ou au laboratoire"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "SEL400"
+  intitule_ecue = "Stage en entreprise ou au laboratoire"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "ESA400"
+intitule_ue = "Environnement du Secteur Avicole"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "ESA400"
+  intitule_ecue = "Réglementation, organisation, foncier rural, etc."
+
+[[semestre_2.ue_methodologie]]
+code_ue = "IEA400"
+intitule_ue = "Infrastructures et Equipements Avicoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "IAV401"
+  intitule_ecue = "Infrastructures Avicoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "EAV402"
+  intitule_ecue = "Equipements Avicoles"
+
+
+================================================================================
+# M1_BioGDE.toml
+# Niveau: M1
+# Parcours: BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "EDP400"
+intitule_ue = "Écologie des populations"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EDP401"
+  intitule_ecue = "Évolution moléculaire et génomique des populations"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EDP402"
+  intitule_ecue = "Croissance & Traits d'histoire de vie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "EDP403"
+  intitule_ecue = "Dynamique de population"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "SDC400"
+intitule_ue = "Structure des communautés"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC401"
+  intitule_ecue = "Structure des communautés"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC402"
+  intitule_ecue = "Interactions spécifiques"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SDC403"
+  intitule_ecue = "Perturbations écologiques"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "BEF400"
+intitule_ue = "Biodiversité et écologie fonctionnelle"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEF401"
+  intitule_ecue = "Fonctionnement d'un écosystème tropical"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "BEF402"
+  intitule_ecue = "Services écosystémiques"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "TAX400"
+intitule_ue = "Taxonomie du vivant"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TAX401"
+  intitule_ecue = "Méthodes de classification & Taxonomie animale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TAX402"
+  intitule_ecue = "Méthodes de classification & Taxonomie végétale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TAX403"
+  intitule_ecue = "Méthodes de classification & Taxonomie des microorganismes"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ROS400"
+intitule_ue = "Réponses des organismes aux stress environnementaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROS401"
+  intitule_ecue = "Réponses des végétaux aux stress environnementaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROS402"
+  intitule_ecue = "Réponses des animaux aux stress environnementaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ROS403"
+  intitule_ecue = "Réponses des microorganismes aux stress environnementaux"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TSD400"
+intitule_ue = "Traitement statistique des données"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TSD401"
+  intitule_ecue = "Traitement statistique des données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TES400"
+intitule_ue = "Télédétection et SIG"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TES401"
+  intitule_ecue = "Bases théoriques sur les traitements d'images de télédétection"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TES402"
+  intitule_ecue = "Initiation aux SIG"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "CSC400"
+intitule_ue = "Communication scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "ADP400"
+intitule_ue = "Analyse démographique des populations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ADP401"
+  intitule_ecue = "Modèle démographique matriciel; Modèle de Lotka Volterra"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "ADP402"
+  intitule_ecue = "Modèles bayésien et hiérarchique"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PSG400"
+intitule_ue = "Phytosociologie et phytogéographie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PSG401"
+  intitule_ecue = "Phytosociologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PSG402"
+  intitule_ecue = "Phytogéographie"
+
+[[semestre_2.ue_specialite]]
+code_ue = "TOX400"
+intitule_ue = "Écotoxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TOX401"
+  intitule_ecue = "Toxicologie des pesticides et méthode de lutte intégrée"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "TOX402"
+  intitule_ecue = "Toxicologie des métaux lourds et autres composés chimiques"
+
+[[semestre_2.ue_specialite]]
+code_ue = "ECQ400"
+intitule_ue = "Écologie quantitative"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ECQ401"
+  intitule_ecue = "Processus stochastique de mort et de naissance; modélisation des incertitudes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "ECQ402"
+  intitule_ecue = "Application de l'écologie quantitative"
+
+[[semestre_2.ue_stage]]
+code_ue = "SIM400"
+intitule_ue = "Stage d'immersion"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "SIM400"
+  intitule_ecue = "Stage d'immersion"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "PPE400"
+intitule_ue = "Outil d'insertion professionnelle"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "PPE401"
+  intitule_ecue = "Rédaction de CV et simulation d'entretien de stages et d'embauche"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "PPE402"
+  intitule_ecue = "Techniques de recherche d'offres de stage ou d'emploi"
+
+
+================================================================================
+# M1_BP.toml
+# Niveau: M1
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_fondamentale]]
+code_ue = "PHM400"
+intitule_ue = "Physiologie moléculaires"
+
+  [[semestre_1.ue_fondamentale.ecue]]
+  code_ecue = "PHM401"
+  intitule_ecue = "Métabolisme des glucides et des lipides"
+
+  [[semestre_1.ue_fondamentale.ecue]]
+  code_ecue = "PHM402"
+  intitule_ecue = "Métabolisme des protides et des vitamines"
+
+[[semestre_1.ue_specialite]]
+code_ue = "MTP400"
+intitule_ue = "Médecine traditionnelle et Pharmacopée africaine"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "MTP401"
+  intitule_ecue = "Médecine traditionnelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "MTP402"
+  intitule_ecue = "Pharmacopée africaine"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PSC400"
+intitule_ue = "Pathologie des systèmes nerveux cardiovasculaire et digestif"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PSC401"
+  intitule_ecue = "Pathologie du système nerveux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PSC402"
+  intitule_ecue = "Pathologie du système cardiovasculaire"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PSC403"
+  intitule_ecue = "Pathologie du système digestif"
+
+[[semestre_1.ue_specialite]]
+code_ue = "DDN400"
+intitule_ue = "Diabétologie et Disfonctionnement nutritionnelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "DDN401"
+  intitule_ecue = "Pathologie du métabolisme"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "DDN402"
+  intitule_ecue = "Physiopathologie de la nutrition"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CMI400"
+intitule_ue = "Cancérologie et maladies infectieuses"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CMI401"
+  intitule_ecue = "Cancer"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CMI402"
+  intitule_ecue = "Pathologie infectieuse"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CSC400"
+intitule_ue = "Communication scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_fondamentale]]
+code_ue = "TOG400"
+intitule_ue = "Toxicologie générale"
+
+  [[semestre_2.ue_fondamentale.ecue]]
+  code_ecue = "TOG401"
+  intitule_ecue = "Toxicologie des systèmes"
+
+  [[semestre_2.ue_fondamentale.ecue]]
+  code_ecue = "TOG402"
+  intitule_ecue = "Immunotoxicologie"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PME400"
+intitule_ue = "Plantes médicinales"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PME401"
+  intitule_ecue = "Taxonomie des plantes africaines"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PME402"
+  intitule_ecue = "Caractères botaniques"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PLT400"
+intitule_ue = "Plantes toxiques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PLT400"
+  intitule_ecue = "Plantes médicinales toxiques"
+
+[[semestre_2.ue_stage]]
+code_ue = "STE400"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "STE400"
+  intitule_ecue = "Stage en entreprise"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "BOS400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "BOS401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "BOS402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "PPE400"
+intitule_ue = "Projet personnel"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "PPE400"
+  intitule_ecue = "Projet personnel"
+
+
+================================================================================
+# M1_GAB.toml
+# Niveau: M1
+# Parcours: GENETIQUE ET AMELIORATION DES Bioressources
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ET AMELIORATION DES Bioressources"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_specialite]]
+code_ue = "BIP400"
+intitule_ue = "Biologie des Populations"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BIP401"
+  intitule_ecue = "Génétique des populations"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BIP402"
+  intitule_ecue = "Evolution et sélection naturelle"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BIP403"
+  intitule_ecue = "Biogéographie et dynamique des populations"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "ICP400"
+intitule_ue = "Immersion en Milieu Réel et Construction de Projet"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ICP401"
+  intitule_ecue = "Conception et rédaction de projet professionnel"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "ICP402"
+  intitule_ecue = "Immersion en milieu réel"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'Expression Anglaise"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "CSC400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Recherche documentaire"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Rédaction scientifique"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BST400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BIF400"
+intitule_ue = "Bio-Informatique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIF401"
+  intitule_ecue = "Modélisation des phénomènes biologiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIF402"
+  intitule_ecue = "Système d'Information Géographique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIF403"
+  intitule_ecue = "Bioinformatique appliquée à la génomique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "ADD400"
+intitule_ue = "Agriculture et Développement Durable"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ADD401"
+  intitule_ecue = "Systèmes de culture"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "ADD402"
+  intitule_ecue = "Agrobiodiversité"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "EDG400"
+intitule_ue = "Ethique, Déontologie et Gouvernance"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "EDG401"
+  intitule_ecue = "Ethique et déontologie"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "EDG402"
+  intitule_ecue = "Gouvernance"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ET AMELIORATION DES Bioressources"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "SYS400"
+intitule_ue = "Systèmes Semenciers"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYS401"
+  intitule_ecue = "Physiologie des semences"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYS402"
+  intitule_ecue = "Production et conservation de semences"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "SYS403"
+  intitule_ecue = "Législation en matière de production et distribution des semences"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "MGU400"
+intitule_ue = "Marqueurs Génétiques et Utilisations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MGU401"
+  intitule_ecue = "Développement des marqueurs génétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "MGU402"
+  intitule_ecue = "Utilisations des marqueurs génétiques"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "GRG400"
+intitule_ue = "Gestion des Ressources Génétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GRG401"
+  intitule_ecue = "Prospection et collecte des ressources génétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GRG402"
+  intitule_ecue = "Banques de gènes"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GRG403"
+  intitule_ecue = "Régénération et conservation des ressources génétiques"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "GEN400"
+intitule_ue = "Génomique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN401"
+  intitule_ecue = "Cytogénétique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN402"
+  intitule_ecue = "Génomique expressive"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GEN403"
+  intitule_ecue = "Génomique fonctionnelle"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "RGE400"
+intitule_ue = "Régulation Génique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RGE401"
+  intitule_ecue = "Génétique extra-chromosomique"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RGE402"
+  intitule_ecue = "Régulation de l'expression des gènes"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "RGE403"
+  intitule_ecue = "Régulations épigénétiques"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "CSE400"
+intitule_ue = "Concept, Suivi et Evaluation des Projets"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "CSE400"
+  intitule_ecue = "Concept, suivi et évaluation des projets"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "ESJ400"
+intitule_ue = "Environnement Socio-Economique et Juridique de la Production Animale et Végétale"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ESJ401"
+  intitule_ecue = "Sociologie du développement et notion de droit foncier"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ESJ402"
+  intitule_ecue = "Economie agricole"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "ESJ403"
+  intitule_ecue = "Démarche qualité et biosécurité en production et commercialisation animale et végétale"
+
+
+================================================================================
+# M1_PA.toml
+# Niveau: M1
+# Parcours: PRODUCTIONS ANIMALES
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "IMU400"
+intitule_ue = "Immunologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU401"
+  intitule_ecue = "Système immunitaire"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "IMU402"
+  intitule_ecue = "Immunopathologie et vaccinologie"
+
+[[semestre_1.ue_specialite]]
+code_ue = "CYN400"
+intitule_ue = "Cynégétique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN401"
+  intitule_ecue = "Présentation de la Faune"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN402"
+  intitule_ecue = "Relation Habitat/Effectif/Espèce"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CYN403"
+  intitule_ecue = "Principe d'Etablissement et Gestion des Aires Protégées"
+
+[[semestre_1.ue_specialite]]
+code_ue = "BBR400"
+intitule_ue = "Biologie et Biotechnologie de la Reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE401"
+  intitule_ecue = "Biologie de la reproduction"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "BBRE402"
+  intitule_ecue = "Biotechnologie de la reproduction"
+
+[[semestre_1.ue_specialite]]
+code_ue = "EBE400"
+intitule_ue = "Ethique et Bien-être"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE401"
+  intitule_ecue = "Ethique"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "EBE402"
+  intitule_ecue = "Bien-être"
+
+[[semestre_1.ue_specialite]]
+code_ue = "HSS400"
+intitule_ue = "Hygiène et sécurité sanitaire dans les filières de production animale"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS401"
+  intitule_ecue = "Hygiène et qualité dans les FDA"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "HSS402"
+  intitule_ecue = "Sécurité sanitaire des aliments"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "EGP400"
+intitule_ue = "Economie et gestion des projets"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP401"
+  intitule_ecue = "Economie"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "EGP402"
+  intitule_ecue = "Gestion et évaluation des projets"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "GGE400"
+intitule_ue = "Génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE401"
+  intitule_ecue = "Outils du génie génétique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "GGE402"
+  intitule_ecue = "Applications du génie génétique"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "PAN400"
+intitule_ue = "Physiologie animale"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN401"
+  intitule_ecue = "Physiologie des grandes fonctions"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PAN402"
+  intitule_ecue = "Physiologie des poissons"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "HRE400"
+intitule_ue = "Hormones et régulation"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "HRE400"
+  intitule_ecue = "Hormones et régulation"
+
+[[semestre_2.ue_specialite]]
+code_ue = "NAT400"
+intitule_ue = "Nutrition, alimentation animales et toxicologie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAT401"
+  intitule_ecue = "Nutrition et alimentation des monogastriques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAT402"
+  intitule_ecue = "Nutrition et alimentation des polygastriques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "NAT403"
+  intitule_ecue = "Toxicologie vétérinaire"
+
+[[semestre_2.ue_specialite]]
+code_ue = "PVL400"
+intitule_ue = "Production laitière et de viande"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PVL401"
+  intitule_ecue = "Production laitière"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "PVL402"
+  intitule_ecue = "Production de viande"
+
+[[semestre_2.ue_stage]]
+code_ue = "SEL400"
+intitule_ue = "Stage en entreprise ou au laboratoire"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "SEL400"
+  intitule_ecue = "Stage en entreprise ou au laboratoire"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "AVM400"
+intitule_ue = "Analyse de variables multiples"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AVM400"
+  intitule_ecue = "Analyse de variables multiples"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "MRD400"
+intitule_ue = "Méthodes factorielles de réduction de données"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "MRD400"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_2.ue_culture_generale]]
+code_ue = "CSC400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_2.ue_culture_generale.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+
+================================================================================
+# M1_PV.toml
+# Niveau: M1
+# Parcours: PRODUCTIONS VEGETALES
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "CHE400"
+intitule_ue = "Chimie de l'Environnement"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHE401"
+  intitule_ecue = "Toxicologie des pesticides"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHE402"
+  intitule_ecue = "Ecotoxicologie"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "CHE403"
+  intitule_ecue = "Analyse des résidus"
+
+[[semestre_1.ue_connaissances_fondamentales]]
+code_ue = "PHT400"
+intitule_ue = "Phytotechnie tropicale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHT401"
+  intitule_ecue = "Monographie des grandes cultures"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHT402"
+  intitule_ecue = "Fondement de l'agriculture et systèmes de production végétale"
+
+  [[semestre_1.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "PHT403"
+  intitule_ecue = "Amélioration des systèmes de production végétale"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PTV400"
+intitule_ue = "Production et technologie végétales"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTV401"
+  intitule_ecue = "Physiologie des semences et de la germination"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTV402"
+  intitule_ecue = "Production hors sol des plantes"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTV403"
+  intitule_ecue = "Production végétale et agriculture biologique"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PTP400"
+intitule_ue = "Phytopathologie"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTP401"
+  intitule_ecue = "Maladies parasitaires"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PTP402"
+  intitule_ecue = "Maladies non parasitaires"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BIS400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIS401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BIS402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TAB400"
+intitule_ue = "Techniques d'analyses biologiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TAB401"
+  intitule_ecue = "Techniques d'analyses biologiques"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TAB402"
+  intitule_ecue = "Techniques d'analyse moléculaire"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "CSC400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "CSC402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "TEA"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "GPP400"
+intitule_ue = "Génétique des populations et gestion des ressources phytogénétiques"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GPP401"
+  intitule_ecue = "Espèces et spéciation"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GPP402"
+  intitule_ecue = "Génétique des populations"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "GPP403"
+  intitule_ecue = "Gestion des ressources phytogénétiques"
+
+[[semestre_2.ue_connaissances_fondamentales]]
+code_ue = "AGB400"
+intitule_ue = "Agri-business"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGB401"
+  intitule_ecue = "Formation en chaîne"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGB402"
+  intitule_ecue = "Etude des marchés et markéting"
+
+  [[semestre_2.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGB403"
+  intitule_ecue = "Entreprenariat"
+
+[[semestre_2.ue_specialite]]
+code_ue = "REV400"
+intitule_ue = "Régénération des espèces végétales"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REV401"
+  intitule_ecue = "Régénération par graines"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REV402"
+  intitule_ecue = "Régénération par extension végétative"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "REV403"
+  intitule_ecue = "Régénération in vitro"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GFS400"
+intitule_ue = "Gestion de la fertilité des sols"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFS401"
+  intitule_ecue = "Gestion des jachères et Agroforesterie"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFS402"
+  intitule_ecue = "Aménagement et Irrigation"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GFS403"
+  intitule_ecue = "Engrais verts et association légumineuses/plantes"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "CEP400"
+intitule_ue = "Conception, suivi et évaluation de projet"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "CEP400"
+  intitule_ecue = "Conception, suivi et évaluation de projet"
+
+[[semestre_2.ue_stage]]
+code_ue = "IME400"
+intitule_ue = "Immersion en entreprise"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "IME400"
+  intitule_ecue = "Immersion en entreprise"
+
+
+================================================================================
+# M1_PVE.toml
+# Niveau: M1
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Semestre: 1
+================================================================================
+
+[semestre_1.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M1"
+semestre = 1
+
+[[semestre_1.ue_specialite]]
+code_ue = "CDE400"
+intitule_ue = "Chimie de l'environnement"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CDE401"
+  intitule_ecue = "Toxicologie et Ecotoxicologie des produits chimiques"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "CDE402"
+  intitule_ecue = "Analyse des résidus"
+
+[[semestre_1.ue_specialite]]
+code_ue = "PAV400"
+intitule_ue = "Pathologie végétale"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PAV401"
+  intitule_ecue = "Maladies parasitaires des végétaux"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "PAV402"
+  intitule_ecue = "Maladies non parasitaires des végétaux"
+
+[[semestre_1.ue_specialite]]
+code_ue = "ENA400"
+intitule_ue = "Entomologie agricole"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ENA401"
+  intitule_ecue = "Biologie et écologie des insectes ravageurs des cultures"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ENA402"
+  intitule_ecue = "Biologie et écologie des ravageurs des denrées stockées"
+
+  [[semestre_1.ue_specialite.ecue]]
+  code_ecue = "ENA403"
+  intitule_ecue = "Biologie et écologie des insectes ennemis naturels"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "BST400"
+intitule_ue = "Biostatistique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST401"
+  intitule_ecue = "Analyse de variables multiples"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "BST402"
+  intitule_ecue = "Méthodes factorielles de réduction de données"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "COS400"
+intitule_ue = "Communication Scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "COS401"
+  intitule_ecue = "Rédaction scientifique"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "COS402"
+  intitule_ecue = "Vulgarisation et technique de communication avec les médias"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "TEA400"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "TEA400"
+  intitule_ecue = "Technique d'expression anglaise"
+
+[[semestre_1.ue_methodologie]]
+code_ue = "DER400"
+intitule_ue = "Droit foncier et Economie rurale"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "DER401"
+  intitule_ecue = "Droit foncier"
+
+  [[semestre_1.ue_methodologie.ecue]]
+  code_ecue = "DER402"
+  intitule_ecue = "Economie rurale"
+
+[[semestre_1.ue_culture_generale]]
+code_ue = "BIF400"
+intitule_ue = "Bioinformatique"
+
+  [[semestre_1.ue_culture_generale.ecue]]
+  code_ecue = "BIF100"
+  intitule_ecue = "Bioinformatique"
+
+
+[semestre_2.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M1"
+semestre = 2
+
+[[semestre_2.ue_specialite]]
+code_ue = "DMM400"
+intitule_ue = "Diagnostic et méthodes de lutte contre les maladies des plantes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DMM401"
+  intitule_ecue = "Méthodes de diagnostic en pathologie végétale"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DMM402"
+  intitule_ecue = "Lutte contre les maladies virales et fongiques"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "DMM403"
+  intitule_ecue = "Lutte contre les maladies bactériennes et les nématodes"
+
+[[semestre_2.ue_specialite]]
+code_ue = "RTA400"
+intitule_ue = "Biopesticides: Recherche et techniques d'analyse"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "RTA401"
+  intitule_ecue = "Biopesticides: substances naturelles et microorganismes"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "RTA402"
+  intitule_ecue = "Technique d'analyse biochimique et moléculaire"
+
+[[semestre_2.ue_specialite]]
+code_ue = "GAC400"
+intitule_ue = "Gestion des adventices des cultures"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GAC401"
+  intitule_ecue = "Adventices des cultures vivrières et maraîchères"
+
+  [[semestre_2.ue_specialite.ecue]]
+  code_ecue = "GAC402"
+  intitule_ecue = "Adventices des cultures industrielles"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "AGB400"
+intitule_ue = "Agri-business"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AGB401"
+  intitule_ecue = "Législation et normes nationales et internationales sur la commercialisation des produits agricoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AGB402"
+  intitule_ecue = "Chaîne des valeurs, étude des marchés et markéting"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "AGB403"
+  intitule_ecue = "Entreprenariat agricole"
+
+[[semestre_2.ue_methodologie]]
+code_ue = "SEP400"
+intitule_ue = "Suivi et évaluation de projets agricoles"
+
+  [[semestre_2.ue_methodologie.ecue]]
+  code_ecue = "SEP400"
+  intitule_ecue = "Conception, suivi et évaluation de projet"
+
+[[semestre_2.ue_stage]]
+code_ue = "IME400"
+intitule_ue = "Immersion en entreprise"
+
+  [[semestre_2.ue_stage.ecue]]
+  code_ecue = "IME400"
+  intitule_ecue = "Immersion en entreprise"
+
+
+================================================================================
+# M2_AVI.toml
+# Niveau: M2
+# Parcours: AVICULTURE
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "TPA500"
+intitule_ue = "Techniques de production des aliments composés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FAC501"
+  intitule_ecue = "Formulation des aliments composés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TFA502"
+  intitule_ecue = "Techniques de fabrication des aliments composés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CMV503"
+  intitule_ecue = "Formulation et fabrication des CMV"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PDA500"
+intitule_ue = "Pathologies dominantes aviaires"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PRP501"
+  intitule_ecue = "Pathologies des reproducteurs et pondeuses"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PVC502"
+  intitule_ecue = "Pathologies des volailles de chair"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TPR500"
+intitule_ue = "Qualité et commercialisation des produits avicoles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "QPA501"
+  intitule_ecue = "Qualité des produits avicoles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CCO502"
+  intitule_ecue = "Circuits de commercialisation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAR503"
+  intitule_ecue = "Marketing"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ERC500"
+intitule_ue = "Techniques d'élevage des reproducteurs 'chair'"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ERC501"
+  intitule_ecue = "Conduite de l'élevage des reproducteurs 'chair'"
+
+[[semestre_3.ue_specialite]]
+code_ue = "RIO500"
+intitule_ue = "Reproduction, incubation et production des œufs de consommation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "POC501"
+  intitule_ecue = "Techniques de production des œufs à couver"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "INC502"
+  intitule_ecue = "Incubation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "OCO503"
+  intitule_ecue = "Techniques de production des œufs de consommation"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "GSA500"
+intitule_ue = "Gestion et suivi d'une exploitation avicole"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "GEA501"
+  intitule_ecue = "Gestion d'une exploitation avicole"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SEA502"
+  intitule_ecue = "Suivi d'une exploitation avicole"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "AVICULTURE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "SEN500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "SEN500"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_BioGDE.toml
+# Niveau: M2
+# Parcours: BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "GDB500"
+intitule_ue = "Gestion de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDB501"
+  intitule_ecue = "Protection de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDB502"
+  intitule_ecue = "Biologie de la conservation: métapopulation et viabilité des populations"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GDE500"
+intitule_ue = "Gestion durable des écosystèmes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDE501"
+  intitule_ecue = "Intensification écologique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDE502"
+  intitule_ecue = "Paysages dégradés et stratégie de réhabilitation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GDE503"
+  intitule_ecue = "Gaz à effet de serre et réchauffement climatique: impacts sur l'environnement"
+
+[[semestre_3.ue_specialite]]
+code_ue = "APT500"
+intitule_ue = "Aménagement des paysages urbains"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "APT501"
+  intitule_ecue = "Aménagement des paysages urbains"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "APT502"
+  intitule_ecue = "Aménagement des parcs et réserves naturelles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "APT503"
+  intitule_ecue = "Aménagement des forêts"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ERB500"
+intitule_ue = "Économie, réglementation de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ERB501"
+  intitule_ecue = "Économie de la biodiversité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ERB502"
+  intitule_ecue = "Législation nationale et internationale de la protection de la biodiversité"
+
+[[semestre_3.ue_specialite]]
+code_ue = "EIE500"
+intitule_ue = "Étude d'impact environnemental"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EIE501"
+  intitule_ecue = "Impact environnemental et orientations stratégiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EIE502"
+  intitule_ecue = "Gestion des impacts"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SFA500"
+intitule_ue = "Structure et fonctionnement des milieux aquatiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SFA501"
+  intitule_ecue = "Structure et diversité biologique des écosystèmes aquatiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SFA502"
+  intitule_ecue = "Fonctionnement des milieux aquatiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SFA503"
+  intitule_ecue = "Options de gestion durable des milieux aquatiques et applications"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle (Mémoire)"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage de fin de cycle (Mémoire)"
+
+
+================================================================================
+# M2_BS.toml
+# Niveau: M2
+# Parcours: BIOLOGIE ET SANTE
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BIOLOGIE ET SANTE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "NCF500"
+intitule_ue = "Neuromédiateurs et comportements fondamentaux"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "NCF501"
+  intitule_ecue = "Neuromédiateur et système nerveux autonome"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "NCF502"
+  intitule_ecue = "Etude des comportements fondamentaux"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "PHI500"
+intitule_ue = "Pharmacologie infectieuse"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHI501"
+  intitule_ecue = "Antimicrobiens"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHI502"
+  intitule_ecue = "Immunomodulation"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "PSC500"
+intitule_ue = "Pharmacologie du système cardiovasculaire"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PSC501"
+  intitule_ecue = "Pharmacologie du système cardiaque"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PSC502"
+  intitule_ecue = "Pharmacologie de l'hémostase"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "PHR500"
+intitule_ue = "Physiologie de la reproduction"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHR501"
+  intitule_ecue = "Fonctionnement des organes de reproduction et développement fœto-placentaire"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "PHR502"
+  intitule_ecue = "Mécanisme de contrôle des hormones de reproduction"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PHG500"
+intitule_ue = "Pharmacognosie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG501"
+  intitule_ecue = "Pharmacognosie générale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG502"
+  intitule_ecue = "Pharmacognosie spéciale 1"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG503"
+  intitule_ecue = "Pharmacognosie spéciale 2"
+
+[[semestre_3.ue_specialite]]
+code_ue = "FPM500"
+intitule_ue = "Formulation et production des médicaments traditionnels améliorés (MTA)"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM501"
+  intitule_ecue = "Biopharmacie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM502"
+  intitule_ecue = "Management de la qualité"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MRP500"
+intitule_ue = "Méthode de recherche en Pharmacologie et Phytothérapie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP501"
+  intitule_ecue = "Méthodologie en pharmacologie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP502"
+  intitule_ecue = "Méthodologie en phytothérapie"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ANC500"
+intitule_ue = "Anglais de composition thématique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ANC500"
+  intitule_ecue = "Anglais de composition thématique"
+
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BIOLOGIE ET SANTE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SEE500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SEE500"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_BP.toml
+# Niveau: M2
+# Parcours: BOTANIQUE ET PHYTOTHERAPIE
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "ORG500"
+intitule_ue = "Organographie"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ORG501"
+  intitule_ecue = "Appareil végétatif"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ORG502"
+  intitule_ecue = "Appareil reproducteur"
+
+[[semestre_3.ue_fondamentale]]
+code_ue = "ECV500"
+intitule_ue = "Ecologie et conservation des végétaux"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ECV501"
+  intitule_ecue = "Ecologie végétale"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ECV502"
+  intitule_ecue = "Conservation des ressources végétales"
+
+  [[semestre_3.ue_fondamentale.ecue]]
+  code_ecue = "ECV503"
+  intitule_ecue = "Impact environnemental"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PHG500"
+intitule_ue = "Pharmacognosie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG501"
+  intitule_ecue = "Pharmacognosie générale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG502"
+  intitule_ecue = "Pharmacognosie spéciale 1"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHG503"
+  intitule_ecue = "Pharmacognosie spéciale 2"
+
+[[semestre_3.ue_specialite]]
+code_ue = "FPM500"
+intitule_ue = "Formulation et production des médicaments traditionnels améliorés (MTA)"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM501"
+  intitule_ecue = "Biopharmacie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "FPM502"
+  intitule_ecue = "Management de la qualité"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ARO500"
+intitule_ue = "Aromathérapie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ARO501"
+  intitule_ecue = "Production et forme galénique des huiles essentielles"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ARO502"
+  intitule_ecue = "Voie d'administration et toxicité"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "MRP500"
+intitule_ue = "Méthode de recherche en Pharmacologie et Phytothérapie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP501"
+  intitule_ecue = "Méthodologie en pharmacologie"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "MRP502"
+  intitule_ecue = "Méthodologie en phytothérapie"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "SOC500"
+intitule_ue = "Sociologie"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "SOC500"
+  intitule_ecue = "Sociologie"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES ET TECHNOLOGIES"
+parcours = "BOTANIQUE ET PHYTOTHERAPIE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SEE500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SEE500"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_GA.toml
+# Niveau: M2
+# Parcours: GENETIQUE ANIMALE
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ANIMALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEQ500"
+intitule_ue = "Génétique Quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ501"
+  intitule_ecue = "Fondamentaux de la génétique quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ502"
+  intitule_ecue = "Analyse génétique des caractères quantitatifs"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEG500"
+intitule_ue = "Génie Génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG501"
+  intitule_ecue = "Les outils du génie génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG502"
+  intitule_ecue = "Les applications du génie génétique"
+
+[[semestre_3.ue_specialite]]
+code_ue = "AGA500"
+intitule_ue = "Amélioration Génétique des Animaux"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGA501"
+  intitule_ecue = "Amélioration génétique des animaux d'élevage"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGA502"
+  intitule_ecue = "Gestion de la qualité des productions animales"
+
+[[semestre_3.ue_specialite]]
+code_ue = "BGA500"
+intitule_ue = "Bases génétiques de la Production Animale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BGA501"
+  intitule_ecue = "Systèmes de production et biotechnologie de la reproduction"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BGA502"
+  intitule_ecue = "Génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BGA503"
+  intitule_ecue = "Génétique et sélection des animaux domestiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SAE500"
+intitule_ue = "Santé animale et environnement"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SAE501"
+  intitule_ecue = "Santé et pathologies des animaux d'élevage"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SAE502"
+  intitule_ecue = "Ecophysiologie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SAE503"
+  intitule_ecue = "Ecotoxicologie"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "SEA500"
+intitule_ue = "Systématique et Evolution Animale"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SEA500"
+  intitule_ecue = "Systématique et évolution animale"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "AGB500"
+intitule_ue = "AgroBusiness"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "AGB500"
+  intitule_ecue = "Agrobusiness"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ELS500"
+intitule_ue = "Entreprenariat et Leadership"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ALS500"
+  intitule_ecue = "Entreprenariat et leadership"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE ANIMALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_GV.toml
+# Niveau: M2
+# Parcours: GENETIQUE VEGETALE
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE VEGETALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEQ500"
+intitule_ue = "Génétique Quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ501"
+  intitule_ecue = "Fondamentaux de la génétique quantitative"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEQ502"
+  intitule_ecue = "Analyse génétique des caractères quantitatifs"
+
+[[semestre_3.ue_specialite]]
+code_ue = "GEG500"
+intitule_ue = "Génie Génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG501"
+  intitule_ecue = "Les outils du génie génétique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "GEG502"
+  intitule_ecue = "Les applications du génie génétique"
+
+[[semestre_3.ue_specialite]]
+code_ue = "AGP500"
+intitule_ue = "Amélioration Génétique des Plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGP501"
+  intitule_ecue = "Amélioration génétique des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGP502"
+  intitule_ecue = "Gestion de la qualité des productions végétales"
+
+[[semestre_3.ue_specialite]]
+code_ue = "AGR500"
+intitule_ue = "Amélioration Génétique de la Résistance des Plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGR501"
+  intitule_ecue = "Physiologie et mécanisme de défense des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGR502"
+  intitule_ecue = "Amélioration génétique de la résistance des plantes aux bio-agresseurs"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "AGR503"
+  intitule_ecue = "Amélioration génétique de la résistance des plantes aux facteurs abiotiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PTT500"
+intitule_ue = "Phytotechnie Tropicale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PTT501"
+  intitule_ecue = "Fondements de l'agriculture en régions tropicales"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PTT502"
+  intitule_ecue = "Perspectives d'amélioration des productions végétales en régions tropicales"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "SEV500"
+intitule_ue = "Systématique et Evolution Végétale"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SEV500"
+  intitule_ecue = "Systématique et évolution végétale"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "AGB500"
+intitule_ue = "AgroBusiness"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "AGB50"
+  intitule_ecue = "Agrobusiness"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ELS500"
+intitule_ue = "Entreprenariat et Leadership"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ELS500"
+  intitule_ecue = "Entreprenariat et leadership"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "GENETIQUE VEGETALE"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_PA.toml
+# Niveau: M2
+# Parcours: PRODUCTIONS ANIMALES
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "PEP500"
+intitule_ue = "Pathogènes épizootiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "BPE501"
+  intitule_ecue = "Biologie des pathogènes épizootiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TEP502"
+  intitule_ecue = "Technique d'analyse et épidémiologie moléculaire des pathogènes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EPI503"
+  intitule_ecue = "Epidémiologie"
+
+[[semestre_3.ue_specialite]]
+code_ue = "DFR500"
+intitule_ue = "Droit Foncier Rural"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "DFR501"
+  intitule_ecue = "Droit Foncier Rural"
+
+[[semestre_3.ue_specialite]]
+code_ue = "HQD500"
+intitule_ue = "Hygiène et qualité des denrées alimentaires d'origine animale et halieutique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EQC501"
+  intitule_ecue = "Evaluation de la qualité des produits carnés et halieutiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "EQL502"
+  intitule_ecue = "Evaluation de la qualité des produits laitiers"
+
+[[semestre_3.ue_specialite]]
+code_ue = "TPR500"
+intitule_ue = "Transformation des produits carnés, laitiers et halieutiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TPC501"
+  intitule_ecue = "Transformation des produits carnés"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TPL502"
+  intitule_ecue = "Transformation des produits laitiers"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "TPH503"
+  intitule_ecue = "Transformation des produits halieutiques"
+
+[[semestre_3.ue_specialite]]
+code_ue = "VPM500"
+intitule_ue = "Valorisation des plantes médicinales en pharmacopée traditionnelle vétérinaires"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "VPM501"
+  intitule_ecue = "Valorisation des plantes médicinales en pharmacopée traditionnelle vétérinaires"
+
+[[semestre_3.ue_specialite]]
+code_ue = "FAH500"
+intitule_ue = "Filières des Ressources Animales et Halieutiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PFR501"
+  intitule_ecue = "Principales Filières des RAH en Côte d'Ivoire"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CCO502"
+  intitule_ecue = "Circuits de commercialisation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MAR503"
+  intitule_ecue = "Marketing"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "ECG500"
+intitule_ue = "Entreprenariat et Conseil de gestion"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "ENT501"
+  intitule_ecue = "Entreprenariat"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "CGE502"
+  intitule_ecue = "Conseil de gestion"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA501"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS ANIMALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "SEN500"
+intitule_ue = "Stage en entreprise"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "SEN501"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_PV.toml
+# Niveau: M2
+# Parcours: PRODUCTIONS VEGETALES
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "AGP500"
+intitule_ue = "Amélioration génétique des plantes"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGP501"
+  intitule_ecue = "Génétique quantitative"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGP502"
+  intitule_ecue = "Sélection variétale"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "AGP503"
+  intitule_ecue = "Biotechnologie et amélioration des plantes"
+
+[[semestre_3.ue_connaissances_fondamentales]]
+code_ue = "TPR500"
+intitule_ue = "Technologie post- récolte"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPR501"
+  intitule_ecue = "Physiologie post- récolte"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPR502"
+  intitule_ecue = "Pathologie post- récolte"
+
+  [[semestre_3.ue_connaissances_fondamentales.ecue]]
+  code_ecue = "TPR503"
+  intitule_ecue = "Gestion post- récolte"
+
+[[semestre_3.ue_specialite]]
+code_ue = "CIV500"
+intitule_ue = "Culture in vitro et application en agriculture"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CIV501"
+  intitule_ecue = "Production en masse des végétaux"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CIV502"
+  intitule_ecue = "Amélioration variétale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "CIV503"
+  intitule_ecue = "Assainissement des plantes et production de substances naturelles"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PPV500"
+intitule_ue = "Physiopathologie végétale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PPV501"
+  intitule_ecue = "Mode d'attaque des pathogènes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PPV502"
+  intitule_ecue = "Mécanismes de défense des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PPV503"
+  intitule_ecue = "Effets des pathogènes sur les fonctions physiologiques de la plantes"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ESA500"
+intitule_ue = "Ecophysiologie et stratégies d'adaptation"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ESA501"
+  intitule_ecue = "Stress abiotique et pathologie végétales de toxicité"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ESA502"
+  intitule_ecue = "Pathologies végétales de stress abiotique"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ESA503"
+  intitule_ecue = "Mécanismes adaptatifs des plantes"
+
+[[semestre_3.ue_specialite]]
+code_ue = "ONM500"
+intitule_ue = "Compétition et optimisation de la nutrition minérale et hydrique des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ONM501"
+  intitule_ecue = "Allélopathie"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "ONM502"
+  intitule_ecue = "Symbiose mycorhizienne"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "SVT500"
+intitule_ue = "Séminaires et visites de terrain"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "SVT500"
+  intitule_ecue = "Séminaires et visites de terrain"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "TEA500"
+intitule_ue = "Technique d'expression anglaise"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "TEA500"
+  intitule_ecue = "Technique d'expression anglaise"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PRODUCTIONS VEGETALES"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_stage]]
+code_ue = "SFC500"
+intitule_ue = "Stage de fin de cycle (Mémoire)"
+
+  [[semestre_4.ue_stage.ecue]]
+  code_ecue = "SFC500"
+  intitule_ecue = "Stage en entreprise"
+
+
+================================================================================
+# M2_PVE.toml
+# Niveau: M2
+# Parcours: PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT
+# Semestre: 3
+================================================================================
+
+[semestre_3.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M2"
+semestre = 3
+
+[[semestre_3.ue_specialite]]
+code_ue = "PHV500"
+intitule_ue = "Physiopathologie végétale"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHV501"
+  intitule_ecue = "Mode d'attaque des pathogènes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHV502"
+  intitule_ecue = "Mécanismes de défense des plantes"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PHV503"
+  intitule_ecue = "Effets des pathogènes sur les fonctions physiologiques de la plante"
+
+[[semestre_3.ue_specialite]]
+code_ue = "PCD500"
+intitule_ue = "Protection et conservation des denrées stockées"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PCD501"
+  intitule_ecue = "Lutte contre les ravageurs des denrées stockées et des nuisibles domestiques"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PCD502"
+  intitule_ecue = "Lutte contre les bactéries et champignons"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "PCD503"
+  intitule_ecue = "Techniques de conservation"
+
+[[semestre_3.ue_specialite]]
+code_ue = "MLI500"
+intitule_ue = "Méthodes de lutte intégrées"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MLI501"
+  intitule_ecue = "Méthode de lutte contre les nuisibles des cultures"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "MLI502"
+  intitule_ecue = "Techniques de lutte intégrée"
+
+[[semestre_3.ue_specialite]]
+code_ue = "NEF500"
+intitule_ue = "Nuisibles des essences forestières"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "NEF501"
+  intitule_ecue = "Phytopathologie forestière"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "NEF502"
+  intitule_ecue = "Entomologie forestière"
+
+[[semestre_3.ue_specialite]]
+code_ue = "SST500"
+intitule_ue = "Séminaire et sortie de terrain"
+
+  [[semestre_3.ue_specialite.ecue]]
+  code_ecue = "SST500"
+  intitule_ecue = "Séminaire et sortie de terrain"
+
+[[semestre_3.ue_methodologie]]
+code_ue = "LNC500"
+intitule_ue = "Lois, normes et conventions en matière de protection des végétaux"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "LNC501"
+  intitule_ecue = "Cadre juridique nationale en protection des végétaux"
+
+  [[semestre_3.ue_methodologie.ecue]]
+  code_ecue = "LNC502"
+  intitule_ecue = "Normes et conventions internationales en protection des végétaux"
+
+[[semestre_3.ue_culture_generale]]
+code_ue = "ACT500"
+intitule_ue = "Anglais de composition thématique"
+
+  [[semestre_3.ue_culture_generale.ecue]]
+  code_ecue = "ACT500"
+  intitule_ecue = "Anglais de composition thématique"
+
+
+[semestre_4.metadata]
+domaine = "SCIENCES AGRONOMIQUES"
+parcours = "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT"
+grade = "MASTER"
+niveau = "M2"
+semestre = 4
+
+[[semestre_4.ue_specialite]]
+code_ue = "STA500"
+intitule_ue = "Stage"
+
+  [[semestre_4.ue_specialite.ecue]]
+  code_ecue = "STA500"
+  intitule_ecue = "Stage"
+

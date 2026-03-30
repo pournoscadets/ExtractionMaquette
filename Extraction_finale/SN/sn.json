@@ -1,0 +1,4675 @@
+{
+  "label": "Université Nangui Abrogoua",
+  "abbreviation": "UNA",
+  "ufrs": [
+    {
+      "label": "Sciences Naturelles",
+      "abbreviation": "SN",
+      "parcours": [
+        {
+          "label": "PRODUCTIONS VEGETALES /PRODUCTIONS ANIMALES",
+          "abbreviation": "PVA",
+          "levels": [
+            {
+              "label": "L1",
+              "disciplines": [
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Mécanique quantique et liaison chimique",
+                      "abbreviation": "MQL100",
+                      "ecues": [
+                        {
+                          "label": "Mécanique quantique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Liaison chimique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Thermodynamique, Cinétique Chimique et réaction en solution aqueuse",
+                      "abbreviation": "TRA100",
+                      "ecues": [
+                        {
+                          "label": "Thermodynamique et Cinétique Chimique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Réaction en solution aqueuse",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Mécanique et optique",
+                      "abbreviation": "MEO100",
+                      "ecues": [
+                        {
+                          "label": "Mécanique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Optique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Electrostatique et électricité",
+                      "abbreviation": "ELE100",
+                      "ecues": [
+                        {
+                          "label": "Electrostatique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Electricité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Biochimie structurale",
+                      "abbreviation": "BMS100",
+                      "ecues": [
+                        {
+                          "label": "Structure des molécules simples",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "structure des molécules de taille moyenne",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Recherche documentaire",
+                      "abbreviation": "RED100",
+                      "ecues": [
+                        {
+                          "label": "Technique de recherche documentaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Pétrologie et Géodynamique Interne",
+                      "abbreviation": "PGI100",
+                      "ecues": [
+                        {
+                          "label": "Pétrologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Géodynamique Interne",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "UE libre *",
+                      "abbreviation": "UEL100",
+                      "ecues": [
+                        {
+                          "label": "Technique de communication",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Civilisation africaine",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Droit de l'eau",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Droit de l'environnement",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Agro-économie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais structural",
+                      "abbreviation": "ANG100",
+                      "ecues": [
+                        {
+                          "label": "listening (Anglais)",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Writing (Anglais)",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de la Terre",
+                  "abbreviation": "ST",
+                  "ues": [
+                    {
+                      "label": "Pédologie et Géodynamique Externe",
+                      "abbreviation": "PGE100",
+                      "ecues": [
+                        {
+                          "label": "Pédologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Géodynamique Externe",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Biologie Cellulaire",
+                      "abbreviation": "BIC100",
+                      "ecues": [
+                        {
+                          "label": "Cellules et virus",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Membrane plasmique et hyaloplasme",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Système membranaire interne-Péroxysomes et organites de conversion d'énergie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biologie du Développement",
+                      "abbreviation": "BID100",
+                      "ecues": [
+                        {
+                          "label": "Grandes étapes du développement",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Développement embryonnaire des invertébrés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Développement embryonnaire des vertébrés",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Algèbre et analyse",
+                      "abbreviation": "MAT100",
+                      "ecues": [
+                        {
+                          "label": "Algèbre",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Initiation à l'informatique",
+                      "abbreviation": "IIF100",
+                      "ecues": [
+                        {
+                          "label": "Connaissance de l'ordinateur",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Utilisation de logiciels de base",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "L2",
+              "disciplines": [
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Biologie Animale",
+                      "abbreviation": "BIA200",
+                      "ecues": [
+                        {
+                          "label": "Protozoaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Métazoaires",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biologie Végétale",
+                      "abbreviation": "BIV200",
+                      "ecues": [
+                        {
+                          "label": "Organisation et morphologie des spermaphytes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Organisation reproduction des procariotes, des thallophytes des cormophytes non spermaphytes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génétique",
+                      "abbreviation": "GEN200",
+                      "ecues": [
+                        {
+                          "label": "Connaissance fondamentale en génétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mutation génétique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Microbiologie générale",
+                      "abbreviation": "MIG200",
+                      "ecues": [
+                        {
+                          "label": "Classification",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Rôle des microorganismes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Physiologie Animale",
+                      "abbreviation": "PHA200",
+                      "ecues": [
+                        {
+                          "label": "Transport transmembranaire et transépithelial",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Tissu nerveux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Contraction musculaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Physiologie Végétale",
+                      "abbreviation": "PHV200",
+                      "ecues": [
+                        {
+                          "label": "Nutrition des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Résistance des plantes au stress",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie Organique",
+                      "abbreviation": "CHO200",
+                      "ecues": [
+                        {
+                          "label": "Chimie organique générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chimie organique des structures",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biochimie des macromolécules",
+                      "abbreviation": "MBA200",
+                      "ecues": [
+                        {
+                          "label": "Structure des macromolécules",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Notions de métabolisme des macromolécules",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de la Terre",
+                  "abbreviation": "ST",
+                  "ues": [
+                    {
+                      "label": "Géologie Historique et Structurale",
+                      "abbreviation": "GHS200",
+                      "ecues": [
+                        {
+                          "label": "Géologie Historique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Géologie Structurale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Hydrologie et Hydrogéologie générale",
+                      "abbreviation": "HYD200",
+                      "ecues": [
+                        {
+                          "label": "Hydrologie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Hydrogéologie générale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Loisir *",
+                      "abbreviation": "UEL200",
+                      "ecues": [
+                        {
+                          "label": "Sport",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Musique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Danse",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Enzymologie et Bioénergétique",
+                      "abbreviation": "BEB200",
+                      "ecues": [
+                        {
+                          "label": "Cinétique enzymatique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bioénergetique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Initiation à la redaction scientifique",
+                      "abbreviation": "IRS200",
+                      "ecues": [
+                        {
+                          "label": "Initiation à la redaction scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Insertion professionnel",
+                      "abbreviation": "IPR200",
+                      "ecues": [
+                        {
+                          "label": "Milieu agroalimentaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Secteur de l'eau",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Productions animales et végétales",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Probabilité et statistique",
+                      "abbreviation": "MAT200",
+                      "ecues": [
+                        {
+                          "label": "Probabilité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "statistique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Physiques",
+                  "abbreviation": "PHYS",
+                  "ues": [
+                    {
+                      "label": "Thermodynamique et éléments de physiques des particules",
+                      "abbreviation": "PHY200",
+                      "ecues": [
+                        {
+                          "label": "Thermodynamique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Eléments de physiques des particules",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "BOTANIQUE ET PHYTOTHERAPIE",
+          "abbreviation": "BP",
+          "levels": [
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Systématique des angiospermes",
+                      "abbreviation": "SYA300",
+                      "ecues": [
+                        {
+                          "label": "Systématique des monocotylédones",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Systématique des dicotylédones",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Ecologie générale et bioclimatologie",
+                      "abbreviation": "EGB300",
+                      "ecues": [
+                        {
+                          "label": "Ecologie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bioclimatologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biosécurité",
+                      "abbreviation": "BIS300",
+                      "ecues": [
+                        {
+                          "label": "Risques biologiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mesure de confinement et procédure de sécurité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthode de rédaction de projet",
+                      "abbreviation": "MRP300",
+                      "ecues": [
+                        {
+                          "label": "Méthode de rédaction de projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technique de recherche d'emploi",
+                      "abbreviation": "TRE300",
+                      "ecues": [
+                        {
+                          "label": "Technique de recherche d'emploi",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "STAGE",
+                      "abbreviation": "STA300",
+                      "ecues": [
+                        {
+                          "label": "STAGE",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "HORMONE ET REGULATION ENDOCRINE",
+                      "abbreviation": "HRE300",
+                      "ecues": [
+                        {
+                          "label": "HORMONES",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "GLANDES ENDOCRINES",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "REGULATION ENDOCRINE",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "HISTOLOGIE HUMAINE DESCRIPTIVE ET FONCTIONNELLE",
+                      "abbreviation": "HDF300",
+                      "ecues": [
+                        {
+                          "label": "HISTOLOGIE DES VISCERES",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "HEMATO-IMMUNOLOGIE",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "HEMOSTASE",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Anatomie humaine générale",
+                      "abbreviation": "AHH300",
+                      "ecues": [
+                        {
+                          "label": "Muscles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Tissus conjonctif et système respiratoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "PHYSIOLOGIE DES GRANDES FONCTIONS",
+                      "abbreviation": "PGF300",
+                      "ecues": [
+                        {
+                          "label": "SYSTÈME NERVEUX",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "EXPLORATION FONCTIONNELLE RESPIRATOIRE",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "SYSTÈME DIGESTIF ET RENAL",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Ethnobotanique",
+                      "abbreviation": "ETH300",
+                      "ecues": [
+                        {
+                          "label": "Ethnobotanique descriptive",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ethnobotanique quantitative",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "MICROBIOLOGIE ET PARASITOLOGIE MEDICALE",
+                      "abbreviation": "MPM300",
+                      "ecues": [
+                        {
+                          "label": "MICROBIOLOGIE",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "PARASITOLOGIE",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Collecte des données et analyse statistique",
+                      "abbreviation": "CDS300",
+                      "ecues": [
+                        {
+                          "label": "Méthode de collecte des données",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse univariée et bivariée",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais",
+                      "abbreviation": "ANG300",
+                      "ecues": [
+                        {
+                          "label": "Anglais d'aquisition",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Droit",
+                  "abbreviation": "DRT",
+                  "ues": [
+                    {
+                      "label": "Aspect juridique et éthique de la médecine traditionnelle",
+                      "abbreviation": "AJE300",
+                      "ecues": [
+                        {
+                          "label": "Aspect juridique et éthique de la médecine traditionnelle",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "PHARMACOLOGIE",
+                      "abbreviation": "PHA300",
+                      "ecues": [
+                        {
+                          "label": "PHARMACOLOGIE GENERALE",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "PHARMACOLOGIE SPECIALE",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "PHYTOCHIMIE ET TECHNIQUE DE SEPARATION",
+                      "abbreviation": "PTS300",
+                      "ecues": [
+                        {
+                          "label": "PHYTOCHIMIE",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "TECHNIQUE DE SEPARATION",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "GESTION DES RESSOURCES PHYTOGENETIQUE",
+                      "abbreviation": "GRP300",
+                      "ecues": [
+                        {
+                          "label": "REGENERATION NATURELLE",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "REGENERATION IN VITRO",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "GESTION RESSOURCES VEGETALES",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Physiologie moléculaires",
+                      "abbreviation": "PHM400",
+                      "ecues": [
+                        {
+                          "label": "Métabolisme des glucides et des lipides",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Métabolisme des protides et des vitamines",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Médecine traditionnelle et Pharmacopée africaine",
+                      "abbreviation": "MTP400",
+                      "ecues": [
+                        {
+                          "label": "Médecine traditionnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pharmacopée africaine",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cancérologie et maladies infectieuses",
+                      "abbreviation": "CMI400",
+                      "ecues": [
+                        {
+                          "label": "Cancer",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pathologie infectieuse",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Plantes médicinales",
+                      "abbreviation": "PME400",
+                      "ecues": [
+                        {
+                          "label": "Taxonomie des plantes africaines",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Caractères botaniques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Plantes toxiques",
+                      "abbreviation": "PLT400",
+                      "ecues": [
+                        {
+                          "label": "Plantes médicinales toxiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise",
+                      "abbreviation": "STE400",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Projet personnel",
+                      "abbreviation": "PPE400",
+                      "ecues": [
+                        {
+                          "label": "Projet personnel",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Pathologie des systèmes nerveux cardiovasculaire et digestif",
+                      "abbreviation": "PSC400",
+                      "ecues": [
+                        {
+                          "label": "Pathologie du système nerveux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pathologie du système cardiovasculaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pathologie du système digestif",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Diabétologie et Disfonctionnement nutritionnelle",
+                      "abbreviation": "DDN400",
+                      "ecues": [
+                        {
+                          "label": "Pathologie du métabolisme",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Physiopathologie de la nutrition",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Toxicologie générale",
+                      "abbreviation": "TOG400",
+                      "ecues": [
+                        {
+                          "label": "Toxicologie des systèmes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Immunotoxicologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Communication scientifique",
+                      "abbreviation": "CSC400",
+                      "ecues": [
+                        {
+                          "label": "Rédaction scientifique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Vulgarisation et technique de communication avec les médias",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Biostatistique",
+                      "abbreviation": "BOS400",
+                      "ecues": [
+                        {
+                          "label": "Analyse de variables multiples",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes factorielles de réduction de données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Organographie",
+                      "abbreviation": "ORG500",
+                      "ecues": [
+                        {
+                          "label": "Appareil végétatif",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Appareil reproducteur",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Ecologie et conservation des végétaux",
+                      "abbreviation": "ECV500",
+                      "ecues": [
+                        {
+                          "label": "Ecologie végétale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Conservation des ressources végétales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Impact environnemental",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Aromathérapie",
+                      "abbreviation": "ARO500",
+                      "ecues": [
+                        {
+                          "label": "Production et forme galénique des huiles essentielles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Voie d'administration et toxicité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Sociologie",
+                      "abbreviation": "SOC500",
+                      "ecues": [
+                        {
+                          "label": "Sociologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise",
+                      "abbreviation": "SEE500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Pharmaceutiques",
+                  "abbreviation": "SC_PHAR",
+                  "ues": [
+                    {
+                      "label": "Pharmacognosie",
+                      "abbreviation": "PHG500",
+                      "ecues": [
+                        {
+                          "label": "Pharmacognosie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pharmacognosie spéciale 1",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pharmacognosie spéciale 2",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Formulation et production des médicaments traditionnels améliorés (MTA)",
+                      "abbreviation": "FPM500",
+                      "ecues": [
+                        {
+                          "label": "Biopharmacie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Management de la qualité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Méthode de recherche en Pharmacologie et Phytothérapie",
+                      "abbreviation": "MRP500",
+                      "ecues": [
+                        {
+                          "label": "Méthodologie en pharmacologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodologie en phytothérapie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA500",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PRODUCTIONS ANIMALES",
+          "abbreviation": "PA",
+          "levels": [
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Zootechnie générale et Extérieur",
+                      "abbreviation": "ZEA300",
+                      "ecues": [
+                        {
+                          "label": "Zootechnie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Extérieur",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Agrostologie et Aménagements agro-pastoraux",
+                      "abbreviation": "APA300",
+                      "ecues": [
+                        {
+                          "label": "Aménagements agro-pastoraux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Agrostologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biosécurité",
+                      "abbreviation": "BIS300",
+                      "ecues": [
+                        {
+                          "label": "Risques biologiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mesure de confinement et procédures de sécurité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthode de rédaction de projet",
+                      "abbreviation": "MRP300",
+                      "ecues": [
+                        {
+                          "label": "Méthode de rédaction de projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Élevage en développement",
+                      "abbreviation": "EDE300",
+                      "ecues": [
+                        {
+                          "label": "Cuniculture",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Apiculture",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Aulacodiculture et Achatiniculture",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Ecologie générale et Bioclimatologie",
+                      "abbreviation": "EGB300",
+                      "ecues": [
+                        {
+                          "label": "Ecologie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bioclimatologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Organisation et gestion des professionnels d'élevage et recherche d'emploi",
+                      "abbreviation": "OGP300",
+                      "ecues": [
+                        {
+                          "label": "Gestion des organisations professionnelles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Leadership et développement personnel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Technique de recherche d'emploi",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage d'immersion",
+                      "abbreviation": "STI300",
+                      "ecues": [
+                        {
+                          "label": "Stage d'immersion",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Histologie fonctionnelle et anatomie comparée",
+                      "abbreviation": "HIA300",
+                      "ecues": [
+                        {
+                          "label": "Histologie fonctionnelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anatomie pathologique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Anatomie comparée",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Alimentation et nutrition animales",
+                      "abbreviation": "ANA300",
+                      "ecues": [
+                        {
+                          "label": "Digestibilité des aliments",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques d'analyse et formulation des rations",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Pathologies animales",
+                      "abbreviation": "PAT300",
+                      "ecues": [
+                        {
+                          "label": "Affections microbiennes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Affections parasitaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Affections métaboliques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Amélioration génétique des animaux d'élevage",
+                      "abbreviation": "AMG300",
+                      "ecues": [
+                        {
+                          "label": "Principes de la génétique des populations animales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Sélection animale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Collecte des données et analyse statistique",
+                      "abbreviation": "CDS300",
+                      "ecues": [
+                        {
+                          "label": "Méthodes de collecte des données",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse univariée et bivariées",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais d'acquisition",
+                      "abbreviation": "AAC300",
+                      "ecues": [
+                        {
+                          "label": "Anglais d'acquisition",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Production des monogastriques",
+                      "abbreviation": "PDM300",
+                      "ecues": [
+                        {
+                          "label": "Aviculture",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Porciculture",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Production des ruminants",
+                      "abbreviation": "PDR300",
+                      "ecues": [
+                        {
+                          "label": "Production ovine et caprine",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Production bovine",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Pêche et aquaculture",
+                      "abbreviation": "PEA300",
+                      "ecues": [
+                        {
+                          "label": "Pêche",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Aquaculture",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Immunologie",
+                      "abbreviation": "IMU400",
+                      "ecues": [
+                        {
+                          "label": "Système immunitaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Immunopathologie et vaccinologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cynégétique",
+                      "abbreviation": "CYN400",
+                      "ecues": [
+                        {
+                          "label": "Présentation de la Faune",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Relation Habitat/Effectif/Espèce",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Principe d'Etablissement et Gestion des Aires Protégées",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Hygiène et sécurité sanitaire dans les filières de production animale",
+                      "abbreviation": "HSS400",
+                      "ecues": [
+                        {
+                          "label": "Hygiène et qualité dans les FDA",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Sécurité sanitaire des aliments",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Nutrition, alimentation animales et toxicologie",
+                      "abbreviation": "NAT400",
+                      "ecues": [
+                        {
+                          "label": "Nutrition et alimentation des monogastriques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Nutrition et alimentation des polygastriques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Toxicologie vétérinaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Biologie et Biotechnologie de la Reproduction",
+                      "abbreviation": "BBR400",
+                      "ecues": [
+                        {
+                          "label": "Biologie de la reproduction",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biotechnologie de la reproduction",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Physiologie animale",
+                      "abbreviation": "PAN400",
+                      "ecues": [
+                        {
+                          "label": "Physiologie des grandes fonctions",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Physiologie des poissons",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Ethique et Bien-être",
+                      "abbreviation": "EBE400",
+                      "ecues": [
+                        {
+                          "label": "Ethique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bien-être",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Hormones et régulation",
+                      "abbreviation": "HRE400",
+                      "ecues": [
+                        {
+                          "label": "Hormones et régulation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise ou au laboratoire",
+                      "abbreviation": "SEL400",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise ou au laboratoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthodes factorielles de réduction de données",
+                      "abbreviation": "MRD400",
+                      "ecues": [
+                        {
+                          "label": "Méthodes factorielles de réduction de données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Economie et gestion des projets",
+                      "abbreviation": "EGP400",
+                      "ecues": [
+                        {
+                          "label": "Economie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion et évaluation des projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Génie génétique",
+                      "abbreviation": "GGE400",
+                      "ecues": [
+                        {
+                          "label": "Outils du génie génétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications du génie génétique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Communication Scientifique",
+                      "abbreviation": "CSC400",
+                      "ecues": [
+                        {
+                          "label": "Rédaction scientifique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Vulgarisation et technique de communication avec les médias",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Production laitière et de viande",
+                      "abbreviation": "PVL400",
+                      "ecues": [
+                        {
+                          "label": "Production laitière",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Production de viande",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Analyse de variables multiples",
+                      "abbreviation": "AVM400",
+                      "ecues": [
+                        {
+                          "label": "Analyse de variables multiples",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Pathogènes épizootiques",
+                      "abbreviation": "PEP500",
+                      "ecues": [
+                        {
+                          "label": "Biologie des pathogènes épizootiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Technique d'analyse et épidémiologie moléculaire des pathogènes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Epidémiologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Valorisation des plantes médicinales en pharmacopée traditionnelle vétérinaires",
+                      "abbreviation": "VPM500",
+                      "ecues": [
+                        {
+                          "label": "Valorisation des plantes médicinales en pharmacopée traditionnelle vétérinaires",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise",
+                      "abbreviation": "SEN500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Droit",
+                  "abbreviation": "DRT",
+                  "ues": [
+                    {
+                      "label": "Droit Foncier Rural",
+                      "abbreviation": "DFR500",
+                      "ecues": [
+                        {
+                          "label": "Droit Foncier Rural",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Hygiène et qualité des denrées alimentaires d'origine animale et halieutique",
+                      "abbreviation": "HQD500",
+                      "ecues": [
+                        {
+                          "label": "Evaluation de la qualité des produits carnés et halieutiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Evaluation de la qualité des produits laitiers",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Halieutiques",
+                  "abbreviation": "SC_HAL",
+                  "ues": [
+                    {
+                      "label": "Transformation des produits carnés, laitiers et halieutiques",
+                      "abbreviation": "TPR500",
+                      "ecues": [
+                        {
+                          "label": "Transformation des produits carnés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Transformation des produits laitiers",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Transformation des produits halieutiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Filières des Ressources Animales et Halieutiques",
+                      "abbreviation": "FAH500",
+                      "ecues": [
+                        {
+                          "label": "Principales Filières des RAH en Côte d'Ivoire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Circuits de commercialisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Marketing",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Entreprenariat et Conseil de gestion",
+                      "abbreviation": "ECG500",
+                      "ecues": [
+                        {
+                          "label": "Entreprenariat",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Conseil de gestion",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA500",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PROTECTION DES VEGETAUX ET DE L'ENVIRONNEMENT",
+          "abbreviation": "PVE",
+          "levels": [
+            {
+              "label": "L3",
+              "disciplines": [
+                {
+                  "label": "Sciences de la Terre",
+                  "abbreviation": "ST",
+                  "ues": [
+                    {
+                      "label": "Fertilité et amendement des sols",
+                      "abbreviation": "FAS300",
+                      "ecues": [
+                        {
+                          "label": "Pédologie et Pédopaysages",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Potentialité et fertilisation des sols de CI",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Physiologie du développement végétal",
+                      "abbreviation": "PDV300",
+                      "ecues": [
+                        {
+                          "label": "Hormonologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "initiation à la Culture In Vitro",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Croissance et développement des plantes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Techniques de Production végétale",
+                      "abbreviation": "TPV300",
+                      "ecues": [
+                        {
+                          "label": "Itinéraire techniques des cultures maraîchères et vivrières",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Itinéraire techniques des cultures industrielles et des plantes ornementales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques d'irrigation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Zoologie Agricole",
+                      "abbreviation": "ZOA300",
+                      "ecues": [
+                        {
+                          "label": "Arthropodes ravageurs",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Vertébrés ravageurs",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Autres groupes d'animaux ravageurs",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Botanique",
+                      "abbreviation": "BOT300",
+                      "ecues": [
+                        {
+                          "label": "Systématique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Préadaptation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biologie de la reproduction végétale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génétique Formelle",
+                      "abbreviation": "GEF300",
+                      "ecues": [
+                        {
+                          "label": "Transmission des caractères par reproduction sexuée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Génétique des haploïdes et interaction intergénétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Recombinaison intergénétique chez les microorganismes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Collecte de données et analyses statistiques",
+                      "abbreviation": "CDA300",
+                      "ecues": [
+                        {
+                          "label": "Méthodes de collectes des données",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyses statistiques (Univariée et Bivariées)",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Rédaction de projets",
+                      "abbreviation": "REP300",
+                      "ecues": [
+                        {
+                          "label": "Rédaction de projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Ecologie",
+                      "abbreviation": "ECO300",
+                      "ecues": [
+                        {
+                          "label": "Notion de base d'écologie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ecologie des communautés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bioclimatologie et indicateurs des changements climatiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Economie rurale",
+                      "abbreviation": "ERU300",
+                      "ecues": [
+                        {
+                          "label": "Législation foncière",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Economie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage",
+                      "abbreviation": "STA300",
+                      "ecues": [
+                        {
+                          "label": "Stage pratique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais d'acquisition",
+                      "abbreviation": "ANA300",
+                      "ecues": [
+                        {
+                          "label": "Anglais d'acquisition",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Phytopathologie générale",
+                      "abbreviation": "PHG300",
+                      "ecues": [
+                        {
+                          "label": "Agents phytopathogènes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Diagnostique des maladies des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques d'identification et méthodes de lutte contres les agents phytopathogènes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Chimie",
+                  "abbreviation": "CHIM",
+                  "ues": [
+                    {
+                      "label": "Chimie des pesticides",
+                      "abbreviation": "CHP300",
+                      "ecues": [
+                        {
+                          "label": "Généralités et formulation des pesticides",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Législation et normes sur les pesticides",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Usage sécurisé des pesticides",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Foresterie et Télédétection",
+                      "abbreviation": "FOT300",
+                      "ecues": [
+                        {
+                          "label": "Foresterie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Télédétection",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Malherbologie et plantes parasites des cultures",
+                      "abbreviation": "MPP300",
+                      "ecues": [
+                        {
+                          "label": "Biologie et systématique des mauvaises herbes et de plantes parasites",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes de lutte contre les mauvaises herbes et les plantes parasites",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Chimie de l'environnement",
+                      "abbreviation": "CDE400",
+                      "ecues": [
+                        {
+                          "label": "Toxicologie et Ecotoxicologie des produits chimiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse des résidus",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Pathologie végétale",
+                      "abbreviation": "PAV400",
+                      "ecues": [
+                        {
+                          "label": "Maladies parasitaires des végétaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Maladies non parasitaires des végétaux",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Entomologie agricole",
+                      "abbreviation": "ENA400",
+                      "ecues": [
+                        {
+                          "label": "Biologie et écologie des insectes ravageurs des cultures",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biologie et écologie des ravageurs des denrées stockées",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biologie et écologie des insectes ennemis naturels",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion des adventices des cultures",
+                      "abbreviation": "GAC400",
+                      "ecues": [
+                        {
+                          "label": "Adventices des cultures vivrières et maraîchères",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Adventices des cultures industrielles",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Suivi et évaluation de projets agricoles",
+                      "abbreviation": "SEP400",
+                      "ecues": [
+                        {
+                          "label": "Conception, suivi et évaluation de projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Biostatistique",
+                      "abbreviation": "BST400",
+                      "ecues": [
+                        {
+                          "label": "Analyse de variables multiples",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes factorielles de réduction de données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Communication Scientifique",
+                      "abbreviation": "COS400",
+                      "ecues": [
+                        {
+                          "label": "Rédaction scientifique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Vulgarisation et technique de communication avec les médias",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Droit",
+                  "abbreviation": "DRT",
+                  "ues": [
+                    {
+                      "label": "Droit foncier et Economie rurale",
+                      "abbreviation": "DER400",
+                      "ecues": [
+                        {
+                          "label": "Droit foncier",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Economie rurale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Bioinformatique",
+                      "abbreviation": "BIF400",
+                      "ecues": [
+                        {
+                          "label": "Bioinformatique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Diagnostic et méthodes de lutte contre les maladies des plantes",
+                      "abbreviation": "DMM400",
+                      "ecues": [
+                        {
+                          "label": "Méthodes de diagnostic en pathologie végétale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Lutte contre les maladies virales et fongiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Lutte contre les maladies bactériennes et les nématodes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Immersion en entreprise",
+                      "abbreviation": "IME400",
+                      "ecues": [
+                        {
+                          "label": "Immersion en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Biopesticides: Recherche et techniques d'analyse",
+                      "abbreviation": "RTA400",
+                      "ecues": [
+                        {
+                          "label": "Biopesticides: substances naturelles et microorganismes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Technique d'analyse biochimique et moléculaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Economie",
+                  "abbreviation": "ECO",
+                  "ues": [
+                    {
+                      "label": "Agri-business",
+                      "abbreviation": "AGB400",
+                      "ecues": [
+                        {
+                          "label": "Législation et normes nationales et internationales sur la commercialisation des produits agricoles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Chaîne des valeurs, étude des marchés et markéting",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Entreprenariat agricole",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Physiopathologie végétale",
+                      "abbreviation": "PHV500",
+                      "ecues": [
+                        {
+                          "label": "Mode d'attaque des pathogènes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mécanismes de défense des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Effets des pathogènes sur les fonctions physiologiques de la plante",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Protection et conservation des denrées stockées",
+                      "abbreviation": "PCD500",
+                      "ecues": [
+                        {
+                          "label": "Lutte contre les ravageurs des denrées stockées et des nuisibles domestiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Lutte contre les bactéries et champignons",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques de conservation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthodes de lutte intégrées",
+                      "abbreviation": "MLI500",
+                      "ecues": [
+                        {
+                          "label": "Méthode de lutte contre les nuisibles des cultures",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques de lutte intégrée",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Séminaire et sortie de terrain",
+                      "abbreviation": "SST500",
+                      "ecues": [
+                        {
+                          "label": "Séminaire et sortie de terrain",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Lois, normes et conventions en matière de protection des végétaux",
+                      "abbreviation": "LNC500",
+                      "ecues": [
+                        {
+                          "label": "Cadre juridique nationale en protection des végétaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Normes et conventions internationales en protection des végétaux",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage",
+                      "abbreviation": "STA500",
+                      "ecues": [
+                        {
+                          "label": "Stage",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Forestières",
+                  "abbreviation": "SC_FOR",
+                  "ues": [
+                    {
+                      "label": "Nuisibles des essences forestières",
+                      "abbreviation": "NEF500",
+                      "ecues": [
+                        {
+                          "label": "Phytopathologie forestière",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Entomologie forestière",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais de composition thématique",
+                      "abbreviation": "ACT500",
+                      "ecues": [
+                        {
+                          "label": "Anglais de composition thématique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "AVICULTURE",
+          "abbreviation": "AVI",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Immunologie",
+                      "abbreviation": "IMU400",
+                      "ecues": [
+                        {
+                          "label": "Système immunitaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Immunopathologie et vaccinologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Cynégétique",
+                      "abbreviation": "CYN400",
+                      "ecues": [
+                        {
+                          "label": "Présentation de la Faune",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Relation Habitat/Effectif/Espèce",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Principe d'Etablissement et Gestion des Aires Protégées",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Hygiène et sécurité sanitaire dans les filières de production animale",
+                      "abbreviation": "HSS400",
+                      "ecues": [
+                        {
+                          "label": "Hygiène et qualité dans les FDA",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Sécurité sanitaire des aliments",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Nutrition, Alimentation des Volailles et Toxicologie",
+                      "abbreviation": "NAT400",
+                      "ecues": [
+                        {
+                          "label": "Nutrition et alimentation des volailles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Formulation des rations de volaille",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Toxicologie des aliments de volaille",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Pathologies Aviaires",
+                      "abbreviation": "PAVL400",
+                      "ecues": [
+                        {
+                          "label": "Maladies aviaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Diagnostic et prévention des maladies aviaires",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Biologie et Biotechnologie de la Reproduction",
+                      "abbreviation": "BBR400",
+                      "ecues": [
+                        {
+                          "label": "Biologie de la reproduction",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biotechnologie de la reproduction",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Anatomie et Physiologie des volailles",
+                      "abbreviation": "APV400",
+                      "ecues": [
+                        {
+                          "label": "Anatomie des volailles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Physiologie des volailles",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Conduite de l'élevage de Volailles de chair",
+                      "abbreviation": "CVC400",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'élevage de volailles de chair",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Conduite de l'élevage de volailles de ponte",
+                      "abbreviation": "CVP400",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'élevage de volailles de ponte",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Infrastructures et Equipements Avicoles",
+                      "abbreviation": "IEA400",
+                      "ecues": [
+                        {
+                          "label": "Infrastructures Avicoles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Equipements Avicoles",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Ethique et Bien-être",
+                      "abbreviation": "EBE400",
+                      "ecues": [
+                        {
+                          "label": "Ethique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bien-être",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise ou au laboratoire",
+                      "abbreviation": "SEL400",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise ou au laboratoire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Economie et gestion des projets",
+                      "abbreviation": "EGP400",
+                      "ecues": [
+                        {
+                          "label": "Economie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion et évaluation des projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Génie génétique",
+                      "abbreviation": "GGE400",
+                      "ecues": [
+                        {
+                          "label": "Outils du génie génétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Applications du génie génétique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Environnement du Secteur Avicole",
+                      "abbreviation": "ESA400",
+                      "ecues": [
+                        {
+                          "label": "Réglementation, organisation, foncier rural, etc.",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Techniques de production des aliments composés",
+                      "abbreviation": "TPA500",
+                      "ecues": [
+                        {
+                          "label": "Formulation des aliments composés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques de fabrication des aliments composés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Formulation et fabrication des CMV",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Techniques d'élevage des reproducteurs 'chair'",
+                      "abbreviation": "ERC500",
+                      "ecues": [
+                        {
+                          "label": "Conduite de l'élevage des reproducteurs 'chair'",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Reproduction, incubation et production des œufs de consommation",
+                      "abbreviation": "RIO500",
+                      "ecues": [
+                        {
+                          "label": "Techniques de production des œufs à couver",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Incubation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques de production des œufs de consommation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Pathologies dominantes aviaires",
+                      "abbreviation": "PDA500",
+                      "ecues": [
+                        {
+                          "label": "Pathologies des reproducteurs et pondeuses",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pathologies des volailles de chair",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Qualité et commercialisation des produits avicoles",
+                      "abbreviation": "TPR500",
+                      "ecues": [
+                        {
+                          "label": "Qualité des produits avicoles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Circuits de commercialisation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Marketing",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise",
+                      "abbreviation": "SEN500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Gestion",
+                  "abbreviation": "GEST",
+                  "ues": [
+                    {
+                      "label": "Gestion et suivi d'une exploitation avicole",
+                      "abbreviation": "GSA500",
+                      "ecues": [
+                        {
+                          "label": "Gestion d'une exploitation avicole",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Suivi d'une exploitation avicole",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA500",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "BIODIVERSITE ET GESTION DURABLE DES ECOSYSTEMES",
+          "abbreviation": "BioGDE",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Écologie des populations",
+                      "abbreviation": "EDP400",
+                      "ecues": [
+                        {
+                          "label": "Évolution moléculaire et génomique des populations",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Croissance & Traits d'histoire de vie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Dynamique de population",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Biodiversité et écologie fonctionnelle",
+                      "abbreviation": "BEF400",
+                      "ecues": [
+                        {
+                          "label": "Fonctionnement d'un écosystème tropical",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Services écosystémiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Réponses des organismes aux stress environnementaux",
+                      "abbreviation": "ROS400",
+                      "ecues": [
+                        {
+                          "label": "Réponses des végétaux aux stress environnementaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Réponses des animaux aux stress environnementaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Réponses des microorganismes aux stress environnementaux",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Télédétection et SIG",
+                      "abbreviation": "TES400",
+                      "ecues": [
+                        {
+                          "label": "Bases théoriques sur les traitements d'images de télédétection",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Initiation aux SIG",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Écologie quantitative",
+                      "abbreviation": "ECQ400",
+                      "ecues": [
+                        {
+                          "label": "Processus stochastique de mort et de naissance; modélisation des incertitudes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Application de l'écologie quantitative",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Structure des communautés",
+                      "abbreviation": "SDC400",
+                      "ecues": [
+                        {
+                          "label": "Structure des communautés",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Interactions spécifiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Perturbations écologiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Taxonomie du vivant",
+                      "abbreviation": "TAX400",
+                      "ecues": [
+                        {
+                          "label": "Méthodes de classification & Taxonomie animale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes de classification & Taxonomie végétale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes de classification & Taxonomie des microorganismes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Phytosociologie et phytogéographie",
+                      "abbreviation": "PSG400",
+                      "ecues": [
+                        {
+                          "label": "Phytosociologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Phytogéographie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage d'immersion",
+                      "abbreviation": "SIM400",
+                      "ecues": [
+                        {
+                          "label": "Stage d'immersion",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Outil d'insertion professionnelle",
+                      "abbreviation": "PPE400",
+                      "ecues": [
+                        {
+                          "label": "Rédaction de CV et simulation d'entretien de stages et d'embauche",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques de recherche d'offres de stage ou d'emploi",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Traitement statistique des données",
+                      "abbreviation": "TSD400",
+                      "ecues": [
+                        {
+                          "label": "Traitement statistique des données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Analyse démographique des populations",
+                      "abbreviation": "ADP400",
+                      "ecues": [
+                        {
+                          "label": "Modèle démographique matriciel; Modèle de Lotka Volterra",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Modèles bayésien et hiérarchique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Communication scientifique",
+                      "abbreviation": "CSC400",
+                      "ecues": [
+                        {
+                          "label": "Rédaction scientifique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Vulgarisation et technique de communication avec les médias",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Écotoxicologie",
+                      "abbreviation": "TOX400",
+                      "ecues": [
+                        {
+                          "label": "Toxicologie des pesticides et méthode de lutte intégrée",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Toxicologie des métaux lourds et autres composés chimiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Gestion de la biodiversité",
+                      "abbreviation": "GDB500",
+                      "ecues": [
+                        {
+                          "label": "Protection de la biodiversité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biologie de la conservation: métapopulation et viabilité des populations",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion durable des écosystèmes",
+                      "abbreviation": "GDE500",
+                      "ecues": [
+                        {
+                          "label": "Intensification écologique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Paysages dégradés et stratégie de réhabilitation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gaz à effet de serre et réchauffement climatique: impacts sur l'environnement",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Économie, réglementation de la biodiversité",
+                      "abbreviation": "ERB500",
+                      "ecues": [
+                        {
+                          "label": "Économie de la biodiversité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Législation nationale et internationale de la protection de la biodiversité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Étude d'impact environnemental",
+                      "abbreviation": "EIE500",
+                      "ecues": [
+                        {
+                          "label": "Impact environnemental et orientations stratégiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion des impacts",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Aménagement des paysages urbains",
+                      "abbreviation": "APT500",
+                      "ecues": [
+                        {
+                          "label": "Aménagement des paysages urbains",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Aménagement des parcs et réserves naturelles",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Aménagement des forêts",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage de fin de cycle (Mémoire)",
+                      "abbreviation": "SFC500",
+                      "ecues": [
+                        {
+                          "label": "Stage de fin de cycle (Mémoire)",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Halieutiques",
+                  "abbreviation": "SC_HAL",
+                  "ues": [
+                    {
+                      "label": "Structure et fonctionnement des milieux aquatiques",
+                      "abbreviation": "SFA500",
+                      "ecues": [
+                        {
+                          "label": "Structure et diversité biologique des écosystèmes aquatiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Fonctionnement des milieux aquatiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Options de gestion durable des milieux aquatiques et applications",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA500",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "GENETIQUE ET AMELIORATION DES Bioressources",
+          "abbreviation": "GAB",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Biologie des Populations",
+                      "abbreviation": "BIP400",
+                      "ecues": [
+                        {
+                          "label": "Génétique des populations",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Evolution et sélection naturelle",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biogéographie et dynamique des populations",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Marqueurs Génétiques et Utilisations",
+                      "abbreviation": "MGU400",
+                      "ecues": [
+                        {
+                          "label": "Développement des marqueurs génétiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Utilisations des marqueurs génétiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Gestion des Ressources Génétiques",
+                      "abbreviation": "GRG400",
+                      "ecues": [
+                        {
+                          "label": "Prospection et collecte des ressources génétiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Banques de gènes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Régénération et conservation des ressources génétiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Immersion en Milieu Réel et Construction de Projet",
+                      "abbreviation": "ICP400",
+                      "ecues": [
+                        {
+                          "label": "Conception et rédaction de projet professionnel",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Immersion en milieu réel",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Ethique, Déontologie et Gouvernance",
+                      "abbreviation": "EDG400",
+                      "ecues": [
+                        {
+                          "label": "Ethique et déontologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gouvernance",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Systèmes Semenciers",
+                      "abbreviation": "SYS400",
+                      "ecues": [
+                        {
+                          "label": "Physiologie des semences",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Production et conservation de semences",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Législation en matière de production et distribution des semences",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génomique",
+                      "abbreviation": "GEN400",
+                      "ecues": [
+                        {
+                          "label": "Cytogénétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Génomique expressive",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Génomique fonctionnelle",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Régulation Génique",
+                      "abbreviation": "RGE400",
+                      "ecues": [
+                        {
+                          "label": "Génétique extra-chromosomique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Régulation de l'expression des gènes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Régulations épigénétiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Concept, Suivi et Evaluation des Projets",
+                      "abbreviation": "CSE400",
+                      "ecues": [
+                        {
+                          "label": "Concept, suivi et évaluation des projets",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'Expression Anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Communication Scientifique",
+                      "abbreviation": "CSC400",
+                      "ecues": [
+                        {
+                          "label": "Recherche documentaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Rédaction scientifique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Biostatistique",
+                      "abbreviation": "BST400",
+                      "ecues": [
+                        {
+                          "label": "Analyse de variables multiples",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes factorielles de réduction de données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Informatique",
+                  "abbreviation": "INFO",
+                  "ues": [
+                    {
+                      "label": "Bio-Informatique",
+                      "abbreviation": "BIF400",
+                      "ecues": [
+                        {
+                          "label": "Modélisation des phénomènes biologiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Système d'Information Géographique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Bioinformatique appliquée à la génomique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Agriculture et Développement Durable",
+                      "abbreviation": "ADD400",
+                      "ecues": [
+                        {
+                          "label": "Systèmes de culture",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Agrobiodiversité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Environnement Socio-Economique et Juridique de la Production Animale et Végétale",
+                      "abbreviation": "ESJ400",
+                      "ecues": [
+                        {
+                          "label": "Sociologie du développement et notion de droit foncier",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Economie agricole",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Démarche qualité et biosécurité en production et commercialisation animale et végétale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "PRODUCTIONS VEGETALES",
+          "abbreviation": "PV",
+          "levels": [
+            {
+              "label": "M1",
+              "disciplines": [
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Chimie de l'Environnement",
+                      "abbreviation": "CHE400",
+                      "ecues": [
+                        {
+                          "label": "Toxicologie des pesticides",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ecotoxicologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse des résidus",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Phytotechnie tropicale",
+                      "abbreviation": "PHT400",
+                      "ecues": [
+                        {
+                          "label": "Monographie des grandes cultures",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Fondement de l'agriculture et systèmes de production végétale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Amélioration des systèmes de production végétale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Conception, suivi et évaluation de projet",
+                      "abbreviation": "CEP400",
+                      "ecues": [
+                        {
+                          "label": "Conception, suivi et évaluation de projet",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Immersion en entreprise",
+                      "abbreviation": "IME400",
+                      "ecues": [
+                        {
+                          "label": "Immersion en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Production et technologie végétales",
+                      "abbreviation": "PTV400",
+                      "ecues": [
+                        {
+                          "label": "Physiologie des semences et de la germination",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Production hors sol des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Production végétale et agriculture biologique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génétique des populations et gestion des ressources phytogénétiques",
+                      "abbreviation": "GPP400",
+                      "ecues": [
+                        {
+                          "label": "Espèces et spéciation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Génétique des populations",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion des ressources phytogénétiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Régénération des espèces végétales",
+                      "abbreviation": "REV400",
+                      "ecues": [
+                        {
+                          "label": "Régénération par graines",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Régénération par extension végétative",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Régénération in vitro",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Phytopathologie",
+                      "abbreviation": "PTP400",
+                      "ecues": [
+                        {
+                          "label": "Maladies parasitaires",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Maladies non parasitaires",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Mathématiques",
+                  "abbreviation": "MATHS",
+                  "ues": [
+                    {
+                      "label": "Biostatistique",
+                      "abbreviation": "BIS400",
+                      "ecues": [
+                        {
+                          "label": "Analyse de variables multiples",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodes factorielles de réduction de données",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Techniques d'analyses biologiques",
+                      "abbreviation": "TAB400",
+                      "ecues": [
+                        {
+                          "label": "Techniques d'analyses biologiques",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Techniques d'analyse moléculaire",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Communication Scientifique",
+                      "abbreviation": "CSC400",
+                      "ecues": [
+                        {
+                          "label": "Rédaction scientifique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Vulgarisation et technique de communication avec les médias",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA400",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Economie",
+                  "abbreviation": "ECO",
+                  "ues": [
+                    {
+                      "label": "Agri-business",
+                      "abbreviation": "AGB400",
+                      "ecues": [
+                        {
+                          "label": "Formation en chaîne",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Etude des marchés et markéting",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Entreprenariat",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de la Terre",
+                  "abbreviation": "ST",
+                  "ues": [
+                    {
+                      "label": "Gestion de la fertilité des sols",
+                      "abbreviation": "GFS400",
+                      "ecues": [
+                        {
+                          "label": "Gestion des jachères et Agroforesterie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Aménagement et Irrigation",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Engrais verts et association légumineuses/plantes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Amélioration génétique des plantes",
+                      "abbreviation": "AGP500",
+                      "ecues": [
+                        {
+                          "label": "Génétique quantitative",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Sélection variétale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Biotechnologie et amélioration des plantes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Technologie post-récolte",
+                      "abbreviation": "TPR500",
+                      "ecues": [
+                        {
+                          "label": "Physiologie post-récolte",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pathologie post-récolte",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion post-récolte",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Séminaires et visites de terrain",
+                      "abbreviation": "SVT500",
+                      "ecues": [
+                        {
+                          "label": "Séminaires et visites de terrain",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage de fin de cycle (Mémoire)",
+                      "abbreviation": "SFC500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Culture in vitro et application en agriculture",
+                      "abbreviation": "CIV500",
+                      "ecues": [
+                        {
+                          "label": "Production en masse des végétaux",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Amélioration variétale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Assainissement des plantes et production de substances naturelles",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Physiopathologie végétale",
+                      "abbreviation": "PPV500",
+                      "ecues": [
+                        {
+                          "label": "Mode d'attaque des pathogènes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mécanismes de défense des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Effets des pathogènes sur les fonctions physiologiques de la plantes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Compétition et optimisation de la nutrition minérale et hydrique des plantes",
+                      "abbreviation": "ONM500",
+                      "ecues": [
+                        {
+                          "label": "Allélopathie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Symbiose mycorhizienne",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Ecophysiologie et stratégies d'adaptation",
+                      "abbreviation": "ESA500",
+                      "ecues": [
+                        {
+                          "label": "Stress abiotique et pathologie végétales de toxicité",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pathologies végétales de stress abiotique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mécanismes adaptatifs des plantes",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Technique d'expression anglaise",
+                      "abbreviation": "TEA500",
+                      "ecues": [
+                        {
+                          "label": "Technique d'expression anglaise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "BIOLOGIE ET SANTE",
+          "abbreviation": "BS",
+          "levels": [
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Neuromédiateurs et comportements fondamentaux",
+                      "abbreviation": "NCF500",
+                      "ecues": [
+                        {
+                          "label": "Neuromédiateur et système nerveux autonome",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Etude des comportements fondamentaux",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage en entreprise",
+                      "abbreviation": "SEE500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Vétérinaires",
+                  "abbreviation": "SC_VET",
+                  "ues": [
+                    {
+                      "label": "Pharmacologie infectieuse",
+                      "abbreviation": "PHI500",
+                      "ecues": [
+                        {
+                          "label": "Antimicrobiens",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Immunomodulation",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Pharmacologie du système cardiovasculaire",
+                      "abbreviation": "PSC500",
+                      "ecues": [
+                        {
+                          "label": "Pharmacologie du système cardiaque",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pharmacologie de l'hémostase",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Méthode de recherche en Pharmacologie et Phytothérapie",
+                      "abbreviation": "MRP500",
+                      "ecues": [
+                        {
+                          "label": "Méthodologie en pharmacologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Méthodologie en phytothérapie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Zootechnie",
+                  "abbreviation": "ZOOT",
+                  "ues": [
+                    {
+                      "label": "Physiologie de la reproduction",
+                      "abbreviation": "PHR500",
+                      "ecues": [
+                        {
+                          "label": "Fonctionnement des organes de reproduction et développement fœto-placentaire",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Mécanisme de contrôle des hormones de reproduction",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences Pharmaceutiques",
+                  "abbreviation": "SC_PHAR",
+                  "ues": [
+                    {
+                      "label": "Pharmacognosie",
+                      "abbreviation": "PHG500",
+                      "ecues": [
+                        {
+                          "label": "Pharmacognosie générale",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pharmacognosie spéciale 1",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Pharmacognosie spéciale 2",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Agriculture",
+                  "abbreviation": "AGRI",
+                  "ues": [
+                    {
+                      "label": "Formulation et production des médicaments traditionnels améliorés (MTA)",
+                      "abbreviation": "FPM500",
+                      "ecues": [
+                        {
+                          "label": "Biopharmacie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Management de la qualité",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Langues",
+                  "abbreviation": "LANG",
+                  "ues": [
+                    {
+                      "label": "Anglais de composition thématique",
+                      "abbreviation": "ANC500",
+                      "ecues": [
+                        {
+                          "label": "Anglais de composition thématique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "GENETIQUE ANIMALE",
+          "abbreviation": "GA",
+          "levels": [
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Génétique Quantitative",
+                      "abbreviation": "GEQ500",
+                      "ecues": [
+                        {
+                          "label": "Fondamentaux de la génétique quantitative",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse génétique des caractères quantitatifs",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génie Génétique",
+                      "abbreviation": "GEG500",
+                      "ecues": [
+                        {
+                          "label": "Les outils du génie génétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Les applications du génie génétique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Amélioration Génétique des Animaux",
+                      "abbreviation": "AGA500",
+                      "ecues": [
+                        {
+                          "label": "Amélioration génétique des animaux d'élevage",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion de la qualité des productions animales",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Bases génétiques de la Production Animale",
+                      "abbreviation": "BGA500",
+                      "ecues": [
+                        {
+                          "label": "Systèmes de production et biotechnologie de la reproduction",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Génétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Génétique et sélection des animaux domestiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Systématique et Evolution Animale",
+                      "abbreviation": "SEA500",
+                      "ecues": [
+                        {
+                          "label": "Systématique et évolution animale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Sciences de l'Environnement",
+                  "abbreviation": "ENV",
+                  "ues": [
+                    {
+                      "label": "Santé animale et environnement",
+                      "abbreviation": "SAE500",
+                      "ecues": [
+                        {
+                          "label": "Santé et pathologies des animaux d'élevage",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ecophysiologie",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Ecotoxicologie",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "AgroBusiness",
+                      "abbreviation": "AGB500",
+                      "ecues": [
+                        {
+                          "label": "Agrobusiness",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Entreprenariat et Leadership",
+                      "abbreviation": "ELS500",
+                      "ecues": [
+                        {
+                          "label": "Entreprenariat et leadership",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage de fin de cycle",
+                      "abbreviation": "SFC500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "GENETIQUE VEGETALE",
+          "abbreviation": "GV",
+          "levels": [
+            {
+              "label": "M2",
+              "disciplines": [
+                {
+                  "label": "Biologie",
+                  "abbreviation": "BIO",
+                  "ues": [
+                    {
+                      "label": "Génétique Quantitative",
+                      "abbreviation": "GEQ500",
+                      "ecues": [
+                        {
+                          "label": "Fondamentaux de la génétique quantitative",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Analyse génétique des caractères quantitatifs",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Génie Génétique",
+                      "abbreviation": "GEG500",
+                      "ecues": [
+                        {
+                          "label": "Les outils du génie génétique",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Les applications du génie génétique",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Amélioration Génétique des Plantes",
+                      "abbreviation": "AGP500",
+                      "ecues": [
+                        {
+                          "label": "Amélioration génétique des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Gestion de la qualité des productions végétales",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Amélioration Génétique de la Résistance des Plantes",
+                      "abbreviation": "AGR500",
+                      "ecues": [
+                        {
+                          "label": "Physiologie et mécanisme de défense des plantes",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Amélioration génétique de la résistance des plantes aux bio-agresseurs",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Amélioration génétique de la résistance des plantes aux facteurs abiotiques",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Systématique et Evolution Végétale",
+                      "abbreviation": "SEV500",
+                      "ecues": [
+                        {
+                          "label": "Systématique et évolution végétale",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Recherche",
+                  "abbreviation": "RECH",
+                  "ues": [
+                    {
+                      "label": "Phytotechnie Tropicale",
+                      "abbreviation": "PTT500",
+                      "ecues": [
+                        {
+                          "label": "Fondements de l'agriculture en régions tropicales",
+                          "type": "ECUE1"
+                        },
+                        {
+                          "label": "Perspectives d'amélioration des productions végétales en régions tropicales",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "AgroBusiness",
+                      "abbreviation": "AGB500",
+                      "ecues": [
+                        {
+                          "label": "Agrobusiness",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Entreprenariat et Leadership",
+                      "abbreviation": "ELS500",
+                      "ecues": [
+                        {
+                          "label": "Entreprenariat et leadership",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Stage de fin de cycle",
+                      "abbreviation": "SFC500",
+                      "ecues": [
+                        {
+                          "label": "Stage en entreprise",
+                          "type": "ECUE1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
